@@ -3,18 +3,19 @@
   "name": "TECNO MOBILE LIMITED TECNO LE7",
   "info": {
     "sdk": 30,
-    "battery": 66,
+    "battery": 65,
     "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-05-26T05:16:07.347Z",
-  "connectedAt": "2026-05-26T05:04:58.393Z",
+  "lastSeen": "2026-05-26T05:19:28.174Z",
+  "connectedAt": "2026-05-26T05:18:04.286Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": false,
-    "locked": false
+    "wallpaperSet": true,
+    "locked": false,
+    "audioPlaying": true
   },
   "online": false
 }
