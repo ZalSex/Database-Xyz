@@ -2,16 +2,14 @@
   "BP2A.250605.031.A3": {
     "id": "BP2A.250605.031.A3",
     "name": "Vivo V2424",
-    "socketId": "9fV0dgHFq_ChfRKoAAAN",
     "info": {
       "sdk": 36,
-      "battery": 74,
+      "battery": 73,
       "charging": false,
       "sim": "Unknown"
     },
+    "lastSeen": "2026-05-28T07:59:02.561Z",
     "connectedAt": "2026-05-28T07:55:02.321Z",
-    "lastSeen": "2026-05-28T07:55:02.321Z",
-    "ownerUid": null,
     "status": {
       "flashlight": false,
       "cameraActive": false,
@@ -20,6 +18,7 @@
       "locked": false,
       "appHidden": false
     },
-    "online": true
+    "ownerUid": null,
+    "online": false
   }
 }
