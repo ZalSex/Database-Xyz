@@ -2,24 +2,24 @@
   "RP1A.200720.011": {
     "id": "RP1A.200720.011",
     "name": "TECNO MOBILE LIMITED TECNO LE7",
-    "socketId": "fX7ybs-QtDf0fVGMAAAI",
     "info": {
       "sdk": 30,
-      "battery": 42,
+      "battery": 41,
       "charging": false,
       "sim": "XL Axiata"
     },
+    "lastSeen": "2026-05-28T12:23:19.780Z",
     "connectedAt": "2026-05-28T12:18:08.918Z",
-    "lastSeen": "2026-05-28T12:18:08.918Z",
-    "ownerUid": null,
     "status": {
       "flashlight": false,
       "cameraActive": false,
       "videoPlaying": false,
       "wallpaperSet": false,
       "locked": false,
-      "appHidden": false
+      "appHidden": false,
+      "spamDialog": false
     },
-    "online": true
+    "ownerUid": null,
+    "online": false
   }
 }
