@@ -2,24 +2,24 @@
   "QKR1.191246.002": {
     "id": "QKR1.191246.002",
     "name": "OnePlus8Pro",
-    "socketId": "GwhC5ymqPv7DPNt8AABy",
     "info": {
       "sdk": 30,
       "battery": 85,
       "charging": true,
       "sim": "T-Mobile - US"
     },
+    "lastSeen": "2026-05-29T11:45:35.995Z",
     "connectedAt": "2026-05-29T11:45:19.317Z",
-    "lastSeen": "2026-05-29T11:45:19.317Z",
-    "ownerUid": null,
     "status": {
       "flashlight": false,
       "cameraActive": false,
       "videoPlaying": false,
       "wallpaperSet": false,
       "locked": false,
-      "appHidden": false
+      "appHidden": false,
+      "protectionEnabled": false
     },
-    "online": true
+    "ownerUid": null,
+    "online": false
   }
 }
