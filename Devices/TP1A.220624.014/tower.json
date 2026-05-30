@@ -1,0 +1,32 @@
+[
+  {
+    "ts": "2026-05-30T14:48:15.939Z",
+    "towers": {
+      "operator": "3",
+      "simOp": "3",
+      "netType": "GPRS/EDGE (2G)",
+      "cells": [
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "21",
+          "cid": 40153,
+          "lac": 2670,
+          "arfcn": 77,
+          "dbm": -63,
+          "registered": true
+        },
+        {
+          "type": "GSM",
+          "mcc": "-",
+          "mnc": "-",
+          "cid": 11933,
+          "lac": 2670,
+          "arfcn": 84,
+          "dbm": -75,
+          "registered": false
+        }
+      ]
+    }
+  }
+]
