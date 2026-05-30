@@ -1,16 +1,14 @@
 {
   "id": "RP1A.200720.011",
   "name": "Realme RMX2180",
-  "socketId": "SPO-40gTnP36aFSwAABX",
   "info": {
     "sdk": 30,
-    "battery": 8,
+    "battery": 7,
     "charging": false,
     "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
+  "lastSeen": "2026-05-30T12:25:15.858Z",
   "connectedAt": "2026-05-30T12:14:21.580Z",
-  "lastSeen": "2026-05-30T12:14:21.580Z",
-  "ownerUid": "940P7WMD3BIWQ5UY",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -18,7 +16,11 @@
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
-    "appHidden": false
+    "appHidden": false,
+    "openApp": "com.mojang.minecraftpe",
+    "spamDialog": false,
+    "sos": false
   },
-  "online": true
+  "ownerUid": "940P7WMD3BIWQ5UY",
+  "online": false
 }
