@@ -1,14 +1,16 @@
 {
   "id": "AP3A.240905.015.A2",
   "name": "Vivo V2310",
+  "socketId": "DJ3gu-PJNJO01Hh5AAB0",
   "info": {
     "sdk": 35,
-    "battery": 27,
+    "battery": 26,
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-05-30T13:35:12.371Z",
-  "connectedAt": "2026-05-30T13:24:18.092Z",
+  "connectedAt": "2026-05-30T13:35:52.602Z",
+  "lastSeen": "2026-05-30T13:35:52.602Z",
+  "ownerUid": "VGQ8FBZIZ29SM8H6",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -16,16 +18,7 @@
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
-    "appHidden": false,
-    "screenSharing": false,
-    "brightness": 100,
-    "volume_media": 50,
-    "volume_alarm": 50,
-    "volume_call": 50,
-    "volume_ring": 50,
-    "volume_notif": 50,
-    "screenText": false
+    "appHidden": false
   },
-  "ownerUid": "VGQ8FBZIZ29SM8H6",
-  "online": false
+  "online": true
 }
