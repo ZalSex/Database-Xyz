@@ -1,16 +1,14 @@
 {
   "id": "AP3A.240905.015.A2",
   "name": "Xiaomi 24117RN76O",
-  "socketId": "FYBkTssRPLrqCOyQAAJL",
   "info": {
     "sdk": 35,
-    "battery": 24,
+    "battery": 18,
     "charging": false,
-    "sim": "INDOSATOOREDOO"
+    "sim": "Unknown"
   },
+  "lastSeen": "2026-05-30T14:18:01.408Z",
   "connectedAt": "2026-05-30T14:17:17.000Z",
-  "lastSeen": "2026-05-30T14:17:17.000Z",
-  "ownerUid": "Q4LYZAO4EGK442AO",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,5 +18,6 @@
     "lockedV2": false,
     "appHidden": false
   },
-  "online": true
+  "ownerUid": "Q4LYZAO4EGK442AO",
+  "online": false
 }
