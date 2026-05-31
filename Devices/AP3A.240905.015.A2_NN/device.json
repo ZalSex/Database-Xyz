@@ -1,25 +1,25 @@
 {
   "id": "AP3A.240905.015.A2_NN",
   "name": "Vivo V2507",
-  "socketId": "4WQwX2FAXG1Sz-mxAADW",
   "info": {
     "sdk": 35,
     "battery": 32,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-05-31T07:15:19.680Z",
   "connectedAt": "2026-05-31T07:13:59.723Z",
-  "lastSeen": "2026-05-31T07:13:59.723Z",
-  "ownerUid": "XN32O53IR2TNUKTT",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false
+    "appHidden": false,
+    "protectionEnabled": true
   },
-  "online": true
+  "ownerUid": "XN32O53IR2TNUKTT",
+  "online": false
 }
