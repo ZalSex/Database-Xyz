@@ -1,16 +1,14 @@
 {
   "id": "RKQ1.200903.002",
   "name": "OPPO CPH2059",
-  "socketId": "OwFN543yL8IfVV5xAAAL",
   "info": {
     "sdk": 30,
-    "battery": 1,
+    "battery": 6,
     "charging": true,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-05-31T06:47:28.370Z",
   "connectedAt": "2026-05-31T06:24:54.614Z",
-  "lastSeen": "2026-05-31T06:24:54.614Z",
-  "ownerUid": "NOICGVAT6C1I0S0C",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -19,7 +17,11 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false
+    "appHidden": false,
+    "protectionEnabled": true,
+    "spamDialog": false,
+    "brightness": 36
   },
-  "online": true
+  "ownerUid": "NOICGVAT6C1I0S0C",
+  "online": false
 }
