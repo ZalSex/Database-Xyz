@@ -1,30 +1,25 @@
 {
   "id": "O11019",
   "name": "vivo 1820",
+  "socketId": "-6Pl3UTPx-XEuKiAAAHi",
   "info": {
     "sdk": 27,
     "battery": 22,
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-05-31T08:02:39.955Z",
-  "connectedAt": "2026-05-31T07:58:59.523Z",
+  "connectedAt": "2026-05-31T08:02:43.120Z",
+  "lastSeen": "2026-05-31T08:02:43.120Z",
+  "ownerUid": "16NTWSI1I20J967P",
   "status": {
     "flashlight": false,
-    "cameraActive": true,
+    "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": true,
-    "brightness": 100,
-    "volume_media": 100,
-    "volume_ring": 100,
-    "volume_alarm": 100,
-    "volume_call": 100,
-    "volume_notif": 100
+    "appHidden": false
   },
-  "ownerUid": "16NTWSI1I20J967P",
-  "online": false
+  "online": true
 }
