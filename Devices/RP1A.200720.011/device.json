@@ -1,14 +1,16 @@
 {
   "id": "RP1A.200720.011",
   "name": "Realme RMX2180",
+  "socketId": "eSnobGu3PP7pewwPAAE7",
   "info": {
     "sdk": 30,
-    "battery": 87,
+    "battery": 86,
     "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-05-31T14:34:02.761Z",
-  "connectedAt": "2026-05-31T14:31:48.798Z",
+  "connectedAt": "2026-05-31T14:36:56.744Z",
+  "lastSeen": "2026-05-31T14:36:56.744Z",
+  "ownerUid": "990M6IWAV76IUH3Y",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -17,10 +19,7 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
-    "spamDialog": false,
-    "protectionEnabled": true
+    "appHidden": false
   },
-  "ownerUid": "990M6IWAV76IUH3Y",
-  "online": false
+  "online": true
 }
