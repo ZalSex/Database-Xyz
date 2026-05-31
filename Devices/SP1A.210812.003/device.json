@@ -1,18 +1,16 @@
 {
   "id": "SP1A.210812.003",
   "name": "Vivo V2022",
-  "socketId": "II9kNhNIdeHfO6njAAGa",
   "info": {
     "sdk": 31,
     "battery": 70,
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-05-31T15:00:15.384Z",
   "connectedAt": "2026-05-31T14:58:47.482Z",
-  "lastSeen": "2026-05-31T14:58:47.482Z",
-  "ownerUid": "VGQ8FBZIZ29SM8H6",
   "status": {
-    "flashlight": false,
+    "flashlight": true,
     "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
@@ -21,5 +19,6 @@
     "lockedChat": false,
     "appHidden": false
   },
-  "online": true
+  "ownerUid": "VGQ8FBZIZ29SM8H6",
+  "online": false
 }
