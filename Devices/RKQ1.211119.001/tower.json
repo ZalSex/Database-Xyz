@@ -1,0 +1,72 @@
+[
+  {
+    "ts": "2026-05-31T03:16:54.904Z",
+    "towers": {
+      "operator": "",
+      "simOp": "",
+      "netType": "Unknown",
+      "cells": [
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "10",
+          "cid": 30234,
+          "lac": 18877,
+          "arfcn": 778,
+          "dbm": -71,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "10",
+          "cid": 30231,
+          "lac": 18877,
+          "arfcn": 2,
+          "dbm": -87,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "10",
+          "cid": 64231,
+          "lac": 18877,
+          "arfcn": 9,
+          "dbm": -105,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "10",
+          "cid": 30233,
+          "lac": 18877,
+          "arfcn": 7,
+          "dbm": -103,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "10",
+          "cid": 64236,
+          "lac": 18877,
+          "arfcn": 775,
+          "dbm": -107,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "10",
+          "cid": 30236,
+          "lac": 18877,
+          "arfcn": 780,
+          "dbm": -105,
+          "registered": false
+        }
+      ]
+    }
+  }
+]
