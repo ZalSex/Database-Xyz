@@ -77,5 +77,84 @@
       }
     ],
     "count": 7
+  },
+  {
+    "ts": "2026-05-31T23:05:09.932Z",
+    "active": {
+      "currentSsid": "Arka & Riski",
+      "currentBssid": "ec:e7:a2:48:d8:e8",
+      "ipAddress": "192.168.1.11",
+      "linkSpeed": "52 Mbps",
+      "rssi": -70,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-06-01 07:05:09"
+    },
+    "savedNets": [
+      {
+        "ssid": "BIRUMUDA4G",
+        "bssid": "1c:61:d2:e4:2b:70",
+        "level": -63,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Strawberry ",
+        "bssid": "cc:ba:bd:67:b0:b0",
+        "level": -67,
+        "security": "WPA2",
+        "frequency": 2417,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Arka & Riski",
+        "bssid": "ec:e7:a2:48:d8:e8",
+        "level": -70,
+        "security": "WPA2",
+        "frequency": 2462,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "1c:61:d2:e4:2b:7a",
+        "level": -75,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "BIRUMUDA5G",
+        "bssid": "1c:61:d2:e4:2b:79",
+        "level": -75,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "BIRUMUDA4G",
+        "bssid": "1c:61:d2:e4:2b:78",
+        "level": -75,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "ARA_NET",
+        "bssid": "9c:ce:88:49:d5:52",
+        "level": -84,
+        "security": "Open",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 7
   }
 ]
