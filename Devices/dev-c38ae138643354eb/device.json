@@ -1,16 +1,14 @@
 {
   "id": "dev-c38ae138643354eb",
   "name": "Realme RMX3760",
-  "socketId": "XHU_ra3pZiZFJ_gHAADR",
   "info": {
     "sdk": 35,
     "battery": 97,
     "charging": false,
     "sim": "TELKOMSEL"
   },
+  "lastSeen": "2026-05-31T23:06:15.435Z",
   "connectedAt": "2026-05-31T23:05:39.165Z",
-  "lastSeen": "2026-05-31T23:05:39.165Z",
-  "ownerUid": "VDTS0MEOI93BQY8E",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -19,7 +17,9 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false
+    "appHidden": false,
+    "protectionEnabled": true
   },
-  "online": true
+  "ownerUid": "VDTS0MEOI93BQY8E",
+  "online": false
 }
