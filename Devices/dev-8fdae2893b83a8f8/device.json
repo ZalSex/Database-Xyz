@@ -1,16 +1,14 @@
 {
   "id": "dev-8fdae2893b83a8f8",
   "name": "OPPO CPH1901",
-  "socketId": "X7pR9ClyOh_cwzF-AAK8",
   "info": {
     "sdk": 27,
-    "battery": 41,
+    "battery": 42,
     "charging": true,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-01T08:48:10.981Z",
   "connectedAt": "2026-06-01T08:44:59.901Z",
-  "lastSeen": "2026-06-01T08:44:59.901Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -21,5 +19,6 @@
     "lockedChat": false,
     "appHidden": false
   },
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
