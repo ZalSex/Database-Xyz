@@ -1,25 +1,25 @@
 {
   "id": "RKQ1.211119.001",
   "name": "OPPO CPH2127",
-  "socketId": "cJO8d-oo7ZBgHKnsAABA",
   "info": {
     "sdk": 31,
     "battery": 88,
     "charging": false,
     "sim": "No SIM"
   },
+  "lastSeen": "2026-06-01T10:51:08.148Z",
   "connectedAt": "2026-06-01T10:50:52.684Z",
-  "lastSeen": "2026-06-01T10:50:52.684Z",
-  "ownerUid": "VDTS0MEOI93BQY8E",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
-    "lockedV2": false,
+    "lockedV2": true,
     "lockedChat": false,
-    "appHidden": false
+    "appHidden": false,
+    "protectionEnabled": true
   },
-  "online": true
+  "ownerUid": "VDTS0MEOI93BQY8E",
+  "online": false
 }
