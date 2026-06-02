@@ -1,16 +1,14 @@
 {
   "id": "dev-d3234e00a5576306",
   "name": "Vivo V2556",
-  "socketId": "pnRzheCRbTQ1LjwyAAH_",
   "info": {
     "sdk": 36,
     "battery": 51,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-06-02T09:11:51.134Z",
   "connectedAt": "2026-06-02T09:08:33.459Z",
-  "lastSeen": "2026-06-02T09:08:33.459Z",
-  "ownerUid": "CJ3XEX46ML6UDMB2",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -19,7 +17,9 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false
+    "appHidden": false,
+    "protectionEnabled": true
   },
-  "online": true
+  "ownerUid": "CJ3XEX46ML6UDMB2",
+  "online": false
 }
