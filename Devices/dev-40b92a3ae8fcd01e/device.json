@@ -1,25 +1,33 @@
 {
   "id": "dev-40b92a3ae8fcd01e",
   "name": "Infinix X6531B",
-  "socketId": "FdDUeGR0QYUETd49AAgl",
   "info": {
     "sdk": 34,
-    "battery": 17,
+    "battery": 43,
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
+  "lastSeen": "2026-06-02T21:58:32.021Z",
   "connectedAt": "2026-06-02T19:17:29.688Z",
-  "lastSeen": "2026-06-02T19:17:29.688Z",
-  "ownerUid": "OVXLPZBYK4Z4ZFMA",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": false,
+    "wallpaperSet": true,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false
+    "appHidden": false,
+    "protectionEnabled": true,
+    "spamDialog": false,
+    "screenSharing": false,
+    "brightness": 100,
+    "volume_media": 100,
+    "volume_ring": 100,
+    "volume_call": 100,
+    "volume_alarm": 100,
+    "volume_notif": 100
   },
-  "online": true
+  "ownerUid": "OVXLPZBYK4Z4ZFMA",
+  "online": false
 }
