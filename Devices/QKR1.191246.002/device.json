@@ -1,16 +1,14 @@
 {
   "id": "QKR1.191246.002",
   "name": "OnePlus8Pro",
-  "socketId": "o_hAqGCP2vljSZVNAAaK",
   "info": {
     "sdk": 30,
     "battery": 85,
     "charging": true,
     "sim": "AT&T"
   },
+  "lastSeen": "2026-06-02T16:09:40.350Z",
   "connectedAt": "2026-06-02T16:09:25.096Z",
-  "lastSeen": "2026-06-02T16:09:25.096Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -21,5 +19,6 @@
     "lockedChat": false,
     "appHidden": false
   },
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
