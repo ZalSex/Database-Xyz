@@ -1,0 +1,77 @@
+[
+  {
+    "ts": "2026-06-03T07:45:09.784Z",
+    "towers": {
+      "operator": "U Mobile",
+      "simOp": "U MOBILE",
+      "netType": "LTE (4G)",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "502",
+          "mnc": "18",
+          "ci": 207507713,
+          "pci": 312,
+          "tac": 1024,
+          "earfcn": 1475,
+          "rsrp": -110,
+          "rsrq": -20,
+          "dbm": -110,
+          "registered": true
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 2147483647,
+          "pci": 314,
+          "tac": 2147483647,
+          "earfcn": 1475,
+          "rsrp": -109,
+          "rsrq": -18,
+          "dbm": -109,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 2147483647,
+          "pci": 313,
+          "tac": 2147483647,
+          "earfcn": 1475,
+          "rsrp": -112,
+          "rsrq": -20,
+          "dbm": -112,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 2147483647,
+          "pci": 314,
+          "tac": 2147483647,
+          "earfcn": 75,
+          "rsrp": -108,
+          "rsrq": -8,
+          "dbm": -108,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 2147483647,
+          "pci": 312,
+          "tac": 2147483647,
+          "earfcn": 75,
+          "rsrp": -117,
+          "rsrq": -18,
+          "dbm": -117,
+          "registered": false
+        }
+      ]
+    }
+  }
+]
