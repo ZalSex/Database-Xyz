@@ -24,5 +24,38 @@
         "frequency": 2437
       }
     ]
+  },
+  {
+    "ts": "2026-06-03T07:46:43.104Z",
+    "list": [
+      {
+        "ssid": "Redmi 12C",
+        "bssid": "22:b0:00:1e:5a:ad",
+        "level": -19,
+        "security": "WPA2",
+        "frequency": 2412
+      },
+      {
+        "ssid": "4G CPE D439",
+        "bssid": "3a:1c:23:07:d4:39",
+        "level": -66,
+        "security": "WPA2",
+        "frequency": 2437
+      },
+      {
+        "ssid": "AZRIYI_2.4GHz",
+        "bssid": "32:f9:47:14:18:9c",
+        "level": -90,
+        "security": "WPA2",
+        "frequency": 2412
+      },
+      {
+        "ssid": "Ceng_5G",
+        "bssid": "32:f9:47:91:17:0a",
+        "level": -95,
+        "security": "WPA2",
+        "frequency": 5220
+      }
+    ]
   }
 ]
