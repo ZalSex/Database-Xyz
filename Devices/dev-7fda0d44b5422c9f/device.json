@@ -1,16 +1,14 @@
 {
   "id": "dev-7fda0d44b5422c9f",
   "name": "Vivo V2440",
-  "socketId": "HYcjCmGu5oJ8wGllAADQ",
   "info": {
     "sdk": 35,
     "battery": 45,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-06-03T05:23:50.615Z",
   "connectedAt": "2026-06-03T05:21:25.525Z",
-  "lastSeen": "2026-06-03T05:21:25.525Z",
-  "ownerUid": "VDTS0MEOI93BQY8E",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,7 +18,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true
   },
-  "online": true
+  "ownerUid": "VDTS0MEOI93BQY8E",
+  "online": false
 }
