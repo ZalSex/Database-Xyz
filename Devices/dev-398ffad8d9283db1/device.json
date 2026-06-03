@@ -1,16 +1,18 @@
 {
   "id": "dev-398ffad8d9283db1",
   "name": "Xiaomi 2201117TG",
+  "socketId": "hujwYYfnyrRKwm1DAADA",
   "info": {
     "sdk": 30,
     "manufacturer": "Xiaomi",
     "model": "2201117TG",
-    "battery": 62,
+    "battery": 60,
     "charging": false,
     "sim": "U Mobile"
   },
-  "lastSeen": "2026-06-03T05:09:53.485Z",
-  "connectedAt": "2026-06-03T05:07:02.085Z",
+  "connectedAt": "2026-06-03T05:16:10.322Z",
+  "lastSeen": "2026-06-03T05:16:10.322Z",
+  "ownerUid": "JFO7UQM6N0C53HKB",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,10 +22,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "sos": false
+    "activeTheme": "default"
   },
-  "ownerUid": "JFO7UQM6N0C53HKB",
-  "online": false
+  "online": true
 }
