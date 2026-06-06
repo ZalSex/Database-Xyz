@@ -1,18 +1,16 @@
 {
   "id": "dev-dc2722cbe6279cb8",
   "name": "OPPO CPH2631",
-  "socketId": "TDNu7I9jHCM0ICimAAJg",
   "info": {
     "sdk": 34,
     "manufacturer": "OPPO",
     "model": "CPH2631",
-    "battery": 43,
+    "battery": 44,
     "charging": true,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-06T08:31:37.215Z",
   "connectedAt": "2026-06-06T08:29:12.039Z",
-  "lastSeen": "2026-06-06T08:29:12.039Z",
-  "ownerUid": "BH7TXYEKC8IWNCDA",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "BH7TXYEKC8IWNCDA",
+  "online": false
 }
