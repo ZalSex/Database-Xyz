@@ -1,18 +1,16 @@
 {
   "id": "dev-a2961a7da560ba2b",
   "name": "Vivo V2109",
-  "socketId": "_zJpKl1wQbVqBjO_AAHe",
   "info": {
     "sdk": 33,
     "manufacturer": "vivo",
     "model": "V2109",
-    "battery": 81,
+    "battery": 80,
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
+  "lastSeen": "2026-06-06T07:10:01.452Z",
   "connectedAt": "2026-06-06T07:06:47.613Z",
-  "lastSeen": "2026-06-06T07:06:47.613Z",
-  "ownerUid": "F2HHWGT3YASZ3PAQ",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true
   },
-  "online": true
+  "ownerUid": "F2HHWGT3YASZ3PAQ",
+  "online": false
 }
