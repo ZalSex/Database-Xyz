@@ -1,0 +1,38 @@
+[
+  {
+    "ts": "2026-06-11T15:23:09.155Z",
+    "towers": {
+      "operator": "INDOSATOOREDOO",
+      "simOp": "Indosat Ooredoo",
+      "netType": "LTE (4G)",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "01",
+          "ci": 79473343,
+          "pci": 174,
+          "tac": 32404,
+          "earfcn": 1625,
+          "rsrp": -103,
+          "rsrq": -17,
+          "dbm": -103,
+          "registered": true
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 174,
+          "tac": 65535,
+          "earfcn": 1475,
+          "rsrp": -104,
+          "rsrq": -11,
+          "dbm": -104,
+          "registered": false
+        }
+      ]
+    }
+  }
+]
