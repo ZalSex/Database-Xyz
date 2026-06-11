@@ -1,18 +1,16 @@
 {
   "id": "dev-8df482991c7b2489",
   "name": "OPPO CPH2145",
-  "socketId": "d1cBqrAQXycz4jecAAE9",
   "info": {
     "sdk": 33,
     "manufacturer": "OPPO",
     "model": "CPH2145",
-    "battery": 100,
+    "battery": 98,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-06-11T17:21:29.896Z",
   "connectedAt": "2026-06-11T16:48:19.312Z",
-  "lastSeen": "2026-06-11T16:48:19.312Z",
-  "ownerUid": "7GYFOM33C4OZR5WS",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "7GYFOM33C4OZR5WS",
+  "online": false
 }
