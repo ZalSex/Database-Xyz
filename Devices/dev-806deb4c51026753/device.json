@@ -1,18 +1,16 @@
 {
   "id": "dev-806deb4c51026753",
   "name": "Samsung SM-A525F",
-  "socketId": "_1zAoZOLLkEFiL4XAAEa",
   "info": {
     "sdk": 34,
     "manufacturer": "samsung",
     "model": "SM-A525F",
-    "battery": 65,
+    "battery": 62,
     "charging": false,
     "sim": "XL"
   },
+  "lastSeen": "2026-06-11T16:48:08.796Z",
   "connectedAt": "2026-06-11T16:32:02.899Z",
-  "lastSeen": "2026-06-11T16:32:02.899Z",
-  "ownerUid": "DIW6LMHI35WE85SV",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,15 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": false,
+    "spamDialog": false,
+    "screenText": false,
+    "videoError": "playback_failed",
+    "brightness": 31,
+    "screenSharing": false,
+    "openAppError": "app_not_found"
   },
-  "online": true
+  "ownerUid": "DIW6LMHI35WE85SV",
+  "online": false
 }
