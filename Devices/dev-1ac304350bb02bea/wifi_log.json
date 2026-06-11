@@ -1,0 +1,27 @@
+[
+  {
+    "ts": "2026-06-11T15:23:29.827Z",
+    "active": {
+      "currentSsid": "<unknown ssid>",
+      "currentBssid": "",
+      "ipAddress": "0.0.0.0",
+      "linkSpeed": "-1 Mbps",
+      "rssi": -127,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": false,
+      "ts": "2026-06-11 22:23:28"
+    },
+    "savedNets": [
+      {
+        "ssid": "Lantai 1",
+        "bssid": "ec:08:6b:53:d0:ec",
+        "level": -65,
+        "security": "WPA2",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 1
+  }
+]
