@@ -1,18 +1,16 @@
 {
   "id": "dev-720bffdc6b9144fb",
   "name": "Xiaomi 220233L2G",
-  "socketId": "Ot-8yVGfmuXkCAB2AAC5",
   "info": {
     "sdk": 30,
     "manufacturer": "Xiaomi",
     "model": "220233L2G",
-    "battery": 90,
+    "battery": 84,
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-06-11T01:54:35.793Z",
   "connectedAt": "2026-06-11T01:22:42.747Z",
-  "lastSeen": "2026-06-11T01:22:42.747Z",
-  "ownerUid": "16NTWSI1I20J967P",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,15 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "brightness": 100,
+    "volume_media": 0,
+    "volume_alarm": 50,
+    "volume_ring": 50,
+    "volume_call": 50,
+    "volume_notif": 50
   },
-  "online": true
+  "ownerUid": "16NTWSI1I20J967P",
+  "online": false
 }
