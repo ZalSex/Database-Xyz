@@ -1,16 +1,18 @@
 {
   "id": "dev-9e52093fdbcd5b37",
   "name": "TECNO MOBILE LIMITED TECNO LE7",
+  "socketId": "xVwly2FQnIp2JeQBAAAF",
   "info": {
     "sdk": 30,
     "manufacturer": "TECNO MOBILE LIMITED",
     "model": "TECNO LE7",
-    "battery": 71,
+    "battery": 70,
     "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-06-11T08:14:41.046Z",
-  "connectedAt": "2026-06-11T08:03:11.029Z",
+  "connectedAt": "2026-06-11T08:21:19.785Z",
+  "lastSeen": "2026-06-11T08:21:19.785Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,13 +22,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "wallpaperError": "failed to connect to zalryuichi.panelkuy.my.id/152.42.198.185 (port 2010) from /192.168.1.7 (port 59544) after 15000ms",
-    "audioPlaying": true,
-    "floatPhotosActive": false
+    "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "online": true
 }
