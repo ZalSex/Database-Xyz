@@ -1,18 +1,16 @@
 {
   "id": "dev-398ffad8d9283db1",
   "name": "Xiaomi 2201117TG",
-  "socketId": "V8C0UFdDNCwoeZWvAAaH",
   "info": {
     "sdk": 30,
     "manufacturer": "Xiaomi",
     "model": "2201117TG",
-    "battery": 61,
+    "battery": 60,
     "charging": false,
     "sim": "No SIM"
   },
+  "lastSeen": "2026-06-12T14:18:17.893Z",
   "connectedAt": "2026-06-12T13:29:00.544Z",
-  "lastSeen": "2026-06-12T13:29:00.544Z",
-  "ownerUid": "JFO7UQM6N0C53HKB",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "JFO7UQM6N0C53HKB",
+  "online": false
 }
