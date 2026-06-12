@@ -1,18 +1,16 @@
 {
   "id": "dev-e2071210f710bd88",
   "name": "Realme RMX2180",
-  "socketId": "m5MPp6Ni-thLtUZtAAoO",
   "info": {
     "sdk": 30,
     "manufacturer": "realme",
     "model": "RMX2180",
     "battery": 100,
-    "charging": true,
+    "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-12T17:06:23.180Z",
   "connectedAt": "2026-06-12T17:05:51.315Z",
-  "lastSeen": "2026-06-12T17:05:51.315Z",
-  "ownerUid": "XNGWTCRJK0Q4JKLV",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "XNGWTCRJK0Q4JKLV",
+  "online": false
 }
