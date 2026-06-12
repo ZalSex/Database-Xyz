@@ -1,6 +1,7 @@
 {
   "id": "dev-398ffad8d9283db1",
   "name": "Xiaomi 2201117TG",
+  "socketId": "ZY2EKlQ4LT24WSlGAAOY",
   "info": {
     "sdk": 30,
     "manufacturer": "Xiaomi",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-06-12T03:57:47.353Z",
-  "connectedAt": "2026-06-12T03:57:23.564Z",
+  "connectedAt": "2026-06-12T03:58:28.433Z",
+  "lastSeen": "2026-06-12T03:58:28.433Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,10 +22,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "online": true
 }
