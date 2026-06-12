@@ -1,7 +1,6 @@
 {
   "id": "dev-10a485e4328872ef",
   "name": "Infinix X6886",
-  "socketId": "SlX79gyGOualNwoIAAdp",
   "info": {
     "sdk": 35,
     "manufacturer": "INFINIX",
@@ -10,9 +9,8 @@
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-12T14:26:30.937Z",
   "connectedAt": "2026-06-12T14:25:18.044Z",
-  "lastSeen": "2026-06-12T14:25:18.044Z",
-  "ownerUid": "XN32O53IR2TNUKTT",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true
   },
-  "online": true
+  "ownerUid": "XN32O53IR2TNUKTT",
+  "online": false
 }
