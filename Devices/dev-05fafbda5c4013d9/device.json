@@ -1,6 +1,7 @@
 {
   "id": "dev-05fafbda5c4013d9",
   "name": "Vivo V2022",
+  "socketId": "imEZn1KoznhEIGQqAAu6",
   "info": {
     "sdk": 31,
     "manufacturer": "vivo",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "TELKOMSEL"
   },
-  "lastSeen": "2026-06-13T04:23:02.773Z",
-  "connectedAt": "2026-06-13T04:20:30.098Z",
+  "connectedAt": "2026-06-13T04:23:40.041Z",
+  "lastSeen": "2026-06-13T04:23:40.041Z",
+  "ownerUid": "VGQ8FBZIZ29SM8H6",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,10 +22,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": "VGQ8FBZIZ29SM8H6",
-  "online": false
+  "online": true
 }
