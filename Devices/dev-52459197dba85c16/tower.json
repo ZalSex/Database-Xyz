@@ -1,0 +1,48 @@
+[
+  {
+    "ts": "2026-06-14T11:08:24.243Z",
+    "towers": {
+      "operator": "",
+      "simOp": "",
+      "netType": "LTE (4G)",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "10",
+          "ci": 202230819,
+          "pci": 218,
+          "tac": 5490,
+          "earfcn": 38948,
+          "rsrp": -112,
+          "rsrq": -9,
+          "dbm": -112,
+          "registered": true
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 2147483647,
+          "pci": 16,
+          "tac": 2147483647,
+          "earfcn": 38948,
+          "rsrp": -125,
+          "rsrq": -24,
+          "dbm": -125,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "10",
+          "cid": 64646,
+          "lac": 11073,
+          "arfcn": 780,
+          "dbm": -95,
+          "registered": true
+        }
+      ]
+    }
+  }
+]
