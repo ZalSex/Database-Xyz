@@ -1,18 +1,16 @@
 {
   "id": "dev-6c80a20a0d9b949b",
   "name": "vivo 1910",
-  "socketId": "POS1bSMeIIGj_4Y8AANw",
   "info": {
     "sdk": 31,
     "manufacturer": "vivo",
     "model": "vivo 1910",
-    "battery": 38,
+    "battery": 36,
     "charging": false,
     "sim": "TELKOMSEL"
   },
+  "lastSeen": "2026-06-14T10:36:54.692Z",
   "connectedAt": "2026-06-14T10:34:07.498Z",
-  "lastSeen": "2026-06-14T10:34:07.498Z",
-  "ownerUid": "QN9RL7G9W67SD187",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "QN9RL7G9W67SD187",
+  "online": false
 }
