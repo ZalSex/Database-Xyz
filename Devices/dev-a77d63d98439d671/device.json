@@ -1,6 +1,7 @@
 {
   "id": "dev-a77d63d98439d671",
   "name": "Infinix X6725",
+  "socketId": "vzgsH7CD9i5q9zVWAAfF",
   "info": {
     "sdk": 35,
     "manufacturer": "INFINIX",
@@ -9,22 +10,19 @@
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-06-14T15:09:49.452Z",
-  "connectedAt": "2026-06-14T15:03:54.780Z",
+  "connectedAt": "2026-06-14T15:10:23.450Z",
+  "lastSeen": "2026-06-14T15:10:23.450Z",
+  "ownerUid": "ZKKKGUA1I1KI4VKT",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
-    "locked": true,
-    "lockedV2": true,
-    "lockedChat": true,
-    "appHidden": true,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "sos": true
+    "locked": false,
+    "lockedV2": false,
+    "lockedChat": false,
+    "appHidden": false,
+    "activeTheme": "default"
   },
-  "ownerUid": "ZKKKGUA1I1KI4VKT",
-  "online": false
+  "online": true
 }
