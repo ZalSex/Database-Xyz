@@ -1,6 +1,7 @@
 {
   "id": "dev-c8a629053bb1c994",
   "name": "OPPO CPH2113",
+  "socketId": "M-aqzCzNkeAo5Fz7AAol",
   "info": {
     "sdk": 31,
     "manufacturer": "OPPO",
@@ -9,21 +10,19 @@
     "charging": true,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-06-14T17:38:22.162Z",
-  "connectedAt": "2026-06-14T16:56:05.911Z",
+  "connectedAt": "2026-06-14T17:38:56.460Z",
+  "lastSeen": "2026-06-14T17:38:56.460Z",
+  "ownerUid": "L7CQMECTS2ZTSUS1",
   "status": {
     "flashlight": false,
-    "cameraActive": true,
+    "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": "L7CQMECTS2ZTSUS1",
-  "online": false
+  "online": true
 }
