@@ -1,18 +1,16 @@
 {
   "id": "dev-c7132f230a0fb90d",
   "name": "Samsung SM-A107F",
-  "socketId": "ZJmzPUWdW868fSKKAABc",
   "info": {
     "sdk": 30,
     "manufacturer": "samsung",
     "model": "SM-A107F",
-    "battery": 99,
+    "battery": 92,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-06-14T00:55:04.330Z",
   "connectedAt": "2026-06-14T00:26:20.124Z",
-  "lastSeen": "2026-06-14T00:26:20.124Z",
-  "ownerUid": "F2HHWGT3YASZ3PAQ",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "F2HHWGT3YASZ3PAQ",
+  "online": false
 }
