@@ -1,18 +1,16 @@
 {
   "id": "dev-7f76dd989a697e42",
   "name": "TECNO KL4",
-  "socketId": "q7Oj0ljRB8Q4labWAAdK",
   "info": {
     "sdk": 34,
     "manufacturer": "TECNO",
     "model": "TECNO KL4",
-    "battery": 18,
+    "battery": 24,
     "charging": true,
     "sim": "3"
   },
+  "lastSeen": "2026-06-14T14:50:14.222Z",
   "connectedAt": "2026-06-14T14:42:20.047Z",
-  "lastSeen": "2026-06-14T14:42:20.047Z",
-  "ownerUid": "5OLLPFU81MKWGB8Q",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "spotify",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "5OLLPFU81MKWGB8Q",
+  "online": false
 }
