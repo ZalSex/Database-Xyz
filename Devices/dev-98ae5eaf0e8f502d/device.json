@@ -1,28 +1,29 @@
 {
   "id": "dev-98ae5eaf0e8f502d",
   "name": "Vivo V2027",
-  "socketId": "nbVfGMLTooz4aXp2AAed",
   "info": {
     "sdk": 31,
     "manufacturer": "vivo",
     "model": "V2027",
-    "battery": 39,
+    "battery": 40,
     "charging": true,
     "sim": "AXIS"
   },
+  "lastSeen": "2026-06-14T15:07:39.725Z",
   "connectedAt": "2026-06-14T15:03:41.765Z",
-  "lastSeen": "2026-06-14T15:03:41.765Z",
-  "ownerUid": "F2HHWGT3YASZ3PAQ",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "F2HHWGT3YASZ3PAQ",
+  "online": false
 }
