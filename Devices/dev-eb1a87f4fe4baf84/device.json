@@ -1,18 +1,16 @@
 {
   "id": "dev-eb1a87f4fe4baf84",
   "name": "Realme RMX3710",
-  "socketId": "TOtOytlnOPtdOI5YAAhJ",
   "info": {
     "sdk": 33,
     "manufacturer": "realme",
     "model": "RMX3710",
-    "battery": 42,
+    "battery": 41,
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-06-14T15:38:04.505Z",
   "connectedAt": "2026-06-14T15:35:27.593Z",
-  "lastSeen": "2026-06-14T15:35:27.593Z",
-  "ownerUid": "5OLLPFU81MKWGB8Q",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "5OLLPFU81MKWGB8Q",
+  "online": false
 }
