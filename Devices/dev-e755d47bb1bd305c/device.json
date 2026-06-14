@@ -1,6 +1,7 @@
 {
   "id": "dev-e755d47bb1bd305c",
   "name": "INFINIX MOBILITY LIMITED Infinix X688B",
+  "socketId": "Qxjxv_EXwHoWzgVUAAnQ",
   "info": {
     "sdk": 30,
     "manufacturer": "INFINIX MOBILITY LIMITED",
@@ -9,21 +10,19 @@
     "charging": false,
     "sim": "Tsel-PakaiMasker"
   },
-  "lastSeen": "2026-06-14T17:11:11.651Z",
-  "connectedAt": "2026-06-14T17:06:02.929Z",
+  "connectedAt": "2026-06-14T17:11:15.185Z",
+  "lastSeen": "2026-06-14T17:11:15.185Z",
+  "ownerUid": "H1S596C2MPUSYOBX",
   "status": {
     "flashlight": false,
-    "cameraActive": true,
+    "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": false,
-    "protection": false
+    "activeTheme": "default"
   },
-  "ownerUid": "H1S596C2MPUSYOBX",
-  "online": false
+  "online": true
 }
