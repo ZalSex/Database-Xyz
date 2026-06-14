@@ -5,22 +5,25 @@
     "sdk": 30,
     "manufacturer": "vivo",
     "model": "V2026",
-    "battery": 28,
+    "battery": 25,
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-06-14T13:59:48.960Z",
-  "connectedAt": "2026-06-14T13:59:24.109Z",
+  "lastSeen": "2026-06-14T14:13:54.487Z",
+  "connectedAt": "2026-06-14T13:59:49.200Z",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "screenSharing": false
   },
   "ownerUid": "5OLLPFU81MKWGB8Q",
   "online": false
