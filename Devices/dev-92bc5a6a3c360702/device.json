@@ -1,28 +1,29 @@
 {
   "id": "dev-92bc5a6a3c360702",
   "name": "Xiaomi M2007J20CG",
-  "socketId": "XcaEbTL8kq3yA2KnAADO",
   "info": {
     "sdk": 31,
     "manufacturer": "Xiaomi",
     "model": "M2007J20CG",
-    "battery": 59,
+    "battery": 58,
     "charging": false,
     "sim": "TELKOMSEL"
   },
+  "lastSeen": "2026-06-14T04:45:56.406Z",
   "connectedAt": "2026-06-14T04:43:08.866Z",
-  "lastSeen": "2026-06-14T04:43:08.866Z",
-  "ownerUid": "TZWQHA8ZCI9VG1OG",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
-    "locked": false,
+    "locked": true,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "TZWQHA8ZCI9VG1OG",
+  "online": false
 }
