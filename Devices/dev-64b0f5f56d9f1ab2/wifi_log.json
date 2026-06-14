@@ -1,0 +1,27 @@
+[
+  {
+    "ts": "2026-06-14T16:31:08.774Z",
+    "active": {
+      "currentSsid": "Tenda_Wifi_Toko",
+      "currentBssid": "08:40:f3:43:56:88",
+      "ipAddress": "192.168.0.104",
+      "linkSpeed": "150 Mbps",
+      "rssi": -38,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-06-14 23:31:08"
+    },
+    "savedNets": [
+      {
+        "ssid": "Tenda_Wifi_Toko",
+        "bssid": "08:40:f3:43:56:88",
+        "level": -33,
+        "security": "WPA2",
+        "frequency": 2432,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      }
+    ],
+    "count": 1
+  }
+]
