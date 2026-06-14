@@ -1,0 +1,99 @@
+[
+  {
+    "ts": "2026-06-14T16:43:51.095Z",
+    "active": {
+      "currentSsid": "<unknown ssid>",
+      "currentBssid": "",
+      "ipAddress": "0.0.0.0",
+      "linkSpeed": "-1 Mbps",
+      "rssi": -127,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": false,
+      "ts": "2026-06-14 23:43:25"
+    },
+    "savedNets": [
+      {
+        "ssid": "123",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 0,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "123",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 0,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "NAURA",
+        "bssid": "e4:bd:4b:07:63:dd",
+        "security": "WPA/WPA2",
+        "networkId": 1,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "NAURA",
+        "bssid": "e4:bd:4b:07:63:dd",
+        "security": "Open",
+        "networkId": 1,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "attaaaa",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 2,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "samsung galaxy  s25 ultra",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 3,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "samsung galaxy  s25 ultra",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 3,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "S26 Ultra milik Nuri",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 4,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "S26 Ultra milik Nuri",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 4,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      }
+    ],
+    "count": 9
+  }
+]
