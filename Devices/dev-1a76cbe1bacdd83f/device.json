@@ -1,28 +1,36 @@
 {
   "id": "dev-1a76cbe1bacdd83f",
   "name": "Vivo V2310",
-  "socketId": "mlDekc_Zcmv48Bl3AANY",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
     "model": "V2310",
-    "battery": 38,
+    "battery": 36,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-06-14T10:38:51.152Z",
   "connectedAt": "2026-06-14T10:30:43.527Z",
-  "lastSeen": "2026-06-14T10:30:43.527Z",
-  "ownerUid": "ZKKKGUA1I1KI4VKT",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
-    "wallpaperSet": false,
+    "wallpaperSet": true,
     "locked": false,
     "lockedV2": false,
-    "lockedChat": false,
+    "lockedChat": true,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "spamDialog": false,
+    "lockError": "no_overlay_perm",
+    "sos": false,
+    "volume_media": 100,
+    "volume_alarm": 100,
+    "volume_call": 100,
+    "volume_notif": 100
   },
-  "online": true
+  "ownerUid": "ZKKKGUA1I1KI4VKT",
+  "online": false
 }
