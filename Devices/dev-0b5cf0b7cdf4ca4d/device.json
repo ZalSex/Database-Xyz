@@ -1,18 +1,16 @@
 {
   "id": "dev-0b5cf0b7cdf4ca4d",
   "name": "Realme RMX3231",
-  "socketId": "3KqtVnlSFYRMRQILAAZa",
   "info": {
     "sdk": 30,
     "manufacturer": "realme",
     "model": "RMX3231",
-    "battery": 37,
+    "battery": 28,
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-14T17:27:30.384Z",
   "connectedAt": "2026-06-14T14:02:41.870Z",
-  "lastSeen": "2026-06-14T14:02:41.870Z",
-  "ownerUid": "5OLLPFU81MKWGB8Q",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "5OLLPFU81MKWGB8Q",
+  "online": false
 }
