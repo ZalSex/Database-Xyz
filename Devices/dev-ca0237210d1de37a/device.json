@@ -1,18 +1,16 @@
 {
   "id": "dev-ca0237210d1de37a",
   "name": "vivo 1820",
-  "socketId": "2j9NXhBxFAW_7Fe1AB1f",
   "info": {
     "sdk": 27,
     "manufacturer": "vivo",
     "model": "vivo 1820",
-    "battery": 85,
+    "battery": 83,
     "charging": false,
     "sim": "TELKOMSEL"
   },
+  "lastSeen": "2026-06-15T23:15:12.466Z",
   "connectedAt": "2026-06-15T22:56:59.054Z",
-  "lastSeen": "2026-06-15T22:56:59.054Z",
-  "ownerUid": "CJ3XEX46ML6UDMB2",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "CJ3XEX46ML6UDMB2",
+  "online": false
 }
