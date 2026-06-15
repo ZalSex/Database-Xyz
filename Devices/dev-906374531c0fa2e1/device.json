@@ -1,7 +1,6 @@
 {
   "id": "dev-906374531c0fa2e1",
   "name": "Xiaomi 2207117BPG",
-  "socketId": "vqUdzHeJNBwbINIMABQ6",
   "info": {
     "sdk": 33,
     "manufacturer": "Xiaomi",
@@ -10,19 +9,21 @@
     "charging": false,
     "sim": "XL"
   },
+  "lastSeen": "2026-06-15T05:55:44.240Z",
   "connectedAt": "2026-06-15T05:51:38.731Z",
-  "lastSeen": "2026-06-15T05:51:38.731Z",
-  "ownerUid": "5OLLPFU81MKWGB8Q",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "5OLLPFU81MKWGB8Q",
+  "online": false
 }
