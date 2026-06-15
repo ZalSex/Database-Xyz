@@ -1,18 +1,16 @@
 {
   "id": "dev-0b737d1d2d829e7c",
   "name": "Infinix X669C",
-  "socketId": "A3FF9NZve4pVly7LABpU",
   "info": {
     "sdk": 31,
     "manufacturer": "INFINIX",
     "model": "Infinix X669C",
-    "battery": 27,
+    "battery": 3,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-06-15T11:49:46.878Z",
   "connectedAt": "2026-06-15T11:02:26.582Z",
-  "lastSeen": "2026-06-15T11:02:26.582Z",
-  "ownerUid": "X11LT3ESIQM6SB9Y",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -21,8 +19,17 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
-    "activeTheme": "default"
+    "appHidden": true,
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "screenSharing": false,
+    "volume_media": 100,
+    "volume_alarm": 100,
+    "volume_notif": 100,
+    "volume_ring": 100,
+    "volume_call": 100
   },
-  "online": true
+  "ownerUid": "X11LT3ESIQM6SB9Y",
+  "online": false
 }
