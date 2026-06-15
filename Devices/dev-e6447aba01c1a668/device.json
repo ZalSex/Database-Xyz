@@ -1,16 +1,18 @@
 {
   "id": "dev-e6447aba01c1a668",
   "name": "OnePlus8Pro",
+  "socketId": "ZJuqCE-EMC3aLnMoABXZ",
   "info": {
     "sdk": 30,
     "manufacturer": "OnePlus",
     "model": "OnePlus8Pro",
     "battery": 85,
     "charging": true,
-    "sim": "Android Virtual Operator"
+    "sim": "T-Mobile - US"
   },
-  "lastSeen": "2026-06-14T19:09:13.210Z",
-  "connectedAt": "2026-06-14T19:08:28.347Z",
+  "connectedAt": "2026-06-15T07:01:52.097Z",
+  "lastSeen": "2026-06-15T07:01:52.097Z",
+  "ownerUid": "NGX4G4O49AM5AS3K",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,10 +22,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "online": true
 }
