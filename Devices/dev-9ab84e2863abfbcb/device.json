@@ -1,28 +1,29 @@
 {
   "id": "dev-9ab84e2863abfbcb",
   "name": "OPPO CPH2059",
-  "socketId": "RiY6EH0jUJDXHw5SABEV",
   "info": {
     "sdk": 30,
     "manufacturer": "OPPO",
     "model": "CPH2059",
-    "battery": 86,
+    "battery": 81,
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
+  "lastSeen": "2026-06-15T02:30:48.938Z",
   "connectedAt": "2026-06-15T01:36:12.778Z",
-  "lastSeen": "2026-06-15T01:36:12.778Z",
-  "ownerUid": "H1S596C2MPUSYOBX",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": false,
+    "wallpaperSet": true,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "H1S596C2MPUSYOBX",
+  "online": false
 }
