@@ -1,28 +1,29 @@
 {
   "id": "dev-97434af9fab8304c",
   "name": "Realme RMX3511",
-  "socketId": "lcabiLM9MX1Ytj7dABQj",
   "info": {
     "sdk": 33,
     "manufacturer": "realme",
     "model": "RMX3511",
-    "battery": 53,
+    "battery": 51,
     "charging": false,
     "sim": "DiRumahLebihBaik"
   },
+  "lastSeen": "2026-06-15T06:00:13.368Z",
   "connectedAt": "2026-06-15T05:45:07.667Z",
-  "lastSeen": "2026-06-15T05:45:07.667Z",
-  "ownerUid": "ZKKKGUA1I1KI4VKT",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": false,
-    "locked": false,
+    "wallpaperSet": true,
+    "locked": true,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "ZKKKGUA1I1KI4VKT",
+  "online": false
 }
