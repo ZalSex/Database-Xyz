@@ -1,18 +1,16 @@
 {
   "id": "dev-b5beba239776617b",
   "name": "Infinix X6876",
-  "socketId": "8fBB1kgLNaJ7AfcWACNj",
   "info": {
     "sdk": 36,
     "manufacturer": "INFINIX",
     "model": "Infinix X6876",
-    "battery": 64,
+    "battery": 63,
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-06-16T15:32:58.221Z",
   "connectedAt": "2026-06-16T15:28:59.407Z",
-  "lastSeen": "2026-06-16T15:28:59.407Z",
-  "ownerUid": "L7CQMECTS2ZTSUS1",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "L7CQMECTS2ZTSUS1",
+  "online": false
 }
