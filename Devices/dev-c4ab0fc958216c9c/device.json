@@ -1,18 +1,16 @@
 {
   "id": "dev-c4ab0fc958216c9c",
   "name": "Samsung SM-A125F",
-  "socketId": "LyQk8dHGPaoCplN9ACD1",
   "info": {
     "sdk": 31,
     "manufacturer": "samsung",
     "model": "SM-A125F",
-    "battery": 90,
+    "battery": 89,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-06-16T09:35:38.529Z",
   "connectedAt": "2026-06-16T09:31:34.565Z",
-  "lastSeen": "2026-06-16T09:31:34.565Z",
-  "ownerUid": "TZWQHA8ZCI9VG1OG",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": false,
+    "protection": false
   },
-  "online": true
+  "ownerUid": "TZWQHA8ZCI9VG1OG",
+  "online": false
 }
