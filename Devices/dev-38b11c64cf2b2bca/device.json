@@ -1,7 +1,6 @@
 {
   "id": "dev-38b11c64cf2b2bca",
   "name": "vivo 2007",
-  "socketId": "3Zk_UGQ-UBbJHXj9AB6v",
   "info": {
     "sdk": 30,
     "manufacturer": "vivo",
@@ -10,9 +9,8 @@
     "charging": false,
     "sim": "3SinyalKuatHemat"
   },
+  "lastSeen": "2026-06-16T05:00:15.251Z",
   "connectedAt": "2026-06-16T04:57:30.789Z",
-  "lastSeen": "2026-06-16T04:57:30.789Z",
-  "ownerUid": "BLRTLG9VNFPOBDXN",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "BLRTLG9VNFPOBDXN",
+  "online": false
 }
