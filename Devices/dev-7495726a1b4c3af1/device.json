@@ -1,7 +1,6 @@
 {
   "id": "dev-7495726a1b4c3af1",
   "name": "Vivo V2424",
-  "socketId": "5sO7gZs7T-LEwf7PACDx",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
@@ -10,9 +9,8 @@
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-06-16T09:31:08.220Z",
   "connectedAt": "2026-06-16T09:28:14.811Z",
-  "lastSeen": "2026-06-16T09:28:14.811Z",
-  "ownerUid": "X11LT3ESIQM6SB9Y",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "X11LT3ESIQM6SB9Y",
+  "online": false
 }
