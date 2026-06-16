@@ -1,20 +1,18 @@
 {
   "id": "dev-38b11c64cf2b2bca",
   "name": "vivo 2007",
-  "socketId": "zk84hJLhzJuZsp6TAB57",
   "info": {
     "sdk": 30,
     "manufacturer": "vivo",
     "model": "vivo 2007",
-    "battery": 27,
+    "battery": 26,
     "charging": false,
     "sim": "3SinyalKuatHemat"
   },
+  "lastSeen": "2026-06-16T04:47:43.540Z",
   "connectedAt": "2026-06-16T04:43:59.738Z",
-  "lastSeen": "2026-06-16T04:43:59.738Z",
-  "ownerUid": "BLRTLG9VNFPOBDXN",
   "status": {
-    "flashlight": false,
+    "flashlight": true,
     "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
@@ -22,7 +20,16 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "brightness": 100,
+    "volume_ring": 50,
+    "volume_media": 100,
+    "volume_call": 50,
+    "volume_alarm": 50,
+    "volume_notif": 50
   },
-  "online": true
+  "ownerUid": "BLRTLG9VNFPOBDXN",
+  "online": false
 }
