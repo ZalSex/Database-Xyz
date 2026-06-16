@@ -1,18 +1,16 @@
 {
   "id": "dev-a77d63d98439d671",
   "name": "Infinix X6725",
-  "socketId": "L5pO4DRTNRvpFcvqAB2C",
   "info": {
     "sdk": 35,
     "manufacturer": "INFINIX",
     "model": "Infinix X6725",
-    "battery": 67,
+    "battery": 64,
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-06-16T01:11:26.614Z",
   "connectedAt": "2026-06-16T00:53:17.869Z",
-  "lastSeen": "2026-06-16T00:53:17.869Z",
-  "ownerUid": "ZKKKGUA1I1KI4VKT",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "ZKKKGUA1I1KI4VKT",
+  "online": false
 }
