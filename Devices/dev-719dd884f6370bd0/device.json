@@ -1,28 +1,30 @@
 {
   "id": "dev-719dd884f6370bd0",
   "name": "OPPO CPH2531",
-  "socketId": "fuVhPcj0258bmNQjAB_u",
   "info": {
     "sdk": 35,
     "manufacturer": "OPPO",
     "model": "CPH2531",
-    "battery": 13,
+    "battery": 14,
     "charging": true,
     "sim": "3"
   },
+  "lastSeen": "2026-06-16T07:52:56.510Z",
   "connectedAt": "2026-06-16T07:48:49.920Z",
-  "lastSeen": "2026-06-16T07:48:49.921Z",
-  "ownerUid": "IAQVU6N5WAKO332E",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
-    "lockedV2": false,
+    "lockedV2": true,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "spamDialog": false
   },
-  "online": true
+  "ownerUid": "IAQVU6N5WAKO332E",
+  "online": false
 }
