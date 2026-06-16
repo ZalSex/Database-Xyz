@@ -1,34 +1,28 @@
 {
   "id": "dev-0f5708fad9385e2d",
   "name": "Realme RMX3834",
+  "socketId": "iBQ6khqIIYi5_1rDACI6",
   "info": {
     "sdk": 34,
     "manufacturer": "realme",
     "model": "RMX3834",
-    "battery": 19,
+    "battery": 20,
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-06-16T13:15:53.638Z",
-  "connectedAt": "2026-06-16T12:46:34.853Z",
+  "connectedAt": "2026-06-16T13:15:57.622Z",
+  "lastSeen": "2026-06-16T13:15:57.623Z",
+  "ownerUid": "KNWFUVQJKF0TEEKK",
   "status": {
     "flashlight": false,
-    "cameraActive": true,
+    "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": true,
+    "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "spamDialog": false,
-    "sos": false,
-    "brightness": 100,
-    "screenText": false,
-    "openApp": "com.agoda.mobile.consumer"
+    "activeTheme": "default"
   },
-  "ownerUid": "KNWFUVQJKF0TEEKK",
-  "online": false
+  "online": true
 }
