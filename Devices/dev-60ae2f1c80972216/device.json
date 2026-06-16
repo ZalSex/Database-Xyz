@@ -1,18 +1,16 @@
 {
   "id": "dev-60ae2f1c80972216",
   "name": "Samsung SM-N960U",
-  "socketId": "-Cole5XZ4mHWkOqOACAj",
   "info": {
     "sdk": 28,
     "manufacturer": "samsung",
     "model": "SM-N960U",
-    "battery": 42,
+    "battery": 41,
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-16T08:14:17.975Z",
   "connectedAt": "2026-06-16T08:07:24.675Z",
-  "lastSeen": "2026-06-16T08:07:24.675Z",
-  "ownerUid": "X11LT3ESIQM6SB9Y",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,11 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": false,
+    "protection": false,
+    "screenSharing": false
   },
-  "online": true
+  "ownerUid": "X11LT3ESIQM6SB9Y",
+  "online": false
 }
