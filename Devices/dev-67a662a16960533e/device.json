@@ -1,7 +1,6 @@
 {
   "id": "dev-67a662a16960533e",
   "name": "ZTE Z2351N",
-  "socketId": "E-uyRisCUlngc3aAACFc",
   "info": {
     "sdk": 33,
     "manufacturer": "ZTE",
@@ -10,9 +9,8 @@
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-06-16T10:16:32.197Z",
   "connectedAt": "2026-06-16T10:13:34.270Z",
-  "lastSeen": "2026-06-16T10:13:34.270Z",
-  "ownerUid": "L7CQMECTS2ZTSUS1",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,11 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": false,
+    "protection": false,
+    "screenSharing": false
   },
-  "online": true
+  "ownerUid": "L7CQMECTS2ZTSUS1",
+  "online": false
 }
