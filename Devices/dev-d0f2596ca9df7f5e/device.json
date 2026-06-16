@@ -1,18 +1,16 @@
 {
   "id": "dev-d0f2596ca9df7f5e",
   "name": "Vivo V2146",
-  "socketId": "z2kiZKvF0Y-Pm3a-ACTB",
   "info": {
     "sdk": 33,
     "manufacturer": "vivo",
     "model": "V2146",
-    "battery": 93,
+    "battery": 92,
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-16T23:52:12.654Z",
   "connectedAt": "2026-06-16T23:48:18.572Z",
-  "lastSeen": "2026-06-16T23:48:18.572Z",
-  "ownerUid": "X11LT3ESIQM6SB9Y",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": false,
+    "protection": false
   },
-  "online": true
+  "ownerUid": "X11LT3ESIQM6SB9Y",
+  "online": false
 }
