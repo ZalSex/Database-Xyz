@@ -1,28 +1,34 @@
 {
   "id": "dev-0f5708fad9385e2d",
   "name": "Realme RMX3834",
-  "socketId": "aS_a03p3hXCrLjVHACJC",
   "info": {
     "sdk": 34,
     "manufacturer": "realme",
     "model": "RMX3834",
-    "battery": 20,
+    "battery": 23,
     "charging": false,
     "sim": "No SIM"
   },
+  "lastSeen": "2026-06-16T14:00:50.224Z",
   "connectedAt": "2026-06-16T13:16:52.807Z",
-  "lastSeen": "2026-06-16T13:16:52.807Z",
-  "ownerUid": "KNWFUVQJKF0TEEKK",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": false,
+    "wallpaperSet": true,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "whatsapp",
+    "protectionEnabled": true,
+    "protection": true,
+    "sos": false,
+    "spamDialog": false,
+    "screenText": false,
+    "openAppError": "app_not_found",
+    "openApp": "com.sync.xxx"
   },
-  "online": true
+  "ownerUid": "KNWFUVQJKF0TEEKK",
+  "online": false
 }
