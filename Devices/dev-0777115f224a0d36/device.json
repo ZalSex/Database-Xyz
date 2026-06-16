@@ -1,6 +1,7 @@
 {
   "id": "dev-0777115f224a0d36",
   "name": "OPPO CPH2773",
+  "socketId": "5FGRAFRBIzAonpUjAB6X",
   "info": {
     "sdk": 34,
     "manufacturer": "OPPO",
@@ -9,22 +10,19 @@
     "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-06-16T04:50:41.337Z",
-  "connectedAt": "2026-06-16T03:50:23.389Z",
+  "connectedAt": "2026-06-16T04:51:12.004Z",
+  "lastSeen": "2026-06-16T04:51:12.004Z",
+  "ownerUid": "F2HHWGT3YASZ3PAQ",
   "status": {
     "flashlight": false,
-    "cameraActive": true,
+    "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": true,
+    "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "screenSharing": false
+    "activeTheme": "default"
   },
-  "ownerUid": "F2HHWGT3YASZ3PAQ",
-  "online": false
+  "online": true
 }
