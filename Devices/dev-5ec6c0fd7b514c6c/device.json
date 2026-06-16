@@ -1,16 +1,18 @@
 {
   "id": "dev-5ec6c0fd7b514c6c",
   "name": "Vivo V2026",
+  "socketId": "-CiQ1-aUeHADKtwHACO-",
   "info": {
     "sdk": 30,
     "manufacturer": "vivo",
     "model": "V2026",
-    "battery": 62,
-    "charging": false,
+    "battery": 84,
+    "charging": true,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-06-16T05:22:15.966Z",
-  "connectedAt": "2026-06-16T05:21:32.740Z",
+  "connectedAt": "2026-06-16T16:33:33.958Z",
+  "lastSeen": "2026-06-16T16:33:33.958Z",
+  "ownerUid": "5OLLPFU81MKWGB8Q",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,5 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "5OLLPFU81MKWGB8Q",
-  "online": false
+  "online": true
 }
