@@ -1,28 +1,29 @@
 {
   "id": "dev-987c56010a270589",
   "name": "vivo 1915",
-  "socketId": "R0BuwesKhuavqKsUACu-",
   "info": {
     "sdk": 31,
     "manufacturer": "vivo",
     "model": "vivo 1915",
-    "battery": 67,
+    "battery": 66,
     "charging": false,
     "sim": "AXIS"
   },
+  "lastSeen": "2026-06-17T15:03:04.054Z",
   "connectedAt": "2026-06-17T14:59:13.835Z",
-  "lastSeen": "2026-06-17T14:59:13.835Z",
-  "ownerUid": "X11LT3ESIQM6SB9Y",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": false,
+    "wallpaperSet": true,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": false,
+    "protection": false
   },
-  "online": true
+  "ownerUid": "X11LT3ESIQM6SB9Y",
+  "online": false
 }
