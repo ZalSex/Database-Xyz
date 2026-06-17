@@ -1,18 +1,16 @@
 {
   "id": "dev-9ede3d865363a2bb",
   "name": "OPPO CPH2343",
-  "socketId": "mKLYhVklqLU1S5fAACnu",
   "info": {
     "sdk": 33,
     "manufacturer": "OPPO",
     "model": "CPH2343",
-    "battery": 32,
+    "battery": 16,
     "charging": false,
     "sim": "AXIS"
   },
+  "lastSeen": "2026-06-17T13:44:02.526Z",
   "connectedAt": "2026-06-17T11:55:00.488Z",
-  "lastSeen": "2026-06-17T11:55:00.488Z",
-  "ownerUid": "X11LT3ESIQM6SB9Y",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -21,8 +19,11 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
-    "activeTheme": "default"
+    "appHidden": true,
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "X11LT3ESIQM6SB9Y",
+  "online": false
 }
