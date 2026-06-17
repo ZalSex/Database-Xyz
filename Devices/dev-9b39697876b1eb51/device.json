@@ -1,7 +1,6 @@
 {
   "id": "dev-9b39697876b1eb51",
   "name": "Google Pixel 4",
-  "socketId": "vjEYRgg4L_Zr44dSACWV",
   "info": {
     "sdk": 28,
     "manufacturer": "google",
@@ -10,13 +9,12 @@
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-17T02:39:36.489Z",
   "connectedAt": "2026-06-17T02:38:53.111Z",
-  "lastSeen": "2026-06-17T02:38:53.111Z",
-  "ownerUid": "JC7W0C168KQ4CYH0",
   "status": {
     "flashlight": false,
     "cameraActive": false,
-    "videoPlaying": false,
+    "videoPlaying": true,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "JC7W0C168KQ4CYH0",
+  "online": false
 }
