@@ -1,18 +1,16 @@
 {
   "id": "dev-3078e588512ed426",
   "name": "OPPO CPH2387",
-  "socketId": "-yLTIqTBX8X40OpIAC44",
   "info": {
     "sdk": 34,
     "manufacturer": "OPPO",
     "model": "CPH2387",
-    "battery": 44,
+    "battery": 40,
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-18T02:28:24.668Z",
   "connectedAt": "2026-06-18T01:37:49.180Z",
-  "lastSeen": "2026-06-18T01:37:49.180Z",
-  "ownerUid": "O36703H6ES6EQH8N",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,11 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "screenText": false
   },
-  "online": true
+  "ownerUid": "O36703H6ES6EQH8N",
+  "online": false
 }
