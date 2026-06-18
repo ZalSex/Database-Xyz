@@ -1,7 +1,6 @@
 {
   "id": "dev-e6447aba01c1a668",
   "name": "OnePlus8Pro",
-  "socketId": "GueQmp764xvU4g-KADPE",
   "info": {
     "sdk": 30,
     "manufacturer": "OnePlus",
@@ -10,9 +9,8 @@
     "charging": true,
     "sim": "XL/AXIS"
   },
+  "lastSeen": "2026-06-18T13:02:16.049Z",
   "connectedAt": "2026-06-18T13:02:01.040Z",
-  "lastSeen": "2026-06-18T13:02:01.040Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
