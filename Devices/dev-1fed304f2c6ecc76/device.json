@@ -1,16 +1,18 @@
 {
   "id": "dev-1fed304f2c6ecc76",
   "name": "TECNO KM4",
+  "socketId": "I8_fNi0hJZAPiWvAADZH",
   "info": {
     "sdk": 35,
     "manufacturer": "TECNO",
     "model": "TECNO KM4",
-    "battery": 72,
-    "charging": true,
+    "battery": 86,
+    "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-06-18T15:24:16.168Z",
-  "connectedAt": "2026-06-18T15:23:36.319Z",
+  "connectedAt": "2026-06-18T16:21:10.251Z",
+  "lastSeen": "2026-06-18T16:21:10.251Z",
+  "ownerUid": "KZGUB0W295YEDAV5",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,10 +22,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": false,
-    "protection": false
+    "activeTheme": "default"
   },
-  "ownerUid": "KZGUB0W295YEDAV5",
-  "online": false
+  "online": true
 }
