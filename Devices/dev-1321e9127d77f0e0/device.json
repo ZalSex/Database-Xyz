@@ -1,18 +1,16 @@
 {
   "id": "dev-1321e9127d77f0e0",
   "name": "ZTE Z2450",
-  "socketId": "w2F0mAmPK0cp72iVAC3T",
   "info": {
     "sdk": 34,
     "manufacturer": "ZTE",
     "model": "Z2450",
-    "battery": 93,
+    "battery": 92,
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-18T01:12:03.151Z",
   "connectedAt": "2026-06-18T01:10:15.525Z",
-  "lastSeen": "2026-06-18T01:10:15.525Z",
-  "ownerUid": "O36703H6ES6EQH8N",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "O36703H6ES6EQH8N",
+  "online": false
 }
