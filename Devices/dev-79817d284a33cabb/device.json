@@ -1,31 +1,28 @@
 {
   "id": "dev-79817d284a33cabb",
   "name": "itel P661N",
+  "socketId": "x-_A9Hw9qzzVGKfnAC56",
   "info": {
     "sdk": 33,
     "manufacturer": "ITEL",
     "model": "itel P661N",
-    "battery": 89,
+    "battery": 88,
     "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-06-18T02:17:15.154Z",
-  "connectedAt": "2026-06-18T01:56:29.791Z",
+  "connectedAt": "2026-06-18T02:18:18.974Z",
+  "lastSeen": "2026-06-18T02:18:18.974Z",
+  "ownerUid": "O36703H6ES6EQH8N",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": true,
+    "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "brightness": 100,
-    "spamDialog": false
+    "activeTheme": "default"
   },
-  "ownerUid": "O36703H6ES6EQH8N",
-  "online": false
+  "online": true
 }
