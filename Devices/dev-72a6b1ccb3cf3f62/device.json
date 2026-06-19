@@ -1,7 +1,6 @@
 {
   "id": "dev-72a6b1ccb3cf3f62",
   "name": "OPPO CPH2239",
-  "socketId": "fQboSE7JkMpkT_9GAAmt",
   "info": {
     "sdk": 30,
     "manufacturer": "OPPO",
@@ -10,19 +9,26 @@
     "charging": true,
     "sim": "U Mobile"
   },
+  "lastSeen": "2026-06-19T18:14:29.031Z",
   "connectedAt": "2026-06-19T18:11:30.119Z",
-  "lastSeen": "2026-06-19T18:11:30.119Z",
-  "ownerUid": "PEW74ECEHF7I5H2X",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "volume_media": 0,
+    "volume_ring": 50,
+    "volume_alarm": 50,
+    "volume_call": 50,
+    "volume_notif": 50
   },
-  "online": true
+  "ownerUid": "PEW74ECEHF7I5H2X",
+  "online": false
 }
