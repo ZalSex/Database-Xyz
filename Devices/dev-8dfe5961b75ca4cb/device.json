@@ -1,6 +1,7 @@
 {
   "id": "dev-8dfe5961b75ca4cb",
   "name": "INFINIX MOBILITY LIMITED Infinix X657C",
+  "socketId": "aBkI_lFZCbqsgO_OAAJt",
   "info": {
     "sdk": 29,
     "manufacturer": "INFINIX MOBILITY LIMITED",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-06-19T07:03:08.162Z",
-  "connectedAt": "2026-06-19T06:19:35.802Z",
+  "connectedAt": "2026-06-19T07:07:06.596Z",
+  "lastSeen": "2026-06-19T07:07:06.596Z",
+  "ownerUid": "3KTA3H9WR7IGD6RL",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -18,12 +20,9 @@
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
-    "lockedChat": true,
+    "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": "3KTA3H9WR7IGD6RL",
-  "online": false
+  "online": true
 }
