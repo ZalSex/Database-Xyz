@@ -1,16 +1,18 @@
 {
   "id": "dev-35ee46fa1a989206",
   "name": "Xiaomi 23129RN51X",
+  "socketId": "s0NLZPYoOOhjx0jaADu2",
   "info": {
     "sdk": 36,
     "manufacturer": "Xiaomi",
     "model": "23129RN51X",
-    "battery": 41,
+    "battery": 40,
     "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-06-19T02:14:31.010Z",
-  "connectedAt": "2026-06-19T02:13:58.242Z",
+  "connectedAt": "2026-06-19T02:15:37.123Z",
+  "lastSeen": "2026-06-19T02:15:37.123Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,5 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "online": true
 }
