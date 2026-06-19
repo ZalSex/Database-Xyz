@@ -1,18 +1,16 @@
 {
   "id": "dev-7b6e1a173f15cfd1",
   "name": "Samsung SM-A047F",
-  "socketId": "A9pGUSlgGZdnSmhXAAYf",
   "info": {
     "sdk": 34,
     "manufacturer": "samsung",
     "model": "SM-A047F",
-    "battery": 89,
+    "battery": 85,
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-19T13:25:03.573Z",
   "connectedAt": "2026-06-19T12:56:25.980Z",
-  "lastSeen": "2026-06-19T12:56:25.980Z",
-  "ownerUid": "JC7W0C168KQ4CYH0",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "JC7W0C168KQ4CYH0",
+  "online": false
 }
