@@ -1,16 +1,18 @@
 {
   "id": "dev-4fd919693d9ecfa6",
   "name": "OPPO CPH2477",
+  "socketId": "GMc179Wpw-exNmAtAA35",
   "info": {
     "sdk": 31,
     "manufacturer": "OPPO",
     "model": "CPH2477",
-    "battery": 76,
+    "battery": 87,
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-06-19T19:59:16.346Z",
-  "connectedAt": "2026-06-19T19:56:51.024Z",
+  "connectedAt": "2026-06-19T22:49:24.064Z",
+  "lastSeen": "2026-06-19T22:49:24.064Z",
+  "ownerUid": "PEW74ECEHF7I5H2X",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -19,12 +21,8 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": true,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "screenSharing": false
+    "appHidden": false,
+    "activeTheme": "default"
   },
-  "ownerUid": "PEW74ECEHF7I5H2X",
-  "online": false
+  "online": true
 }
