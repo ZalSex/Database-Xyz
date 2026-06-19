@@ -1,7 +1,6 @@
 {
   "id": "dev-1fed304f2c6ecc76",
   "name": "TECNO KM4",
-  "socketId": "Mt5rr2AVG_5LLbKfAAFc",
   "info": {
     "sdk": 35,
     "manufacturer": "TECNO",
@@ -10,9 +9,8 @@
     "charging": true,
     "sim": "TELKOMSEL"
   },
+  "lastSeen": "2026-06-19T05:21:22.494Z",
   "connectedAt": "2026-06-19T05:20:44.069Z",
-  "lastSeen": "2026-06-19T05:20:44.069Z",
-  "ownerUid": "KZGUB0W295YEDAV5",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "KZGUB0W295YEDAV5",
+  "online": false
 }
