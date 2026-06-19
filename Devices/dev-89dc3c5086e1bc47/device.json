@@ -1,18 +1,16 @@
 {
   "id": "dev-89dc3c5086e1bc47",
   "name": "TECNO LI7",
-  "socketId": "nob06uYtGD-_bpaDAAVG",
   "info": {
     "sdk": 35,
     "manufacturer": "TECNO",
     "model": "TECNO LI7",
-    "battery": 65,
+    "battery": 64,
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
+  "lastSeen": "2026-06-19T12:10:22.424Z",
   "connectedAt": "2026-06-19T12:06:21.319Z",
-  "lastSeen": "2026-06-19T12:06:21.319Z",
-  "ownerUid": "IYYOCI0ZCHEVVAWZ",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,14 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": false,
+    "protection": false,
+    "brightness": 53,
+    "screenText": false,
+    "screenSharing": false,
+    "spamDialog": false
   },
-  "online": true
+  "ownerUid": "IYYOCI0ZCHEVVAWZ",
+  "online": false
 }
