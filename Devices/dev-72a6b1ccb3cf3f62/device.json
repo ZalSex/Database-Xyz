@@ -9,25 +9,20 @@
     "charging": true,
     "sim": "U Mobile"
   },
-  "lastSeen": "2026-06-19T18:14:29.031Z",
-  "connectedAt": "2026-06-19T18:11:30.119Z",
+  "lastSeen": "2026-06-19T18:15:29.090Z",
+  "connectedAt": "2026-06-19T18:14:30.647Z",
   "status": {
     "flashlight": false,
-    "cameraActive": true,
+    "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
+    "appHidden": true,
     "activeTheme": "default",
     "protectionEnabled": true,
-    "protection": true,
-    "volume_media": 0,
-    "volume_ring": 50,
-    "volume_alarm": 50,
-    "volume_call": 50,
-    "volume_notif": 50
+    "protection": true
   },
   "ownerUid": "PEW74ECEHF7I5H2X",
   "online": false
