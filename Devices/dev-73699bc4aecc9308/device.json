@@ -1,7 +1,6 @@
 {
   "id": "dev-73699bc4aecc9308",
   "name": "Infinix X6871",
-  "socketId": "GXz3AN66f8-K2KPgAAED",
   "info": {
     "sdk": 35,
     "manufacturer": "INFINIX",
@@ -10,9 +9,8 @@
     "charging": true,
     "sim": "UM ULTRA5G"
   },
+  "lastSeen": "2026-06-19T05:13:42.835Z",
   "connectedAt": "2026-06-19T05:12:14.040Z",
-  "lastSeen": "2026-06-19T05:12:14.040Z",
-  "ownerUid": "PEW74ECEHF7I5H2X",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": false,
+    "protection": false
   },
-  "online": true
+  "ownerUid": "PEW74ECEHF7I5H2X",
+  "online": false
 }
