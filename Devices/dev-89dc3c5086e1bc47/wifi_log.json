@@ -1,0 +1,45 @@
+[
+  {
+    "ts": "2026-06-19T12:08:06.569Z",
+    "active": {
+      "currentSsid": "MarCell Hotspot",
+      "currentBssid": "a8:2b:cd:df:b6:64",
+      "ipAddress": "192.168.13.44",
+      "linkSpeed": "86 Mbps",
+      "rssi": -58,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-06-19 19:08:06"
+    },
+    "savedNets": [
+      {
+        "ssid": "MarCell Hotspot",
+        "bssid": "a8:2b:cd:df:b6:64",
+        "level": -55,
+        "security": "Open",
+        "frequency": 2457,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      },
+      {
+        "ssid": "Athaya Hotspot",
+        "bssid": "1c:27:04:74:2b:c8",
+        "level": -85,
+        "security": "Open",
+        "frequency": 2427,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Athaya Hotspot",
+        "bssid": "10:07:1d:6e:50:00",
+        "level": -94,
+        "security": "Open",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 3
+  }
+]
