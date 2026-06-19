@@ -1,18 +1,16 @@
 {
   "id": "dev-e291c42bc93c062c",
   "name": "Infinix X6853",
-  "socketId": "EtQSZs5bDWCYYFDJADpY",
   "info": {
     "sdk": 35,
     "manufacturer": "INFINIX",
     "model": "Infinix X6853",
-    "battery": 86,
+    "battery": 84,
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-06-19T01:13:13.800Z",
   "connectedAt": "2026-06-19T01:07:40.755Z",
-  "lastSeen": "2026-06-19T01:07:40.755Z",
-  "ownerUid": "5OLLPFU81MKWGB8Q",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "5OLLPFU81MKWGB8Q",
+  "online": false
 }
