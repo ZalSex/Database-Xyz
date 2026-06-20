@@ -1,18 +1,16 @@
 {
   "id": "dev-25e9c4c40b9a07f6",
   "name": "OPPO CPH2185",
-  "socketId": "Nw3gs25wA3eHB_F7AAbt",
   "info": {
     "sdk": 29,
     "manufacturer": "OPPO",
     "model": "CPH2185",
-    "battery": 86,
+    "battery": 85,
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-20T11:11:02.057Z",
   "connectedAt": "2026-06-20T11:08:08.866Z",
-  "lastSeen": "2026-06-20T11:08:08.866Z",
-  "ownerUid": "O36703H6ES6EQH8N",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "O36703H6ES6EQH8N",
+  "online": false
 }
