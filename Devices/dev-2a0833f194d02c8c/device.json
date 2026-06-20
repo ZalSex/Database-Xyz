@@ -1,7 +1,6 @@
 {
   "id": "dev-2a0833f194d02c8c",
   "name": "OPPO CPH1923",
-  "socketId": "oAqx4cx9_7LH7a1YAAB-",
   "info": {
     "sdk": 28,
     "manufacturer": "OPPO",
@@ -10,9 +9,8 @@
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-20T04:05:05.174Z",
   "connectedAt": "2026-06-20T04:02:34.383Z",
-  "lastSeen": "2026-06-20T04:02:34.383Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
