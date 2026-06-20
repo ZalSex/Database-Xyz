@@ -1,29 +1,28 @@
 {
   "id": "dev-c24535702022efae",
   "name": "Xiaomi 25028PC03G",
+  "socketId": "26YmLY4GCl6etHt_AAdv",
   "info": {
     "sdk": 35,
     "manufacturer": "Xiaomi",
     "model": "25028PC03G",
-    "battery": 27,
+    "battery": 26,
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
-  "lastSeen": "2026-06-20T11:23:59.146Z",
-  "connectedAt": "2026-06-20T11:15:09.302Z",
+  "connectedAt": "2026-06-20T11:24:56.285Z",
+  "lastSeen": "2026-06-20T11:24:56.285Z",
+  "ownerUid": "CDSUTEEIH4UNW7TX",
   "status": {
     "flashlight": false,
-    "cameraActive": true,
+    "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": "CDSUTEEIH4UNW7TX",
-  "online": false
+  "online": true
 }
