@@ -1,28 +1,33 @@
 {
   "id": "dev-b53b6351e00593b2",
   "name": "itel P661N",
-  "socketId": "sLShipSuLUoSQL2rAA0b",
   "info": {
     "sdk": 33,
     "manufacturer": "ITEL",
     "model": "itel P661N",
-    "battery": 73,
+    "battery": 70,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-06-20T15:19:05.755Z",
   "connectedAt": "2026-06-20T15:02:39.551Z",
-  "lastSeen": "2026-06-20T15:02:39.551Z",
-  "ownerUid": "CDSUTEEIH4UNW7TX",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
-    "lockedChat": false,
+    "lockedChat": true,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "brightness": 0,
+    "screenText": false,
+    "spamDialog": false,
+    "sos": false
   },
-  "online": true
+  "ownerUid": "CDSUTEEIH4UNW7TX",
+  "online": false
 }
