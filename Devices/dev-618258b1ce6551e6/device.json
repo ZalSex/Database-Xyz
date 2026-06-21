@@ -1,18 +1,16 @@
 {
   "id": "dev-618258b1ce6551e6",
   "name": "HMD Global Nokia C12",
-  "socketId": "8DrvU0_hSlF0Bm77ABM-",
   "info": {
     "sdk": 31,
     "manufacturer": "HMD Global",
     "model": "Nokia C12",
-    "battery": 77,
+    "battery": 73,
     "charging": false,
     "sim": "INDOSAT"
   },
+  "lastSeen": "2026-06-21T01:34:28.536Z",
   "connectedAt": "2026-06-21T00:43:47.220Z",
-  "lastSeen": "2026-06-21T00:43:47.220Z",
-  "ownerUid": "85D99Y77ON36KW4I",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,12 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": false,
+    "protection": false,
+    "screenSharing": false,
+    "openApp": "com.whatsapp"
   },
-  "online": true
+  "ownerUid": "85D99Y77ON36KW4I",
+  "online": false
 }
