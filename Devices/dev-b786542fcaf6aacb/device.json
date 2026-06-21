@@ -1,18 +1,16 @@
 {
   "id": "dev-b786542fcaf6aacb",
   "name": "OPPO CPH1803",
-  "socketId": "siNYzaMiw5dM9RfNABal",
   "info": {
     "sdk": 27,
     "manufacturer": "OPPO",
     "model": "CPH1803",
-    "battery": 58,
+    "battery": 55,
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-06-21T06:45:30.164Z",
   "connectedAt": "2026-06-21T06:15:16.308Z",
-  "lastSeen": "2026-06-21T06:15:16.308Z",
-  "ownerUid": "Z7W1J1NJMCJSG7Y7",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,17 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "tiktok",
+    "protectionEnabled": true,
+    "protection": true,
+    "brightness": 100,
+    "screenText": false,
+    "spamDialog": false,
+    "screenSharing": false,
+    "volume_media": 100,
+    "volume_alarm": 100,
+    "volume_call": 100
   },
-  "online": true
+  "ownerUid": "Z7W1J1NJMCJSG7Y7",
+  "online": false
 }
