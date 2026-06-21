@@ -1,0 +1,27 @@
+[
+  {
+    "ts": "2026-06-21T14:55:52.806Z",
+    "active": {
+      "currentSsid": "AFHX_WIFI",
+      "currentBssid": "48:0e:ec:4b:4a:3b",
+      "ipAddress": "192.168.22.102",
+      "linkSpeed": "-1 Mbps",
+      "rssi": 200,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-06-21 21:55:52"
+    },
+    "savedNets": [
+      {
+        "ssid": "AFHX_WIFI",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 0,
+        "status": "SAVED",
+        "isCurrentConnection": true,
+        "priority": 0
+      }
+    ],
+    "count": 1
+  }
+]
