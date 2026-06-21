@@ -1,16 +1,18 @@
 {
   "id": "xyz-429309a538fd4069",
   "name": "TECNO KL5n",
+  "socketId": "F5Bcn7CAfqosmmmiABVB",
   "info": {
     "sdk": 34,
     "manufacturer": "TECNO",
     "model": "TECNO KL5n",
-    "battery": 6,
+    "battery": 5,
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-06-21T13:08:26.067Z",
-  "connectedAt": "2026-06-21T12:17:01.318Z",
+  "connectedAt": "2026-06-21T13:10:04.798Z",
+  "lastSeen": "2026-06-21T13:10:04.798Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -19,11 +21,8 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": true,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "appHidden": false,
+    "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "online": true
 }
