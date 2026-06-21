@@ -1,7 +1,6 @@
 {
   "id": "dev-cc201c3434ee4f6b",
   "name": "Vivo V2419",
-  "socketId": "JP_lYF2tcEq3fagJABOF",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
@@ -10,19 +9,22 @@
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-06-21T01:13:56.573Z",
   "connectedAt": "2026-06-21T00:58:39.886Z",
-  "lastSeen": "2026-06-21T00:58:39.886Z",
-  "ownerUid": "1Q3S9EKMTMY2AS4G",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "screenSharing": false
   },
-  "online": true
+  "ownerUid": "1Q3S9EKMTMY2AS4G",
+  "online": false
 }
