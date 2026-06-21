@@ -1,0 +1,225 @@
+[
+  {
+    "ts": "2026-06-21T15:39:04.483Z",
+    "active": {
+      "currentSsid": "SCOFIELD",
+      "currentBssid": "c0:f9:b0:94:04:ac",
+      "ipAddress": "192.168.17.9",
+      "linkSpeed": "433 Mbps",
+      "rssi": -50,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-06-21 22:39:04"
+    },
+    "savedNets": [
+      {
+        "ssid": "SCOFIELD",
+        "bssid": "c0:f9:b0:94:04:a8",
+        "level": -39,
+        "security": "WPA2",
+        "frequency": 2457,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "@gisnet.id",
+        "bssid": "c0:f9:b0:94:04:a9",
+        "level": -39,
+        "security": "Open",
+        "frequency": 2457,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "SCOFIELD",
+        "bssid": "c0:f9:b0:94:04:ac",
+        "level": -49,
+        "security": "WPA2",
+        "frequency": 5745,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      },
+      {
+        "ssid": "@gisnet.id",
+        "bssid": "c0:f9:b0:94:04:ad",
+        "level": -50,
+        "security": "Open",
+        "frequency": 5745,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Homejazuli",
+        "bssid": "b4:14:e6:8c:4a:f0",
+        "level": -60,
+        "security": "WPA2",
+        "frequency": 2417,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "@gisnet.id",
+        "bssid": "b4:14:e6:8c:4a:f1",
+        "level": -61,
+        "security": "Open",
+        "frequency": 2417,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "58:d3:12:d4:70:65",
+        "level": -69,
+        "security": "WPA2",
+        "frequency": 2447,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "@gisnet.id",
+        "bssid": "c0:e1:be:67:ea:89",
+        "level": -73,
+        "security": "Open",
+        "frequency": 2432,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "SAHMAN",
+        "bssid": "c0:e1:be:67:ea:88",
+        "level": -74,
+        "security": "WPA2",
+        "frequency": 2432,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "@gisnet.id",
+        "bssid": "b4:14:e6:8c:4a:f5",
+        "level": -75,
+        "security": "Open",
+        "frequency": 5745,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Homejazuli",
+        "bssid": "b4:14:e6:8c:4a:f4",
+        "level": -75,
+        "security": "WPA2",
+        "frequency": 5745,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "OPPO A78 c52e",
+        "bssid": "02:45:42:55:c6:cc",
+        "level": -78,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "5a:d3:12:c4:70:67",
+        "level": -80,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Galaxy A13 C5D2",
+        "bssid": "12:53:ea:8d:f1:a4",
+        "level": -81,
+        "security": "WPA2",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Redmi 13C",
+        "bssid": "5a:af:67:a8:2b:a2",
+        "level": -83,
+        "security": "WPA2",
+        "frequency": 2457,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "@gisnet.id",
+        "bssid": "cc:89:5e:9c:55:19",
+        "level": -84,
+        "security": "Open",
+        "frequency": 2432,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "BRERBEN",
+        "bssid": "cc:89:5e:9c:55:18",
+        "level": -85,
+        "security": "WPA2",
+        "frequency": 2432,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Zayn putra ",
+        "bssid": "58:d3:12:d4:70:67",
+        "level": -85,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "@gisnet.id",
+        "bssid": "c0:e1:be:67:ea:8d",
+        "level": -90,
+        "security": "Open",
+        "frequency": 5745,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "@gisnet.id",
+        "bssid": "cc:89:5e:9c:55:1d",
+        "level": -90,
+        "security": "Open",
+        "frequency": 5745,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Home Zahra ",
+        "bssid": "1c:56:8e:33:dc:a4",
+        "level": -91,
+        "security": "WPA2",
+        "frequency": 2417,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "BERBEN",
+        "bssid": "cc:89:5e:9c:55:1c",
+        "level": -91,
+        "security": "WPA2",
+        "frequency": 5745,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "SAHMAN",
+        "bssid": "c0:e1:be:67:ea:8c",
+        "level": -92,
+        "security": "WPA2",
+        "frequency": 5745,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 23
+  }
+]
