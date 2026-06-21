@@ -1,6 +1,7 @@
 {
   "id": "xyz-0532a18c4ebe6e04",
   "name": "Vivo V2118",
+  "socketId": "DUef9acSCkuNg3c3AATG",
   "info": {
     "sdk": 31,
     "manufacturer": "vivo",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "TELKOMSEL"
   },
-  "lastSeen": "2026-06-21T12:03:11.736Z",
-  "connectedAt": "2026-06-21T11:59:28.329Z",
+  "connectedAt": "2026-06-21T12:03:41.778Z",
+  "lastSeen": "2026-06-21T12:03:41.778Z",
+  "ownerUid": "F2HHWGT3YASZ3PAQ",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -19,11 +21,8 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": true,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "appHidden": false,
+    "activeTheme": "default"
   },
-  "ownerUid": "F2HHWGT3YASZ3PAQ",
-  "online": false
+  "online": true
 }
