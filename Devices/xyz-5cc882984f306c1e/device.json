@@ -1,28 +1,30 @@
 {
   "id": "xyz-5cc882984f306c1e",
   "name": "Realme RMX5020",
-  "socketId": "XmWsApUnAdu8nUGGAAH1",
   "info": {
     "sdk": 35,
     "manufacturer": "realme",
     "model": "RMX5020",
-    "battery": 59,
+    "battery": 63,
     "charging": true,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-21T09:25:28.939Z",
   "connectedAt": "2026-06-21T09:15:02.287Z",
-  "lastSeen": "2026-06-21T09:15:02.287Z",
-  "ownerUid": "SRS5OPIX5DTSIFA4",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
-    "activeTheme": "default"
+    "appHidden": true,
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "screenSharing": false
   },
-  "online": true
+  "ownerUid": "SRS5OPIX5DTSIFA4",
+  "online": false
 }
