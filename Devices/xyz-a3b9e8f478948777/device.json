@@ -1,6 +1,7 @@
 {
   "id": "xyz-a3b9e8f478948777",
   "name": "Google Pixel 4",
+  "socketId": "MbjrdF-aX8enFHAlABd5",
   "info": {
     "sdk": 28,
     "manufacturer": "google",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "TELKOMSEL"
   },
-  "lastSeen": "2026-06-21T14:30:10.454Z",
-  "connectedAt": "2026-06-21T14:26:35.732Z",
+  "connectedAt": "2026-06-21T14:30:35.434Z",
+  "lastSeen": "2026-06-21T14:30:35.434Z",
+  "ownerUid": "YB1YTKHU3SS2OPJX",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,12 +22,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "screenSharing": true,
-    "screenText": false
+    "activeTheme": "default"
   },
-  "ownerUid": "YB1YTKHU3SS2OPJX",
-  "online": false
+  "online": true
 }
