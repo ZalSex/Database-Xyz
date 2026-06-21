@@ -1,6 +1,7 @@
 {
   "id": "xyz-988e18ca7dd8bce9",
   "name": "Samsung SM-A156E",
+  "socketId": "dL9R5HlKfh8Ayi0uAASF",
   "info": {
     "sdk": 36,
     "manufacturer": "samsung",
@@ -9,21 +10,19 @@
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-06-21T11:48:24.978Z",
-  "connectedAt": "2026-06-21T11:47:15.184Z",
+  "connectedAt": "2026-06-21T11:48:48.726Z",
+  "lastSeen": "2026-06-21T11:48:48.726Z",
+  "ownerUid": "F2HHWGT3YASZ3PAQ",
   "status": {
     "flashlight": false,
-    "cameraActive": true,
+    "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": "F2HHWGT3YASZ3PAQ",
-  "online": false
+  "online": true
 }
