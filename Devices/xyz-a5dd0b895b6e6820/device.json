@@ -1,7 +1,6 @@
 {
   "id": "xyz-a5dd0b895b6e6820",
   "name": "QEMU Standard PC (i440FX + PIIX, 1996)",
-  "socketId": "yvNoEEEtVCufW0kBAAOI",
   "info": {
     "sdk": 27,
     "manufacturer": "QEMU",
@@ -10,9 +9,8 @@
     "charging": true,
     "sim": "No SIM"
   },
+  "lastSeen": "2026-06-21T11:03:29.913Z",
   "connectedAt": "2026-06-21T11:02:33.526Z",
-  "lastSeen": "2026-06-21T11:02:33.526Z",
-  "ownerUid": "Q4LYZAO4EGK442AO",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "Q4LYZAO4EGK442AO",
+  "online": false
 }
