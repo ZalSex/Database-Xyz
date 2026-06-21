@@ -1,16 +1,18 @@
 {
   "id": "dev-0dac0dd38f59afa4",
   "name": "OPPO CPH2631",
+  "socketId": "i09p_vIUlYez3TyzABdM",
   "info": {
     "sdk": 36,
     "manufacturer": "OPPO",
     "model": "CPH2631",
-    "battery": 19,
+    "battery": 36,
     "charging": false,
     "sim": "TELKOMSEL"
   },
-  "lastSeen": "2026-06-21T02:33:18.849Z",
-  "connectedAt": "2026-06-21T02:27:09.129Z",
+  "connectedAt": "2026-06-21T07:07:27.804Z",
+  "lastSeen": "2026-06-21T07:07:27.804Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,14 +22,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": false,
-    "protection": false,
-    "screenText": false,
-    "sos": false,
-    "screenSharing": false,
-    "openApp": "com.oplus.camera"
+    "activeTheme": "default"
   },
-  "ownerUid": "0255QCCLV8T7HCPJ",
-  "online": false
+  "online": true
 }
