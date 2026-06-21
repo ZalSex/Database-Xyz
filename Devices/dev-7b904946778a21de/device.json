@@ -1,6 +1,7 @@
 {
   "id": "dev-7b904946778a21de",
   "name": "OPPO CPH1909",
+  "socketId": "oOVoYriHB0fhjbTCABUL",
   "info": {
     "sdk": 27,
     "manufacturer": "OPPO",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-06-21T04:04:29.213Z",
-  "connectedAt": "2026-06-21T03:59:39.700Z",
+  "connectedAt": "2026-06-21T04:05:05.360Z",
+  "lastSeen": "2026-06-21T04:05:05.360Z",
+  "ownerUid": "XK17CNI20E2P5NFP",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,12 +22,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "brightness": 54,
-    "screenSharing": true
+    "activeTheme": "default"
   },
-  "ownerUid": "XK17CNI20E2P5NFP",
-  "online": false
+  "online": true
 }
