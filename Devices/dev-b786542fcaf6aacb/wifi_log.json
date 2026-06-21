@@ -1,0 +1,63 @@
+[
+  {
+    "ts": "2026-06-21T06:31:48.539Z",
+    "active": {
+      "currentSsid": "FADIL",
+      "currentBssid": "14:65:6a:b3:a0:74",
+      "ipAddress": "192.168.18.7",
+      "linkSpeed": "72 Mbps",
+      "rssi": -48,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-06-21 13:31:50"
+    },
+    "savedNets": [
+      {
+        "ssid": "0000Rakuten",
+        "bssid": "",
+        "security": "WPA-EAP",
+        "networkId": 0,
+        "status": "DISABLED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Galaxy A21s541E",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 1,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Infinix SMART 5",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 2,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "MAWARMERAH",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 3,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "FADIL",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 4,
+        "status": "CONNECTED",
+        "isCurrentConnection": true,
+        "priority": 0
+      }
+    ],
+    "count": 5
+  }
+]
