@@ -1,18 +1,16 @@
 {
   "id": "dev-495f45059d91f9ae",
   "name": "OPPO CPH2477",
-  "socketId": "OHtJ4nvKvtPtYmrTABO4",
   "info": {
     "sdk": 31,
     "manufacturer": "OPPO",
     "model": "CPH2477",
-    "battery": 95,
+    "battery": 93,
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-21T02:06:15.371Z",
   "connectedAt": "2026-06-21T01:51:12.890Z",
-  "lastSeen": "2026-06-21T01:51:12.890Z",
-  "ownerUid": "IYYOCI0ZCHEVVAWZ",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -21,8 +19,12 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
-    "activeTheme": "default"
+    "appHidden": true,
+    "activeTheme": "default",
+    "protectionEnabled": false,
+    "protection": false,
+    "screenSharing": false
   },
-  "online": true
+  "ownerUid": "IYYOCI0ZCHEVVAWZ",
+  "online": false
 }
