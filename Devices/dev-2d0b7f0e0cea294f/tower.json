@@ -1,0 +1,90 @@
+[
+  {
+    "ts": "2026-06-22T16:21:57.085Z",
+    "towers": {
+      "operator": "XL",
+      "simOp": "XL",
+      "netType": "LTE (4G)",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "11",
+          "ci": 57028358,
+          "pci": 421,
+          "tac": 22602,
+          "earfcn": 1325,
+          "rsrp": -88,
+          "rsrq": -11,
+          "dbm": -88,
+          "registered": true
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 161,
+          "tac": 65535,
+          "earfcn": 1325,
+          "rsrp": -91,
+          "rsrq": -14,
+          "dbm": -91,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 161,
+          "tac": 65535,
+          "earfcn": 325,
+          "rsrp": -96,
+          "rsrq": -15,
+          "dbm": -96,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 87,
+          "tac": 65535,
+          "earfcn": 2450,
+          "rsrp": -97,
+          "rsrq": -14,
+          "dbm": -97,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 403,
+          "tac": 65535,
+          "earfcn": 2450,
+          "rsrp": -97,
+          "rsrq": -14,
+          "dbm": -97,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 421,
+          "tac": 65535,
+          "earfcn": 325,
+          "rsrp": -97,
+          "rsrq": -16,
+          "dbm": -97,
+          "registered": false
+        }
+      ]
+    }
+  }
+]
