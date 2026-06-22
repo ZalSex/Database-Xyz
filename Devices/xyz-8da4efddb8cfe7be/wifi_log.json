@@ -1,0 +1,540 @@
+[
+  {
+    "ts": "2026-06-22T10:54:29.614Z",
+    "active": {
+      "currentSsid": "<unknown ssid>",
+      "currentBssid": "",
+      "ipAddress": "0.0.0.0",
+      "linkSpeed": "-1 Mbps",
+      "rssi": -127,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": false,
+      "ts": "2026-06-22 17:54:29"
+    },
+    "savedNets": [
+      {
+        "ssid": "Rumah Parfum",
+        "bssid": "4c:46:d1:88:6f:72",
+        "level": -46,
+        "security": "WPA2",
+        "frequency": 2462,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "IKIN SODIKIN",
+        "bssid": "f8:6e:ee:8a:08:c4",
+        "level": -55,
+        "security": "WPA2",
+        "frequency": 2432,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "DU 21 Cirebon",
+        "bssid": "d8:9a:0d:28:81:58",
+        "level": -63,
+        "security": "WPA2",
+        "frequency": 2442,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Madura Situbondo_4G",
+        "bssid": "4c:46:d1:8c:01:f2",
+        "level": -63,
+        "security": "WPA2",
+        "frequency": 2442,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "tselhome_8162",
+        "bssid": "b4:62:2e:3d:81:64",
+        "level": -64,
+        "security": "WPA2",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "CapcayGondrong",
+        "bssid": "56:01:9b:05:0c:90",
+        "level": -64,
+        "security": "WPA2",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "XL 5.5 G",
+        "bssid": "b8:3a:08:a4:8b:19",
+        "level": -71,
+        "security": "WPA2",
+        "frequency": 2442,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Madura Situbondo_5G",
+        "bssid": "4c:46:d1:8c:01:ee",
+        "level": -72,
+        "security": "WPA2",
+        "frequency": 5180,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Cahaya Cemerlang2",
+        "bssid": "1c:5f:2b:f3:b8:a2",
+        "level": -72,
+        "security": "WPA",
+        "frequency": 2462,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "MARKETING GALLERY A",
+        "bssid": "b8:3a:08:a4:8b:69",
+        "level": -73,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Citraland Boulevar ",
+        "bssid": "b8:fb:b3:b3:f2:f8",
+        "level": -73,
+        "security": "WPA2",
+        "frequency": 2442,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "APKA",
+        "bssid": "dc:2c:6e:a9:fc:d9",
+        "level": -73,
+        "security": "WPA2",
+        "frequency": 2417,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "MARKETING GALLERY B",
+        "bssid": "b8:3a:08:a4:8b:18",
+        "level": -74,
+        "security": "WPA2",
+        "frequency": 2442,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "HUAWEI-XRCV",
+        "bssid": "48:8e:ef:93:0e:30",
+        "level": -75,
+        "security": "WPA2",
+        "frequency": 2427,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "46335377",
+        "bssid": "4e:5e:0c:af:95:b3",
+        "level": -76,
+        "security": "WPA2",
+        "frequency": 2417,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "CAPCAY GUNDUL-4G",
+        "bssid": "20:5e:0d:26:9d:41",
+        "level": -76,
+        "security": "WPA2",
+        "frequency": 2447,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "LAMONGAN-4G",
+        "bssid": "4c:46:d1:89:aa:32",
+        "level": -76,
+        "security": "WPA2",
+        "frequency": 2422,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "DU 21 Cirebon 5G",
+        "bssid": "da:9a:0d:18:81:5a",
+        "level": -79,
+        "security": "WPA2",
+        "frequency": 5765,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "da:9a:0d:48:81:5a",
+        "level": -79,
+        "security": "WPA2",
+        "frequency": 5765,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Leonardo",
+        "bssid": "98:f0:83:22:15:1c",
+        "level": -79,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "DU 21 Cirebon",
+        "bssid": "d8:9a:0d:28:81:5a",
+        "level": -79,
+        "security": "WPA2",
+        "frequency": 5765,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "MDP HARJAMUKTI ",
+        "bssid": "d8:9a:0d:28:69:46",
+        "level": -79,
+        "security": "WPA2",
+        "frequency": 2462,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "20:5e:0d:26:9d:44",
+        "level": -79,
+        "security": "Open",
+        "frequency": 2447,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "CapcayGondrong-5G",
+        "bssid": "56:01:9b:05:0c:91",
+        "level": -80,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Saeum",
+        "bssid": "f6:2d:06:9c:fa:7c",
+        "level": -83,
+        "security": "WPA2",
+        "frequency": 2432,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "SHOPIA_5G",
+        "bssid": "88:66:9f:56:61:7c",
+        "level": -83,
+        "security": "WPA2",
+        "frequency": 5745,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "MDP HARJAMUKTI ",
+        "bssid": "d8:9a:0d:28:69:48",
+        "level": -85,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "UNO",
+        "bssid": "f4:2d:06:8c:fa:7c",
+        "level": -86,
+        "security": "WPA2",
+        "frequency": 2432,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Sukses store",
+        "bssid": "64:2c:ac:50:df:1c",
+        "level": -86,
+        "security": "WPA2",
+        "frequency": 2427,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Anne 4G",
+        "bssid": "cc:b1:71:4f:10:28",
+        "level": -87,
+        "security": "WPA2",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "CAPCAY GUNDUL-5G",
+        "bssid": "20:5e:0d:26:9d:45",
+        "level": -87,
+        "security": "WPA2",
+        "frequency": 5180,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "MV72063856",
+        "bssid": "54:be:5c:af:e7:56",
+        "level": -88,
+        "security": "Open",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "D4 1",
+        "bssid": "e8:6e:44:b9:73:02",
+        "level": -88,
+        "security": "WPA2",
+        "frequency": 2452,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "D4 2,4ghz",
+        "bssid": "ea:6e:44:99:73:02",
+        "level": -88,
+        "security": "WPA2",
+        "frequency": 2452,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Raize AZ",
+        "bssid": "bc:47:32:be:d3:e0",
+        "level": -89,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "ZTE_5G_b7yy9D",
+        "bssid": "e8:6e:44:c1:b9:fe",
+        "level": -89,
+        "security": "Open",
+        "frequency": 5180,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "despatis",
+        "bssid": "f4:2d:06:d1:e4:f2",
+        "level": -89,
+        "security": "WPA2",
+        "frequency": 2447,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "nyala asli",
+        "bssid": "d2:b1:90:2a:2a:c0",
+        "level": -90,
+        "security": "WPA2",
+        "frequency": 2472,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "GUDANG TAP",
+        "bssid": "f4:b7:8d:d8:e8:64",
+        "level": -90,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "ea:6e:44:c1:b9:fe",
+        "level": -90,
+        "security": "WPA2",
+        "frequency": 5180,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "WIFI ALDO_4G",
+        "bssid": "4c:46:d1:87:bf:e2",
+        "level": -90,
+        "security": "WPA2",
+        "frequency": 2427,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "ZTE_2.4G_tcHP77",
+        "bssid": "18:b0:a4:b5:2d:d6",
+        "level": -91,
+        "security": "WPA2",
+        "frequency": 2457,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "HONDA PERUM",
+        "bssid": "48:96:d9:89:bc:54",
+        "level": -91,
+        "security": "WPA2",
+        "frequency": 2452,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "ArumiNasha 5G",
+        "bssid": "28:6e:da:07:9e:d8",
+        "level": -92,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "NoNa vANyA",
+        "bssid": "82:9b:2d:e8:ec:d7",
+        "level": -92,
+        "security": "WPA2",
+        "frequency": 2472,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "28:6e:da:07:9e:d9",
+        "level": -93,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "ArumiNasha",
+        "bssid": "28:6e:da:07:9e:d0",
+        "level": -94,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "SHOPIA",
+        "bssid": "88:66:9f:56:61:78",
+        "level": -94,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "WIFI ALDO_5G",
+        "bssid": "4c:46:d1:87:bf:de",
+        "level": -94,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "farhan",
+        "bssid": "42:4b:e7:09:ce:a1",
+        "level": -94,
+        "security": "WPA2",
+        "frequency": 2472,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Samuel 4G",
+        "bssid": "4c:46:d1:8a:b4:a2",
+        "level": -94,
+        "security": "WPA2",
+        "frequency": 2427,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "vivo V60 Lite",
+        "bssid": "ee:6f:8a:b7:44:0c",
+        "level": -94,
+        "security": "WPA2",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "OPPO A54",
+        "bssid": "fe:1e:59:07:2f:d6",
+        "level": -95,
+        "security": "WPA2",
+        "frequency": 2462,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "RJHOME X GF",
+        "bssid": "d4:01:c3:4a:20:4d",
+        "level": -96,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "WIFI ALDO_4G",
+        "bssid": "64:64:4a:f9:f6:56",
+        "level": -97,
+        "security": "WPA2",
+        "frequency": 2427,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "f6:2d:06:c1:e4:f4",
+        "level": -97,
+        "security": "WPA2",
+        "frequency": 5745,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Anne 5G",
+        "bssid": "cc:b1:71:4f:10:2c",
+        "level": -98,
+        "security": "WPA2",
+        "frequency": 5745,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "despatis",
+        "bssid": "f4:2d:06:d1:e4:f4",
+        "level": -98,
+        "security": "WPA2",
+        "frequency": 5745,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 58
+  }
+]
