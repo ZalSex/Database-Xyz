@@ -1,18 +1,16 @@
 {
   "id": "xyz-a979259de23dca35",
   "name": "INFINIX MOBILITY LIMITED Infinix X6512",
-  "socketId": "ClSNbvCH13k4WppMACTk",
   "info": {
     "sdk": 30,
     "manufacturer": "INFINIX MOBILITY LIMITED",
     "model": "Infinix X6512",
-    "battery": 44,
+    "battery": 48,
     "charging": true,
     "sim": "INDOSATOOREDOO"
   },
+  "lastSeen": "2026-06-22T18:01:22.156Z",
   "connectedAt": "2026-06-22T17:50:20.063Z",
-  "lastSeen": "2026-06-22T17:50:20.063Z",
-  "ownerUid": "H9H1ZRLYBOMN8V0R",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,11 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "screenSharing": false
   },
-  "online": true
+  "ownerUid": "H9H1ZRLYBOMN8V0R",
+  "online": false
 }
