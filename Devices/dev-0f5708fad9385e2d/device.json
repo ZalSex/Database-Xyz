@@ -1,18 +1,16 @@
 {
   "id": "dev-0f5708fad9385e2d",
   "name": "Realme RMX3834",
-  "socketId": "tWM9OTp0d_OLhhdoACNo",
   "info": {
     "sdk": 34,
     "manufacturer": "realme",
     "model": "RMX3834",
-    "battery": 65,
+    "battery": 63,
     "charging": false,
     "sim": "No SIM"
   },
+  "lastSeen": "2026-06-22T15:44:57.151Z",
   "connectedAt": "2026-06-22T15:42:27.559Z",
-  "lastSeen": "2026-06-22T15:42:27.559Z",
-  "ownerUid": "KNWFUVQJKF0TEEKK",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "KNWFUVQJKF0TEEKK",
+  "online": false
 }
