@@ -1,36 +1,28 @@
 {
   "id": "xyz-a3b9e8f478948777",
   "name": "Google Pixel 4",
+  "socketId": "F9dyQT2hfM-Ia7wKAB9T",
   "info": {
     "sdk": 28,
     "manufacturer": "google",
     "model": "Pixel 4",
-    "battery": 7,
-    "charging": true,
+    "battery": 54,
+    "charging": false,
     "sim": "TELKOMSEL"
   },
-  "lastSeen": "2026-06-21T14:56:23.934Z",
-  "connectedAt": "2026-06-21T14:30:35.434Z",
+  "connectedAt": "2026-06-22T07:54:07.900Z",
+  "lastSeen": "2026-06-22T07:54:07.900Z",
+  "ownerUid": "YB1YTKHU3SS2OPJX",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": true,
+    "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": true,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "openAppError": "app_not_found",
-    "openApp": "com.android.gallery3d",
-    "screenText": false,
-    "screenSharing": false,
-    "spamDialog": false,
-    "brightness": 0,
-    "sos": false
+    "appHidden": false,
+    "activeTheme": "default"
   },
-  "ownerUid": "YB1YTKHU3SS2OPJX",
-  "online": false
+  "online": true
 }
