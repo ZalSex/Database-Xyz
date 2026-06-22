@@ -86,5 +86,41 @@
         }
       ]
     }
+  },
+  {
+    "ts": "2026-06-22T16:28:07.655Z",
+    "towers": {
+      "operator": "XL",
+      "simOp": "XL",
+      "netType": "LTE (4G)",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "11",
+          "ci": 57028359,
+          "pci": 161,
+          "tac": 22602,
+          "earfcn": 325,
+          "rsrp": -83,
+          "rsrq": -12,
+          "dbm": -83,
+          "registered": true
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 421,
+          "tac": 65535,
+          "earfcn": 325,
+          "rsrp": -85,
+          "rsrq": -14,
+          "dbm": -85,
+          "registered": false
+        }
+      ]
+    }
   }
 ]
