@@ -1,18 +1,16 @@
 {
   "id": "xyz-d7d9307058531db4",
   "name": "Realme RMX3834",
-  "socketId": "IiqRYMhK6H_tnWvIADVB",
   "info": {
     "sdk": 35,
     "manufacturer": "realme",
     "model": "RMX3834",
-    "battery": 68,
+    "battery": 67,
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-23T12:36:56.946Z",
   "connectedAt": "2026-06-23T12:28:38.369Z",
-  "lastSeen": "2026-06-23T12:28:38.369Z",
-  "ownerUid": "583PPLINKM9B8UQW",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -21,8 +19,16 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
-    "activeTheme": "default"
+    "appHidden": true,
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "volume_media": 100,
+    "volume_ring": 100,
+    "volume_alarm": 100,
+    "volume_notif": 100,
+    "volume_call": 100
   },
-  "online": true
+  "ownerUid": "583PPLINKM9B8UQW",
+  "online": false
 }
