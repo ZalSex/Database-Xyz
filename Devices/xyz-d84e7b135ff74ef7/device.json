@@ -1,18 +1,16 @@
 {
   "id": "xyz-d84e7b135ff74ef7",
   "name": "Infinix X665E",
-  "socketId": "4vBGIAzg82f5Lp_VADc0",
   "info": {
     "sdk": 31,
     "manufacturer": "INFINIX",
     "model": "Infinix X665E",
-    "battery": 49,
+    "battery": 48,
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-06-23T15:41:22.723Z",
   "connectedAt": "2026-06-23T15:38:39.827Z",
-  "lastSeen": "2026-06-23T15:38:39.827Z",
-  "ownerUid": "583PPLINKM9B8UQW",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -21,8 +19,11 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
-    "activeTheme": "default"
+    "appHidden": true,
+    "activeTheme": "default",
+    "protectionEnabled": false,
+    "protection": false
   },
-  "online": true
+  "ownerUid": "583PPLINKM9B8UQW",
+  "online": false
 }
