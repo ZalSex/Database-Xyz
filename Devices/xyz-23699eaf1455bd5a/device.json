@@ -1,18 +1,16 @@
 {
   "id": "xyz-23699eaf1455bd5a",
   "name": "Samsung SM-A305F",
-  "socketId": "uQLEByO1EQkaGtrHAFwu",
   "info": {
     "sdk": 30,
     "manufacturer": "samsung",
     "model": "SM-A305F",
     "battery": 100,
-    "charging": true,
+    "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-24T21:46:58.589Z",
   "connectedAt": "2026-06-24T21:19:28.557Z",
-  "lastSeen": "2026-06-24T21:19:28.557Z",
-  "ownerUid": "VXXHS1U2PV11R8QR",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "VXXHS1U2PV11R8QR",
+  "online": false
 }
