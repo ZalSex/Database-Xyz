@@ -1,16 +1,18 @@
 {
   "id": "xyz-041cc3a015f71670",
   "name": "vivo 1902",
+  "socketId": "rGSINoQMxDEs7bHLAE_e",
   "info": {
     "sdk": 28,
     "manufacturer": "vivo",
     "model": "vivo 1902",
-    "battery": 1,
-    "charging": false,
+    "battery": 2,
+    "charging": true,
     "sim": "3SinyalKuatHemat"
   },
-  "lastSeen": "2026-06-24T12:16:31.166Z",
-  "connectedAt": "2026-06-24T12:15:21.461Z",
+  "connectedAt": "2026-06-24T12:49:35.844Z",
+  "lastSeen": "2026-06-24T12:49:35.844Z",
+  "ownerUid": "85D99Y77ON36KW4I",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,5 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "85D99Y77ON36KW4I",
-  "online": false
+  "online": true
 }
