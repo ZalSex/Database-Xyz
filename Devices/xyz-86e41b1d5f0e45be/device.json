@@ -1,18 +1,16 @@
 {
   "id": "xyz-86e41b1d5f0e45be",
   "name": "Vivo V2204",
-  "socketId": "3D21wHAafv2qbwkyAFCf",
   "info": {
     "sdk": 31,
     "manufacturer": "vivo",
     "model": "V2204",
-    "battery": 30,
+    "battery": 29,
     "charging": false,
     "sim": "No SIM"
   },
+  "lastSeen": "2026-06-24T13:35:37.267Z",
   "connectedAt": "2026-06-24T13:21:50.498Z",
-  "lastSeen": "2026-06-24T13:21:50.498Z",
-  "ownerUid": "R5XC1X316SVMXCJ2",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "R5XC1X316SVMXCJ2",
+  "online": false
 }
