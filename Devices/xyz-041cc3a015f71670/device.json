@@ -1,7 +1,6 @@
 {
   "id": "xyz-041cc3a015f71670",
   "name": "vivo 1902",
-  "socketId": "rGSINoQMxDEs7bHLAE_e",
   "info": {
     "sdk": 28,
     "manufacturer": "vivo",
@@ -10,19 +9,21 @@
     "charging": true,
     "sim": "3SinyalKuatHemat"
   },
+  "lastSeen": "2026-06-24T12:50:19.856Z",
   "connectedAt": "2026-06-24T12:49:35.844Z",
-  "lastSeen": "2026-06-24T12:49:35.844Z",
-  "ownerUid": "85D99Y77ON36KW4I",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
-    "activeTheme": "default"
+    "appHidden": true,
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "85D99Y77ON36KW4I",
+  "online": false
 }
