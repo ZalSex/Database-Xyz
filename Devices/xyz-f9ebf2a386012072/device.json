@@ -1,18 +1,16 @@
 {
   "id": "xyz-f9ebf2a386012072",
   "name": "OPPO CPH1937",
-  "socketId": "HMYwtxLbZ7aTNTeEAEmL",
   "info": {
     "sdk": 30,
     "manufacturer": "OPPO",
     "model": "CPH1937",
-    "battery": 61,
+    "battery": 77,
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-24T09:46:15.439Z",
   "connectedAt": "2026-06-24T09:13:20.221Z",
-  "lastSeen": "2026-06-24T09:13:20.221Z",
-  "ownerUid": "H9H1ZRLYBOMN8V0R",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,11 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "screenSharing": false
   },
-  "online": true
+  "ownerUid": "H9H1ZRLYBOMN8V0R",
+  "online": false
 }
