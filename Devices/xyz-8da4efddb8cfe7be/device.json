@@ -1,18 +1,16 @@
 {
   "id": "xyz-8da4efddb8cfe7be",
   "name": "Vivo V2352",
-  "socketId": "4s3Js2uAqkT5xtwVAFI4",
   "info": {
     "sdk": 36,
     "manufacturer": "vivo",
     "model": "V2352",
     "battery": 91,
-    "charging": true,
+    "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-06-24T14:34:05.259Z",
   "connectedAt": "2026-06-24T14:31:39.384Z",
-  "lastSeen": "2026-06-24T14:31:39.384Z",
-  "ownerUid": "IYYOCI0ZCHEVVAWZ",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "IYYOCI0ZCHEVVAWZ",
+  "online": false
 }
