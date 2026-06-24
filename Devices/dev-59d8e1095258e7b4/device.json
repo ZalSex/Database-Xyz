@@ -1,18 +1,16 @@
 {
   "id": "dev-59d8e1095258e7b4",
   "name": "Samsung SM-J330G",
-  "socketId": "KmEapf9pvVPDDBmwAEa-",
   "info": {
     "sdk": 28,
     "manufacturer": "samsung",
     "model": "SM-J330G",
-    "battery": 45,
+    "battery": 30,
     "charging": false,
     "sim": "No SIM"
   },
+  "lastSeen": "2026-06-24T08:06:31.120Z",
   "connectedAt": "2026-06-24T07:43:49.282Z",
-  "lastSeen": "2026-06-24T07:43:49.282Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
