@@ -1,6 +1,7 @@
 {
   "id": "xyz-8da4efddb8cfe7be",
   "name": "Vivo V2352",
+  "socketId": "zglQzMba7cYz989VAEev",
   "info": {
     "sdk": 36,
     "manufacturer": "vivo",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-06-24T08:18:50.999Z",
-  "connectedAt": "2026-06-24T08:16:24.239Z",
+  "connectedAt": "2026-06-24T08:18:54.243Z",
+  "lastSeen": "2026-06-24T08:18:54.243Z",
+  "ownerUid": "IYYOCI0ZCHEVVAWZ",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,16 +22,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "brightness": 100,
-    "volume_media": 50,
-    "volume_alarm": 100,
-    "volume_ring": 100,
-    "volume_notif": 100,
-    "volume_call": 100
+    "activeTheme": "default"
   },
-  "ownerUid": "IYYOCI0ZCHEVVAWZ",
-  "online": false
+  "online": true
 }
