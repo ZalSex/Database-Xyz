@@ -1,7 +1,6 @@
 {
   "id": "xyz-dc256720fdac2ac1",
   "name": "Samsung SM-J250F",
-  "socketId": "mD2BfMSTTk-TGrKXAEii",
   "info": {
     "sdk": 25,
     "manufacturer": "samsung",
@@ -10,9 +9,8 @@
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-06-24T08:47:01.824Z",
   "connectedAt": "2026-06-24T08:46:20.867Z",
-  "lastSeen": "2026-06-24T08:46:20.867Z",
-  "ownerUid": "85D99Y77ON36KW4I",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "85D99Y77ON36KW4I",
+  "online": false
 }
