@@ -1,0 +1,45 @@
+[
+  {
+    "ts": "2026-06-24T08:55:17.102Z",
+    "active": {
+      "currentSsid": "vivo 1907",
+      "currentBssid": "ca:96:fd:4d:6d:e0",
+      "ipAddress": "192.168.192.5",
+      "linkSpeed": "72 Mbps",
+      "rssi": -29,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-06-24 15:55:14"
+    },
+    "savedNets": [
+      {
+        "ssid": "vivo 1907",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 1,
+        "status": "CONNECTED",
+        "isCurrentConnection": true,
+        "priority": 3
+      },
+      {
+        "ssid": "realme 7i",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 0,
+        "status": "DISABLED",
+        "isCurrentConnection": false,
+        "priority": 1
+      },
+      {
+        "ssid": "sakedap weh",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 2,
+        "status": "DISABLED",
+        "isCurrentConnection": false,
+        "priority": 11
+      }
+    ],
+    "count": 3
+  }
+]
