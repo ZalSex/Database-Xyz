@@ -104,5 +104,243 @@
         }
       ]
     }
+  },
+  {
+    "ts": "2026-06-24T12:53:46.942Z",
+    "towers": {
+      "operator": "Indosat Ooredoo",
+      "simOp": "Indosat Ooredoo",
+      "netType": "LTE (4G)",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "1",
+          "ci": 128809790,
+          "pci": 369,
+          "tac": 42237,
+          "earfcn": 1475,
+          "rsrp": -97,
+          "rsrq": -11,
+          "dbm": -97,
+          "registered": true
+        },
+        {
+          "type": "LTE",
+          "mcc": "2147483647",
+          "mnc": "2147483647",
+          "ci": 2147483647,
+          "pci": 68,
+          "tac": 2147483647,
+          "earfcn": 1475,
+          "rsrp": -109,
+          "rsrq": -20,
+          "dbm": -109,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "2147483647",
+          "mnc": "2147483647",
+          "ci": 2147483647,
+          "pci": 369,
+          "tac": 2147483647,
+          "earfcn": 200,
+          "rsrp": -96,
+          "rsrq": -9,
+          "dbm": -96,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "2147483647",
+          "mnc": "2147483647",
+          "ci": 2147483647,
+          "pci": 169,
+          "tac": 2147483647,
+          "earfcn": 200,
+          "rsrp": -112,
+          "rsrq": -20,
+          "dbm": -112,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "2147483647",
+          "mnc": "2147483647",
+          "ci": 2147483647,
+          "pci": 229,
+          "tac": 2147483647,
+          "earfcn": 200,
+          "rsrp": -108,
+          "rsrq": -20,
+          "dbm": -108,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "2147483647",
+          "mnc": "2147483647",
+          "ci": 2147483647,
+          "pci": 369,
+          "tac": 2147483647,
+          "earfcn": 75,
+          "rsrp": -97,
+          "rsrq": -12,
+          "dbm": -97,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "2147483647",
+          "mnc": "2147483647",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 0,
+          "dbm": -113,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "2147483647",
+          "mnc": "2147483647",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 77,
+          "dbm": -113,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "2147483647",
+          "mnc": "2147483647",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 83,
+          "dbm": -113,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "2147483647",
+          "mnc": "2147483647",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 85,
+          "dbm": -113,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "2147483647",
+          "mnc": "2147483647",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 76,
+          "dbm": -113,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "2147483647",
+          "mnc": "2147483647",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 78,
+          "dbm": -113,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "2147483647",
+          "mnc": "2147483647",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 79,
+          "dbm": -113,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "2147483647",
+          "mnc": "2147483647",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 80,
+          "dbm": -113,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "2147483647",
+          "mnc": "2147483647",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 623,
+          "dbm": -113,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "2147483647",
+          "mnc": "2147483647",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 672,
+          "dbm": -113,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "2147483647",
+          "mnc": "2147483647",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 674,
+          "dbm": -113,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "2147483647",
+          "mnc": "2147483647",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 676,
+          "dbm": -113,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "2147483647",
+          "mnc": "2147483647",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 677,
+          "dbm": -113,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "2147483647",
+          "mnc": "2147483647",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 771,
+          "dbm": -113,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "2147483647",
+          "mnc": "2147483647",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 773,
+          "dbm": -113,
+          "registered": false
+        }
+      ]
+    }
   }
 ]
