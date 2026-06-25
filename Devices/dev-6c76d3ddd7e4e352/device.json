@@ -1,7 +1,6 @@
 {
   "id": "dev-6c76d3ddd7e4e352",
   "name": "Xiaomi 25069PTEBG",
-  "socketId": "AlzeHMEyHl_jER2eAG99",
   "info": {
     "sdk": 35,
     "manufacturer": "Xiaomi",
@@ -10,11 +9,10 @@
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-06-25T09:24:42.248Z",
   "connectedAt": "2026-06-25T09:24:12.895Z",
-  "lastSeen": "2026-06-25T09:24:12.895Z",
-  "ownerUid": "J9X3UB14F7U8SBNL",
   "status": {
-    "flashlight": false,
+    "flashlight": true,
     "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
@@ -22,7 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "J9X3UB14F7U8SBNL",
+  "online": false
 }
