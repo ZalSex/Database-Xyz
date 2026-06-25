@@ -5,12 +5,12 @@
     "sdk": 36,
     "manufacturer": "vivo",
     "model": "V2332",
-    "battery": 55,
+    "battery": 52,
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-06-25T15:33:00.218Z",
-  "connectedAt": "2026-06-25T15:30:09.047Z",
+  "lastSeen": "2026-06-25T15:54:40.885Z",
+  "connectedAt": "2026-06-25T15:35:18.440Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -19,8 +19,10 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
-    "activeTheme": "default"
+    "appHidden": true,
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
   "ownerUid": null,
   "online": false
