@@ -1,18 +1,16 @@
 {
   "id": "xyz-8c626583d47e009f",
   "name": "Xiaomi 23028RN4DG",
-  "socketId": "7j4GZ5mZzkmGEtArAAGa",
   "info": {
     "sdk": 33,
     "manufacturer": "Xiaomi",
     "model": "23028RN4DG",
-    "battery": 95,
+    "battery": 94,
     "charging": false,
     "sim": "TELKOMSEL"
   },
+  "lastSeen": "2026-06-25T11:27:40.051Z",
   "connectedAt": "2026-06-25T11:25:49.181Z",
-  "lastSeen": "2026-06-25T11:25:49.181Z",
-  "ownerUid": "VDTS0MEOI93BQY8E",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "VDTS0MEOI93BQY8E",
+  "online": false
 }
