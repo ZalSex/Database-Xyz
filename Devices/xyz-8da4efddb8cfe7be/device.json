@@ -5,12 +5,12 @@
     "sdk": 36,
     "manufacturer": "vivo",
     "model": "V2352",
-    "battery": 17,
-    "charging": false,
+    "battery": 25,
+    "charging": true,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-06-25T17:23:34.989Z",
-  "connectedAt": "2026-06-25T17:16:15.522Z",
+  "lastSeen": "2026-06-25T17:49:38.408Z",
+  "connectedAt": "2026-06-25T17:23:37.510Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,7 +20,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
   "ownerUid": "IYYOCI0ZCHEVVAWZ",
   "online": false
