@@ -1,18 +1,16 @@
 {
   "id": "xyz-a761da590ba715ea",
   "name": "OPPO CPH2565",
-  "socketId": "V4gBhKQGA1UwSCU-AG8a",
   "info": {
     "sdk": 35,
     "manufacturer": "OPPO",
     "model": "CPH2565",
-    "battery": 45,
+    "battery": 44,
     "charging": false,
     "sim": "ISAT-PEMILUDAMAI"
   },
+  "lastSeen": "2026-06-25T09:16:04.078Z",
   "connectedAt": "2026-06-25T09:10:30.706Z",
-  "lastSeen": "2026-06-25T09:10:30.706Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
