@@ -1,28 +1,39 @@
 {
   "id": "xyz-7f76dd989a697e42",
   "name": "TECNO KL4",
-  "socketId": "F_z9jroKrC5qsWl3AAnd",
   "info": {
     "sdk": 34,
     "manufacturer": "TECNO",
     "model": "TECNO KL4",
-    "battery": 75,
+    "battery": 74,
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
+  "lastSeen": "2026-06-25T15:53:42.370Z",
   "connectedAt": "2026-06-25T15:39:22.721Z",
-  "lastSeen": "2026-06-25T15:39:22.721Z",
-  "ownerUid": "5OLLPFU81MKWGB8Q",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": false,
+    "wallpaperSet": true,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": false,
+    "protection": false,
+    "openApp": "com.worldance.drama",
+    "screenText": false,
+    "spamDialog": false,
+    "sos": false,
+    "volume_media": 29,
+    "volume_alarm": 27,
+    "volume_notif": 30,
+    "volume_call": 22,
+    "brightness": 16,
+    "screenSharing": true
   },
-  "online": true
+  "ownerUid": "5OLLPFU81MKWGB8Q",
+  "online": false
 }
