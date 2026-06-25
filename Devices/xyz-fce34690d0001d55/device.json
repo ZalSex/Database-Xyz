@@ -1,16 +1,18 @@
 {
   "id": "xyz-fce34690d0001d55",
   "name": "Infinix X6823C",
+  "socketId": "6PAjHrDB6eye49LyAGms",
   "info": {
     "sdk": 31,
     "manufacturer": "INFINIX",
     "model": "Infinix X6823C",
-    "battery": 69,
+    "battery": 47,
     "charging": false,
     "sim": "TELKOMSEL"
   },
-  "lastSeen": "2026-06-25T02:34:52.855Z",
-  "connectedAt": "2026-06-25T02:33:43.283Z",
+  "connectedAt": "2026-06-25T06:11:12.661Z",
+  "lastSeen": "2026-06-25T06:11:12.661Z",
+  "ownerUid": "EW5ONP5XFDWZBLQW",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -19,11 +21,8 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": true,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "appHidden": false,
+    "activeTheme": "default"
   },
-  "ownerUid": "EW5ONP5XFDWZBLQW",
-  "online": false
+  "online": true
 }
