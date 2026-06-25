@@ -1,18 +1,16 @@
 {
   "id": "xyz-347e55e4c81f9a93",
   "name": "Xiaomi 22120RN86G",
-  "socketId": "Yiz2Beza_ZJpH4y9AFcH",
   "info": {
     "sdk": 34,
     "manufacturer": "Xiaomi",
     "model": "22120RN86G",
-    "battery": 35,
+    "battery": 100,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-06-25T03:00:13.788Z",
   "connectedAt": "2026-06-24T17:12:42.535Z",
-  "lastSeen": "2026-06-24T17:12:42.535Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
