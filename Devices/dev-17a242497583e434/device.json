@@ -1,18 +1,20 @@
 {
   "id": "dev-17a242497583e434",
   "name": "vivo 1935",
+  "socketId": "BplTQImsA-YlG6oeAGdJ",
   "info": {
     "sdk": 29,
     "manufacturer": "vivo",
     "model": "vivo 1935",
-    "battery": 91,
+    "battery": 13,
     "charging": false,
     "sim": "by.U"
   },
-  "lastSeen": "2026-06-24T23:37:50.804Z",
-  "connectedAt": "2026-06-24T23:33:47.091Z",
+  "connectedAt": "2026-06-25T04:46:27.187Z",
+  "lastSeen": "2026-06-25T04:46:27.187Z",
+  "ownerUid": "J9X3UB14F7U8SBNL",
   "status": {
-    "flashlight": true,
+    "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
@@ -20,10 +22,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": "J9X3UB14F7U8SBNL",
-  "online": false
+  "online": true
 }
