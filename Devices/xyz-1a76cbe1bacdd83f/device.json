@@ -1,18 +1,16 @@
 {
   "id": "xyz-1a76cbe1bacdd83f",
   "name": "Vivo V2310",
-  "socketId": "iiD6YAHN6FrQhT-tAFE1",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
     "model": "V2310",
-    "battery": 64,
+    "battery": 0,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-06-25T01:38:49.125Z",
   "connectedAt": "2026-06-24T13:35:25.223Z",
-  "lastSeen": "2026-06-24T13:35:25.223Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
