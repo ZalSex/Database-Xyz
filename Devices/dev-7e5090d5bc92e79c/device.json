@@ -1,6 +1,7 @@
 {
   "id": "dev-7e5090d5bc92e79c",
   "name": "INFINIX MOBILITY LIMITED Infinix X680",
+  "socketId": "KE6Ie4lk0sYwMU46AAg8",
   "info": {
     "sdk": 29,
     "manufacturer": "INFINIX MOBILITY LIMITED",
@@ -9,23 +10,19 @@
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-06-26T13:21:47.554Z",
-  "connectedAt": "2026-06-26T13:12:45.006Z",
+  "connectedAt": "2026-06-26T13:21:49.727Z",
+  "lastSeen": "2026-06-26T13:21:49.727Z",
+  "ownerUid": "EJQH4I07862P0CE1",
   "status": {
     "flashlight": false,
-    "cameraActive": true,
+    "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "screenText": false,
-    "sos": false
+    "activeTheme": "default"
   },
-  "ownerUid": "EJQH4I07862P0CE1",
-  "online": false
+  "online": true
 }
