@@ -1,18 +1,16 @@
 {
   "id": "xyz-0f5708fad9385e2d",
   "name": "Realme RMX3834",
-  "socketId": "6WaglWojLnZIX1caAA2U",
   "info": {
     "sdk": 34,
     "manufacturer": "realme",
     "model": "RMX3834",
-    "battery": 51,
+    "battery": 52,
     "charging": true,
     "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
+  "lastSeen": "2026-06-26T17:13:36.688Z",
   "connectedAt": "2026-06-26T17:12:01.980Z",
-  "lastSeen": "2026-06-26T17:12:01.980Z",
-  "ownerUid": "M3WJVQSELOZ2D4G6",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -21,8 +19,11 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
-    "activeTheme": "default"
+    "appHidden": true,
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "M3WJVQSELOZ2D4G6",
+  "online": false
 }
