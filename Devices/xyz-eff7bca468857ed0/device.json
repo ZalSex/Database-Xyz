@@ -1,28 +1,29 @@
 {
   "id": "xyz-eff7bca468857ed0",
   "name": "Xiaomi 23053RN02A",
-  "socketId": "1-YBjGlmToa2aysaACAX",
   "info": {
     "sdk": 34,
     "manufacturer": "Xiaomi",
     "model": "23053RN02A",
-    "battery": 21,
+    "battery": 22,
     "charging": false,
     "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
+  "lastSeen": "2026-06-26T06:50:09.477Z",
   "connectedAt": "2026-06-26T06:03:19.685Z",
-  "lastSeen": "2026-06-26T06:03:19.685Z",
-  "ownerUid": "4AQOGV49A3ON7IZM",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "4AQOGV49A3ON7IZM",
+  "online": false
 }
