@@ -1,7 +1,6 @@
 {
   "id": "dev-391fd149501e301b",
   "name": "Xiaomi 23053RN02A",
-  "socketId": "pbNdiwqmLcDBcvJaAAIS",
   "info": {
     "sdk": 35,
     "manufacturer": "Xiaomi",
@@ -10,9 +9,8 @@
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
+  "lastSeen": "2026-06-26T10:26:31.688Z",
   "connectedAt": "2026-06-26T10:25:12.676Z",
-  "lastSeen": "2026-06-26T10:25:12.676Z",
-  "ownerUid": "16MORDOE91ZJ8CRQ",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "16MORDOE91ZJ8CRQ",
+  "online": false
 }
