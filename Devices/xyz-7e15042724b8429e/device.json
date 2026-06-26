@@ -1,28 +1,34 @@
 {
   "id": "xyz-7e15042724b8429e",
   "name": "Samsung SM-A235F",
-  "socketId": "Sg-cU372pUTbQthMACBl",
   "info": {
     "sdk": 34,
     "manufacturer": "samsung",
     "model": "SM-A235F",
-    "battery": 50,
+    "battery": 46,
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-06-26T06:27:20.934Z",
   "connectedAt": "2026-06-26T06:12:55.896Z",
-  "lastSeen": "2026-06-26T06:12:55.896Z",
-  "ownerUid": "UJJKUTFCZDYI60M0",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "brightness": 0,
+    "volume_media": 100,
+    "volume_alarm": 100,
+    "volume_notif": 100,
+    "volume_call": 100
   },
-  "online": true
+  "ownerUid": "UJJKUTFCZDYI60M0",
+  "online": false
 }
