@@ -1,18 +1,16 @@
 {
   "id": "dev-09ec0d12fe734ffa",
   "name": "OPPO CPH2269",
-  "socketId": "VSFdyS-cloOjb3u7ABM-",
   "info": {
     "sdk": 30,
     "manufacturer": "OPPO",
     "model": "CPH2269",
-    "battery": 94,
+    "battery": 93,
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-26T23:18:28.707Z",
   "connectedAt": "2026-06-26T23:18:04.140Z",
-  "lastSeen": "2026-06-26T23:18:04.140Z",
-  "ownerUid": "XK17CNI20E2P5NFP",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "XK17CNI20E2P5NFP",
+  "online": false
 }
