@@ -1,0 +1,38 @@
+[
+  {
+    "ts": "2026-06-26T11:21:37.620Z",
+    "towers": {
+      "operator": "Smartfren",
+      "simOp": "Smartfren",
+      "netType": "LTE (4G)",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "11",
+          "ci": 192023812,
+          "pci": 404,
+          "tac": 52647,
+          "earfcn": 1325,
+          "rsrp": -115,
+          "rsrq": -15,
+          "dbm": -115,
+          "registered": true
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 2147483647,
+          "pci": 207,
+          "tac": 2147483647,
+          "earfcn": 1325,
+          "rsrp": -121,
+          "rsrq": -20,
+          "dbm": -121,
+          "registered": false
+        }
+      ]
+    }
+  }
+]
