@@ -1,6 +1,7 @@
 {
   "id": "dev-ffe6ce411ad21b4b",
   "name": "Xiaomi Redmi Note 7",
+  "socketId": "pQAzeXxLqSTCfv8BAB-X",
   "info": {
     "sdk": 29,
     "manufacturer": "Xiaomi",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-06-26T05:43:18.318Z",
-  "connectedAt": "2026-06-26T05:21:06.685Z",
+  "connectedAt": "2026-06-26T05:45:13.823Z",
+  "lastSeen": "2026-06-26T05:45:13.823Z",
+  "ownerUid": "XAQ2EIFEQTYGALFD",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,17 +22,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "brightness": 41,
-    "volume_media": 50,
-    "volume_ring": 50,
-    "volume_alarm": 50,
-    "volume_call": 50,
-    "volume_notif": 50,
-    "openApp": "com.dts.freefireth"
+    "activeTheme": "default"
   },
-  "ownerUid": "XAQ2EIFEQTYGALFD",
-  "online": false
+  "online": true
 }
