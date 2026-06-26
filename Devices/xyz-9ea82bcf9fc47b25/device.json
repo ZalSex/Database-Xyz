@@ -1,18 +1,16 @@
 {
   "id": "xyz-9ea82bcf9fc47b25",
   "name": "Realme RMX3938",
-  "socketId": "OsjvZn2agwnDePC6ACMl",
   "info": {
     "sdk": 34,
     "manufacturer": "realme",
     "model": "RMX3938",
-    "battery": 44,
+    "battery": 43,
     "charging": false,
     "sim": "by.U"
   },
+  "lastSeen": "2026-06-26T08:00:11.501Z",
   "connectedAt": "2026-06-26T07:55:39.222Z",
-  "lastSeen": "2026-06-26T07:55:39.222Z",
-  "ownerUid": "UJJKUTFCZDYI60M0",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,15 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "volume_media": 61,
+    "volume_ring": 50,
+    "volume_alarm": 50,
+    "volume_call": 50,
+    "volume_notif": 50
   },
-  "online": true
+  "ownerUid": "UJJKUTFCZDYI60M0",
+  "online": false
 }
