@@ -1,18 +1,16 @@
 {
   "id": "xyz-7d35be03d97640b6",
   "name": "vivo 1820",
-  "socketId": "1IM_to1abbLvCZ7gABaw",
   "info": {
     "sdk": 27,
     "manufacturer": "vivo",
     "model": "vivo 1820",
-    "battery": 6,
+    "battery": 2,
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-26T00:00:43.834Z",
   "connectedAt": "2026-06-25T23:55:27.922Z",
-  "lastSeen": "2026-06-25T23:55:27.922Z",
-  "ownerUid": "8IWK64966C6EHO8D",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,15 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "audioPlaying": false,
+    "brightness": 0,
+    "screenText": false,
+    "spamDialog": false,
+    "screenSharing": true
   },
-  "online": true
+  "ownerUid": "8IWK64966C6EHO8D",
+  "online": false
 }
