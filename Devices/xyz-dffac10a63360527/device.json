@@ -1,6 +1,7 @@
 {
   "id": "xyz-dffac10a63360527",
   "name": "Vivo V2039",
+  "socketId": "4Gtv-hOw8j1sBDZRAAMF",
   "info": {
     "sdk": 30,
     "manufacturer": "vivo",
@@ -9,21 +10,19 @@
     "charging": false,
     "sim": "Smartfren"
   },
-  "lastSeen": "2026-06-26T10:55:10.016Z",
-  "connectedAt": "2026-06-26T10:54:00.604Z",
+  "connectedAt": "2026-06-26T10:55:20.264Z",
+  "lastSeen": "2026-06-26T10:55:20.264Z",
+  "ownerUid": "UJJKUTFCZDYI60M0",
   "status": {
     "flashlight": false,
-    "cameraActive": true,
+    "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": "UJJKUTFCZDYI60M0",
-  "online": false
+  "online": true
 }
