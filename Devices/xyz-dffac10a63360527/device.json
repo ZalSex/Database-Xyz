@@ -1,28 +1,39 @@
 {
   "id": "xyz-dffac10a63360527",
   "name": "Vivo V2039",
-  "socketId": "5NNLmaojyIK2TYSzAAQT",
   "info": {
     "sdk": 30,
     "manufacturer": "vivo",
     "model": "V2039",
-    "battery": 19,
+    "battery": 16,
     "charging": false,
     "sim": "Smartfren"
   },
+  "lastSeen": "2026-06-26T11:20:42.123Z",
   "connectedAt": "2026-06-26T11:13:33.275Z",
-  "lastSeen": "2026-06-26T11:13:33.275Z",
-  "ownerUid": "UJJKUTFCZDYI60M0",
   "status": {
-    "flashlight": false,
-    "cameraActive": false,
+    "flashlight": true,
+    "cameraActive": true,
     "videoPlaying": false,
-    "wallpaperSet": false,
+    "wallpaperSet": true,
     "locked": false,
     "lockedV2": false,
-    "lockedChat": false,
+    "lockedChat": true,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "sos": true,
+    "protectionEnabled": true,
+    "protection": true,
+    "screenText": true,
+    "spamDialog": false,
+    "brightness": 100,
+    "volume_media": 100,
+    "volume_alarm": 50,
+    "volume_call": 97,
+    "volume_notif": 50,
+    "volume_ring": 100,
+    "audioPlaying": false
   },
-  "online": true
+  "ownerUid": "UJJKUTFCZDYI60M0",
+  "online": false
 }
