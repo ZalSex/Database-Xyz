@@ -1,7 +1,6 @@
 {
   "id": "xyz-b8b07ef8971206aa",
   "name": "Xiaomi 24069PC21G",
-  "socketId": "y9rGfS-4DFA8wt6rACAK",
   "info": {
     "sdk": 36,
     "manufacturer": "Xiaomi",
@@ -10,9 +9,8 @@
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-06-26T06:02:04.587Z",
   "connectedAt": "2026-06-26T06:02:00.011Z",
-  "lastSeen": "2026-06-26T06:02:00.011Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
