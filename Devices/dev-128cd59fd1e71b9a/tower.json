@@ -1,0 +1,90 @@
+[
+  {
+    "ts": "2026-06-27T05:41:31.493Z",
+    "towers": {
+      "operator": "",
+      "simOp": "Indosat Ooredoo",
+      "netType": "Unknown",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "01",
+          "ci": 79739483,
+          "pci": 309,
+          "tac": 30189,
+          "earfcn": 3652,
+          "rsrp": -111,
+          "rsrq": -9,
+          "dbm": -111,
+          "registered": true
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 2147483647,
+          "pci": 178,
+          "tac": 2147483647,
+          "earfcn": 3652,
+          "rsrp": -121,
+          "rsrq": -16,
+          "dbm": -121,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 2147483647,
+          "pci": 310,
+          "tac": 2147483647,
+          "earfcn": 3652,
+          "rsrp": -126,
+          "rsrq": -25,
+          "dbm": -126,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 2147483647,
+          "pci": 470,
+          "tac": 2147483647,
+          "earfcn": 75,
+          "rsrp": -116,
+          "rsrq": -16,
+          "dbm": -116,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 2147483647,
+          "pci": 470,
+          "tac": 2147483647,
+          "earfcn": 200,
+          "rsrp": -122,
+          "rsrq": -19,
+          "dbm": -122,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 2147483647,
+          "pci": 470,
+          "tac": 2147483647,
+          "earfcn": 1475,
+          "rsrp": -113,
+          "rsrq": -13,
+          "dbm": -113,
+          "registered": false
+        }
+      ]
+    }
+  }
+]
