@@ -1,6 +1,7 @@
 {
   "id": "dev-128cd59fd1e71b9a",
   "name": "Infinix X6525",
+  "socketId": "ytR0PCmXS5kA5LtVACOF",
   "info": {
     "sdk": 33,
     "manufacturer": "INFINIX",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-06-27T05:42:49.813Z",
-  "connectedAt": "2026-06-27T05:39:05.427Z",
+  "connectedAt": "2026-06-27T05:43:22.112Z",
+  "lastSeen": "2026-06-27T05:43:22.112Z",
+  "ownerUid": "EJQH4I07862P0CE1",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,15 +22,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "volume_media": 100,
-    "volume_ring": 100,
-    "volume_alarm": 100,
-    "volume_notif": 100,
-    "volume_call": 100
+    "activeTheme": "default"
   },
-  "ownerUid": "EJQH4I07862P0CE1",
-  "online": false
+  "online": true
 }
