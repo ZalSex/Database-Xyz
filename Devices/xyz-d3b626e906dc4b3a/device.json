@@ -1,7 +1,6 @@
 {
   "id": "xyz-d3b626e906dc4b3a",
   "name": "vivo 1938",
-  "socketId": "BbFWgYw34CvKO8L8ADFw",
   "info": {
     "sdk": 31,
     "manufacturer": "vivo",
@@ -10,19 +9,31 @@
     "charging": false,
     "sim": "Panggilan darurat saja"
   },
+  "lastSeen": "2026-06-27T12:21:44.733Z",
   "connectedAt": "2026-06-27T12:04:18.273Z",
-  "lastSeen": "2026-06-27T12:04:18.273Z",
-  "ownerUid": "WO8G8QZXNCXJLYNE",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": false,
+    "wallpaperSet": true,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "chrome",
+    "protectionEnabled": false,
+    "protection": false,
+    "volume_media": 89,
+    "volume_alarm": 46,
+    "volume_notif": 48,
+    "volume_call": 49,
+    "screenText": false,
+    "spamDialog": false,
+    "sos": false,
+    "screenSharing": false,
+    "openApp": "com.facebook.katana",
+    "brightness": 100
   },
-  "online": true
+  "ownerUid": "WO8G8QZXNCXJLYNE",
+  "online": false
 }
