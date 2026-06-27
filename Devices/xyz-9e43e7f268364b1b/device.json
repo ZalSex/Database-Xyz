@@ -1,7 +1,6 @@
 {
   "id": "xyz-9e43e7f268364b1b",
   "name": "OPPO CPH1931",
-  "socketId": "zLWcTi9wXrhmL-a0ADph",
   "info": {
     "sdk": 29,
     "manufacturer": "OPPO",
@@ -10,19 +9,23 @@
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-06-27T15:57:25.560Z",
   "connectedAt": "2026-06-27T15:55:50.804Z",
-  "lastSeen": "2026-06-27T15:55:50.804Z",
-  "ownerUid": "WO8G8QZXNCXJLYNE",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
-    "videoPlaying": false,
+    "cameraActive": true,
+    "videoPlaying": true,
     "wallpaperSet": false,
-    "locked": false,
+    "locked": true,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
-    "activeTheme": "default"
+    "appHidden": true,
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "screenText": true,
+    "spamDialog": true
   },
-  "online": true
+  "ownerUid": "WO8G8QZXNCXJLYNE",
+  "online": false
 }
