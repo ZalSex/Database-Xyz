@@ -1,0 +1,63 @@
+[
+  {
+    "ts": "2026-06-27T10:20:48.104Z",
+    "active": {
+      "currentSsid": "sriwahyuni",
+      "currentBssid": "50:42:89:b1:17:cc",
+      "ipAddress": "192.168.1.9",
+      "linkSpeed": "65 Mbps",
+      "rssi": -43,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-06-27 17:20:41"
+    },
+    "savedNets": [
+      {
+        "ssid": "sriwahyuni",
+        "bssid": "50:42:89:b1:17:cc",
+        "level": -51,
+        "security": "WPA2",
+        "frequency": 2422,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "52:42:89:c1:17:ce",
+        "level": -52,
+        "security": "WPA2",
+        "frequency": 5745,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "ZTE_5G_fSCNKN",
+        "bssid": "50:42:89:b1:17:ce",
+        "level": -52,
+        "security": "WPA2",
+        "frequency": 5745,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "ARDANI",
+        "bssid": "a0:9b:12:5b:2f:5e",
+        "level": -69,
+        "security": "WPA2",
+        "frequency": 2442,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Devinna1710",
+        "bssid": "c0:bf:c0:a7:61:38",
+        "level": -83,
+        "security": "WPA2",
+        "frequency": 2452,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 5
+  }
+]
