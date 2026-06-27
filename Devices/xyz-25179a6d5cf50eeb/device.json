@@ -1,18 +1,16 @@
 {
   "id": "xyz-25179a6d5cf50eeb",
   "name": "Xiaomi 2412DPC0AG",
-  "socketId": "61SYicIBeQlP4CwiACo4",
   "info": {
     "sdk": 36,
     "manufacturer": "Xiaomi",
     "model": "2412DPC0AG",
-    "battery": 58,
+    "battery": 57,
     "charging": false,
     "sim": "by.U"
   },
+  "lastSeen": "2026-06-27T08:50:12.720Z",
   "connectedAt": "2026-06-27T08:48:35.506Z",
-  "lastSeen": "2026-06-27T08:48:35.506Z",
-  "ownerUid": "PB7NN3HLKZWI6VC7",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -21,8 +19,11 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
-    "activeTheme": "default"
+    "appHidden": true,
+    "activeTheme": "default",
+    "protectionEnabled": false,
+    "protection": false
   },
-  "online": true
+  "ownerUid": "PB7NN3HLKZWI6VC7",
+  "online": false
 }
