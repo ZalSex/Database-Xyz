@@ -1,29 +1,28 @@
 {
   "id": "xyz-10a485e4328872ef",
   "name": "Infinix X6886",
+  "socketId": "dtVe1pQOMPYunwnvAELY",
   "info": {
     "sdk": 35,
     "manufacturer": "INFINIX",
     "model": "Infinix X6886",
-    "battery": 69,
+    "battery": 70,
     "charging": true,
     "sim": "3"
   },
-  "lastSeen": "2026-06-27T22:07:10.409Z",
-  "connectedAt": "2026-06-27T22:06:26.037Z",
+  "connectedAt": "2026-06-27T22:07:41.429Z",
+  "lastSeen": "2026-06-27T22:07:41.429Z",
+  "ownerUid": "MDSEPKNOEETT3LG9",
   "status": {
     "flashlight": false,
-    "cameraActive": true,
+    "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": "MDSEPKNOEETT3LG9",
-  "online": false
+  "online": true
 }
