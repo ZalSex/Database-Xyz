@@ -1,18 +1,16 @@
 {
   "id": "xyz-b0df46d3083fbd13",
   "name": "Vivo V2058",
-  "socketId": "iTjNXZKYrCj1L-N1AB7k",
   "info": {
     "sdk": 33,
     "manufacturer": "vivo",
     "model": "V2058",
-    "battery": 56,
+    "battery": 55,
     "charging": false,
     "sim": "3"
   },
+  "lastSeen": "2026-06-27T03:42:40.618Z",
   "connectedAt": "2026-06-27T03:34:50.843Z",
-  "lastSeen": "2026-06-27T03:34:50.843Z",
-  "ownerUid": "NASER8HV87FVKYO9",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -21,8 +19,12 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
-    "activeTheme": "default"
+    "appHidden": true,
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "screenSharing": false
   },
-  "online": true
+  "ownerUid": "NASER8HV87FVKYO9",
+  "online": false
 }
