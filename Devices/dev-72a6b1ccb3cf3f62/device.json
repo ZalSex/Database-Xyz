@@ -1,18 +1,16 @@
 {
   "id": "dev-72a6b1ccb3cf3f62",
   "name": "OPPO CPH2239",
-  "socketId": "AiVIZm93L0suD5jcAEIY",
   "info": {
     "sdk": 30,
     "manufacturer": "OPPO",
     "model": "CPH2239",
-    "battery": 46,
+    "battery": 47,
     "charging": false,
     "sim": "U Mobile"
   },
+  "lastSeen": "2026-06-27T21:29:02.955Z",
   "connectedAt": "2026-06-27T21:27:37.526Z",
-  "lastSeen": "2026-06-27T21:27:37.526Z",
-  "ownerUid": "PEW74ECEHF7I5H2X",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "PEW74ECEHF7I5H2X",
+  "online": false
 }
