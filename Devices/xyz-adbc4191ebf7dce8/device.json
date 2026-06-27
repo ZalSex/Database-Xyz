@@ -1,29 +1,28 @@
 {
   "id": "xyz-adbc4191ebf7dce8",
   "name": "Realme RMX5555",
+  "socketId": "WGP1FjjtQ4lm1E7iADDi",
   "info": {
     "sdk": 35,
     "manufacturer": "realme",
     "model": "RMX5555",
-    "battery": 52,
-    "charging": false,
+    "battery": 51,
+    "charging": true,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-06-27T11:44:52.845Z",
-  "connectedAt": "2026-06-27T11:32:45.504Z",
+  "connectedAt": "2026-06-27T11:50:09.760Z",
+  "lastSeen": "2026-06-27T11:50:09.760Z",
+  "ownerUid": "LBLLQHC0A6E6M6UV",
   "status": {
     "flashlight": false,
     "cameraActive": false,
-    "videoPlaying": true,
+    "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": "LBLLQHC0A6E6M6UV",
-  "online": false
+  "online": true
 }
