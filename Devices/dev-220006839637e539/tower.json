@@ -1,0 +1,116 @@
+[
+  {
+    "ts": "2026-06-27T10:23:48.788Z",
+    "towers": {
+      "operator": "INDOSATOOREDOO",
+      "simOp": "Indosat Ooredoo",
+      "netType": "LTE (4G)",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "01",
+          "ci": 100396351,
+          "pci": 272,
+          "tac": 43131,
+          "earfcn": 1475,
+          "rsrp": -100,
+          "rsrq": -12,
+          "dbm": -100,
+          "registered": true
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 272,
+          "tac": 65535,
+          "earfcn": 3652,
+          "rsrp": -104,
+          "rsrq": -11,
+          "dbm": -104,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 272,
+          "tac": 65535,
+          "earfcn": 75,
+          "rsrp": -106,
+          "rsrq": -9,
+          "dbm": -106,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 77,
+          "tac": 65535,
+          "earfcn": 3652,
+          "rsrp": -107,
+          "rsrq": -13,
+          "dbm": -107,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 49,
+          "tac": 65535,
+          "earfcn": 1475,
+          "rsrp": -109,
+          "rsrq": -19,
+          "dbm": -109,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 79,
+          "tac": 65535,
+          "earfcn": 75,
+          "rsrp": -109,
+          "rsrq": -11,
+          "dbm": -109,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 272,
+          "tac": 65535,
+          "earfcn": 1625,
+          "rsrp": -109,
+          "rsrq": -20,
+          "dbm": -109,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 271,
+          "tac": 65535,
+          "earfcn": 3652,
+          "rsrp": -111,
+          "rsrq": -18,
+          "dbm": -111,
+          "registered": false
+        }
+      ]
+    }
+  }
+]
