@@ -1,18 +1,16 @@
 {
   "id": "xyz-3078e588512ed426",
   "name": "OPPO CPH2387",
-  "socketId": "QK0IGeKIU0CKQHLTADQS",
   "info": {
     "sdk": 34,
     "manufacturer": "OPPO",
     "model": "CPH2387",
-    "battery": 76,
+    "battery": 75,
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-06-27T13:10:25.508Z",
   "connectedAt": "2026-06-27T13:07:05.104Z",
-  "lastSeen": "2026-06-27T13:07:05.104Z",
-  "ownerUid": "PB7NN3HLKZWI6VC7",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "PB7NN3HLKZWI6VC7",
+  "online": false
 }
