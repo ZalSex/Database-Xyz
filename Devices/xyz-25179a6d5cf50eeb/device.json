@@ -1,7 +1,6 @@
 {
   "id": "xyz-25179a6d5cf50eeb",
   "name": "Xiaomi 2412DPC0AG",
-  "socketId": "uVwKjFW7mHeQH8qKACnj",
   "info": {
     "sdk": 36,
     "manufacturer": "Xiaomi",
@@ -10,19 +9,21 @@
     "charging": false,
     "sim": "by.U"
   },
+  "lastSeen": "2026-06-27T08:48:23.425Z",
   "connectedAt": "2026-06-27T08:45:07.250Z",
-  "lastSeen": "2026-06-27T08:45:07.250Z",
-  "ownerUid": "PB7NN3HLKZWI6VC7",
   "status": {
     "flashlight": false,
     "cameraActive": false,
-    "videoPlaying": false,
+    "videoPlaying": true,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "PB7NN3HLKZWI6VC7",
+  "online": false
 }
