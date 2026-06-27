@@ -1,18 +1,16 @@
 {
   "id": "dev-1fed304f2c6ecc76",
   "name": "TECNO KM4",
-  "socketId": "PdIYvitU_Kr9r3gxACxE",
   "info": {
     "sdk": 35,
     "manufacturer": "TECNO",
     "model": "TECNO KM4",
-    "battery": 65,
+    "battery": 64,
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
+  "lastSeen": "2026-06-27T09:50:59.488Z",
   "connectedAt": "2026-06-27T09:46:12.031Z",
-  "lastSeen": "2026-06-27T09:46:12.031Z",
-  "ownerUid": "16MORDOE91ZJ8CRQ",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,11 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "screenSharing": false
   },
-  "online": true
+  "ownerUid": "16MORDOE91ZJ8CRQ",
+  "online": false
 }
