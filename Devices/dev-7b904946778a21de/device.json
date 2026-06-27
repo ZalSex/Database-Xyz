@@ -1,7 +1,6 @@
 {
   "id": "dev-7b904946778a21de",
   "name": "OPPO CPH1909",
-  "socketId": "OxtM0yu2ytxTgaZAADB8",
   "info": {
     "sdk": 27,
     "manufacturer": "OPPO",
@@ -10,9 +9,8 @@
     "charging": false,
     "sim": "No SIM"
   },
+  "lastSeen": "2026-06-27T11:41:12.512Z",
   "connectedAt": "2026-06-27T11:39:41.543Z",
-  "lastSeen": "2026-06-27T11:39:41.543Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
