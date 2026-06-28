@@ -1,18 +1,16 @@
 {
   "id": "xyz-a0668793b4de7cf7",
   "name": "Vivo V2425A",
-  "socketId": "OVfR-IVN4nj7sIwPAElm",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
     "model": "V2425A",
-    "battery": 79,
+    "battery": 78,
     "charging": false,
     "sim": "T-Mobile USA"
   },
+  "lastSeen": "2026-06-28T05:52:24.314Z",
   "connectedAt": "2026-06-28T05:50:24.854Z",
-  "lastSeen": "2026-06-28T05:50:24.854Z",
-  "ownerUid": "WO8G8QZXNCXJLYNE",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -21,8 +19,11 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
-    "activeTheme": "default"
+    "appHidden": true,
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "WO8G8QZXNCXJLYNE",
+  "online": false
 }
