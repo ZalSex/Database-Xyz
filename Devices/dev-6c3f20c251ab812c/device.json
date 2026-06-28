@@ -1,18 +1,16 @@
 {
   "id": "dev-6c3f20c251ab812c",
   "name": "vivo 1904",
-  "socketId": "3S3lRymPtyDpLjbTAFZB",
   "info": {
     "sdk": 30,
     "manufacturer": "vivo",
     "model": "vivo 1904",
-    "battery": 41,
+    "battery": 40,
     "charging": false,
     "sim": "Panggilan darurat saja"
   },
+  "lastSeen": "2026-06-28T14:44:17.696Z",
   "connectedAt": "2026-06-28T14:39:31.236Z",
-  "lastSeen": "2026-06-28T14:39:31.236Z",
-  "ownerUid": "UNFGVWOF4T18B2XM",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "UNFGVWOF4T18B2XM",
+  "online": false
 }
