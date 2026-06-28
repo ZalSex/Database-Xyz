@@ -1,18 +1,16 @@
 {
   "id": "dev-360f9f2a144831e5",
   "name": "Samsung SM-A176B",
-  "socketId": "q2Tgpy6mRLxuCMjzAFlv",
   "info": {
     "sdk": 36,
     "manufacturer": "samsung",
     "model": "SM-A176B",
-    "battery": 83,
+    "battery": 68,
     "charging": false,
     "sim": "TELKOMSEL"
   },
+  "lastSeen": "2026-06-28T17:19:50.705Z",
   "connectedAt": "2026-06-28T16:10:15.363Z",
-  "lastSeen": "2026-06-28T16:10:15.363Z",
-  "ownerUid": "CEV5890TR7JQA9B0",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "CEV5890TR7JQA9B0",
+  "online": false
 }
