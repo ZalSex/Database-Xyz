@@ -1,6 +1,7 @@
 {
   "id": "xyz-5efc760362f101e8",
   "name": "Infinix X6831",
+  "socketId": "EcLVzIti269XhQo4AEdR",
   "info": {
     "sdk": 33,
     "manufacturer": "INFINIX",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "3"
   },
-  "lastSeen": "2026-06-28T04:25:38.355Z",
-  "connectedAt": "2026-06-28T04:18:51.150Z",
+  "connectedAt": "2026-06-28T04:25:41.511Z",
+  "lastSeen": "2026-06-28T04:25:41.511Z",
+  "ownerUid": "WO8G8QZXNCXJLYNE",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,19 +22,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "screenText": false,
-    "openApp": "com.whatsapp",
-    "brightness": 93,
-    "volume_media": 92,
-    "volume_ring": 50,
-    "volume_call": 50,
-    "volume_alarm": 50,
-    "volume_notif": 50,
-    "sos": false
+    "activeTheme": "default"
   },
-  "ownerUid": "WO8G8QZXNCXJLYNE",
-  "online": false
+  "online": true
 }
