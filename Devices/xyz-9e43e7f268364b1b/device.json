@@ -1,31 +1,28 @@
 {
   "id": "xyz-9e43e7f268364b1b",
   "name": "OPPO CPH1931",
+  "socketId": "cFBkrYp_19OYExhvAEVv",
   "info": {
     "sdk": 29,
     "manufacturer": "OPPO",
     "model": "CPH1931",
-    "battery": 24,
+    "battery": 100,
     "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-06-27T15:57:25.560Z",
-  "connectedAt": "2026-06-27T15:55:50.804Z",
+  "connectedAt": "2026-06-28T02:41:15.511Z",
+  "lastSeen": "2026-06-28T02:41:15.511Z",
+  "ownerUid": "WO8G8QZXNCXJLYNE",
   "status": {
     "flashlight": false,
-    "cameraActive": true,
-    "videoPlaying": true,
+    "cameraActive": false,
+    "videoPlaying": false,
     "wallpaperSet": false,
-    "locked": true,
+    "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": true,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "screenText": true,
-    "spamDialog": true
+    "appHidden": false,
+    "activeTheme": "default"
   },
-  "ownerUid": "WO8G8QZXNCXJLYNE",
-  "online": false
+  "online": true
 }
