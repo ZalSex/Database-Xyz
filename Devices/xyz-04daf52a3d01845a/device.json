@@ -1,7 +1,6 @@
 {
   "id": "xyz-04daf52a3d01845a",
   "name": "Xiaomi M2007J20CG",
-  "socketId": "dPWQn8EF6atX5Cg-AFph",
   "info": {
     "sdk": 31,
     "manufacturer": "Xiaomi",
@@ -10,9 +9,8 @@
     "charging": false,
     "sim": "TIGO"
   },
+  "lastSeen": "2026-06-28T16:37:45.489Z",
   "connectedAt": "2026-06-28T16:36:10.698Z",
-  "lastSeen": "2026-06-28T16:36:10.698Z",
-  "ownerUid": "SRS5OPIX5DTSIFA4",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "SRS5OPIX5DTSIFA4",
+  "online": false
 }
