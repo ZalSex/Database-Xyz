@@ -1,7 +1,6 @@
 {
   "id": "xyz-b99efdafb53c8378",
   "name": "Xiaomi 23108RN04Y",
-  "socketId": "ZrbNsDz6epjWVjT5AFdo",
   "info": {
     "sdk": 34,
     "manufacturer": "Xiaomi",
@@ -10,19 +9,21 @@
     "charging": false,
     "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
+  "lastSeen": "2026-06-28T15:15:21.023Z",
   "connectedAt": "2026-06-28T15:12:55.445Z",
-  "lastSeen": "2026-06-28T15:12:55.445Z",
-  "ownerUid": "UJJKUTFCZDYI60M0",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
-    "activeTheme": "default"
+    "appHidden": true,
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "UJJKUTFCZDYI60M0",
+  "online": false
 }
