@@ -104,5 +104,111 @@
       }
     ],
     "count": 10
+  },
+  {
+    "ts": "2026-06-28T12:12:32.514Z",
+    "active": {
+      "currentSsid": "Nurdiana",
+      "currentBssid": "bc:47:32:98:8b:b8",
+      "ipAddress": "192.168.1.13",
+      "linkSpeed": "26 Mbps",
+      "rssi": -73,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-06-28 20:12:32"
+    },
+    "savedNets": [
+      {
+        "ssid": "Shafirah Ayumi",
+        "bssid": "bc:47:32:99:39:98",
+        "level": -78,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Nurdiana",
+        "bssid": "bc:47:32:98:8b:b8",
+        "level": -84,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      },
+      {
+        "ssid": "PAULUS DHEDHO",
+        "bssid": "bc:47:32:98:0c:d8",
+        "level": -85,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "ABIDZAR",
+        "bssid": "bc:47:32:97:fd:38",
+        "level": -94,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "bc:47:32:97:fd:39",
+        "level": -94,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Nurdiana",
+        "bssid": "bc:47:32:98:8b:c0",
+        "level": -95,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "bc:47:32:99:39:a2",
+        "level": -95,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Shafirah Ayumi",
+        "bssid": "bc:47:32:99:39:a0",
+        "level": -95,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "SHAFIRAH AYUMI5G",
+        "bssid": "bc:47:32:99:39:a1",
+        "level": -95,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "bc:47:32:98:8b:c1",
+        "level": -95,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 10
   }
 ]
