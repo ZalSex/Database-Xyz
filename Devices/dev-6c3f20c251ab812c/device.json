@@ -1,6 +1,7 @@
 {
   "id": "dev-6c3f20c251ab812c",
   "name": "vivo 1904",
+  "socketId": "3S3lRymPtyDpLjbTAFZB",
   "info": {
     "sdk": 30,
     "manufacturer": "vivo",
@@ -9,21 +10,19 @@
     "charging": false,
     "sim": "Panggilan darurat saja"
   },
-  "lastSeen": "2026-06-28T14:31:09.382Z",
-  "connectedAt": "2026-06-28T14:28:43.777Z",
+  "connectedAt": "2026-06-28T14:39:31.236Z",
+  "lastSeen": "2026-06-28T14:39:31.236Z",
+  "ownerUid": "UNFGVWOF4T18B2XM",
   "status": {
     "flashlight": false,
-    "cameraActive": true,
+    "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": "UNFGVWOF4T18B2XM",
-  "online": false
+  "online": true
 }
