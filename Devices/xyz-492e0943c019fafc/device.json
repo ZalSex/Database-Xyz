@@ -1,7 +1,6 @@
 {
   "id": "xyz-492e0943c019fafc",
   "name": "Realme RMX3933",
-  "socketId": "cQtznj7yvHVOPUuFAEWU",
   "info": {
     "sdk": 34,
     "manufacturer": "realme",
@@ -10,19 +9,21 @@
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
+  "lastSeen": "2026-06-28T02:47:57.289Z",
   "connectedAt": "2026-06-28T02:46:48.745Z",
-  "lastSeen": "2026-06-28T02:46:48.745Z",
-  "ownerUid": "7S1EP6XW1296WJP3",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "7S1EP6XW1296WJP3",
+  "online": false
 }
