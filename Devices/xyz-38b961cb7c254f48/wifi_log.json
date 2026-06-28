@@ -23,5 +23,30 @@
       }
     ],
     "count": 1
+  },
+  {
+    "ts": "2026-06-28T13:31:20.722Z",
+    "active": {
+      "currentSsid": "mywifi",
+      "currentBssid": "02:00:00:00:00:00",
+      "ipAddress": "192.168.100.15",
+      "linkSpeed": "403 Mbps",
+      "rssi": -48,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-06-28 21:31:20"
+    },
+    "savedNets": [
+      {
+        "ssid": "mywifi",
+        "bssid": "02:00:00:00:00:00",
+        "level": 2,
+        "security": "Open",
+        "frequency": 2413,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      }
+    ],
+    "count": 1
   }
 ]
