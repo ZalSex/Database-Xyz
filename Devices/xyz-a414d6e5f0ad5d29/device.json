@@ -1,6 +1,7 @@
 {
   "id": "xyz-a414d6e5f0ad5d29",
   "name": "itel A675L",
+  "socketId": "iDOXtegGz2U5e-_AAEdY",
   "info": {
     "sdk": 35,
     "manufacturer": "ITEL",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
-  "lastSeen": "2026-06-28T04:27:06.198Z",
-  "connectedAt": "2026-06-28T04:26:05.631Z",
+  "connectedAt": "2026-06-28T04:27:13.083Z",
+  "lastSeen": "2026-06-28T04:27:13.083Z",
+  "ownerUid": "WO8G8QZXNCXJLYNE",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -19,11 +21,8 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": true,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "appHidden": false,
+    "activeTheme": "default"
   },
-  "ownerUid": "WO8G8QZXNCXJLYNE",
-  "online": false
+  "online": true
 }
