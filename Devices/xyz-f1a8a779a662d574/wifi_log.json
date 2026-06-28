@@ -656,5 +656,354 @@
       }
     ],
     "count": 23
+  },
+  {
+    "ts": "2026-06-28T14:51:15.619Z",
+    "active": {
+      "currentSsid": "RASTI",
+      "currentBssid": "f4:2d:06:f1:f5:78",
+      "ipAddress": "192.168.1.6",
+      "linkSpeed": "65 Mbps",
+      "rssi": -59,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-06-28 22:51:15"
+    },
+    "savedNets": [
+      {
+        "ssid": "RASTI",
+        "bssid": "f4:2d:06:f1:f5:78",
+        "level": -59,
+        "security": "WPA2",
+        "frequency": 2447,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "f6:2d:06:c1:f5:7a",
+        "level": -65,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "RASTI_5G",
+        "bssid": "f4:2d:06:f1:f5:7a",
+        "level": -65,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "ANWAR",
+        "bssid": "f4:2d:06:f1:f5:7e",
+        "level": -66,
+        "security": "WPA2",
+        "frequency": 2422,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "ZTE_5G_C4aDbt",
+        "bssid": "f6:2d:06:92:7b:84",
+        "level": -68,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "YUNUS",
+        "bssid": "f4:2d:06:f2:7b:84",
+        "level": -68,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "BUSDA_5G",
+        "bssid": "bc:47:32:ad:68:71",
+        "level": -75,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "bc:47:32:ad:68:72",
+        "level": -76,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "BUSDA",
+        "bssid": "bc:47:32:ad:68:70",
+        "level": -76,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "A06",
+        "bssid": "e6:46:20:78:f2:75",
+        "level": -79,
+        "security": "WPA2",
+        "frequency": 2462,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Ozil01",
+        "bssid": "bc:47:32:a3:10:58",
+        "level": -80,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "BUSDA",
+        "bssid": "bc:47:32:ad:68:68",
+        "level": -80,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Nadiya Shofiyyah",
+        "bssid": "bc:47:32:98:8b:80",
+        "level": -80,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "f6:2d:06:ca:53:0a",
+        "level": -85,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "samsung a06",
+        "bssid": "a6:ba:aa:b8:f7:94",
+        "level": -85,
+        "security": "WPA2",
+        "frequency": 2462,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "ENAK ENAK",
+        "bssid": "f4:2d:06:da:53:0a",
+        "level": -85,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "ENAK ENAK_5G",
+        "bssid": "f6:2d:06:9a:53:0a",
+        "level": -86,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "ANWAR_5G",
+        "bssid": "f6:2d:06:91:f5:80",
+        "level": -87,
+        "security": "WPA2",
+        "frequency": 5765,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "ANWAR",
+        "bssid": "f4:2d:06:f1:f5:80",
+        "level": -87,
+        "security": "WPA2",
+        "frequency": 5765,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "FARHAN BERKAH",
+        "bssid": "c0:51:5c:39:09:e6",
+        "level": -88,
+        "security": "WPA2",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "DINDA",
+        "bssid": "bc:47:32:98:b0:f8",
+        "level": -89,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "TOKO YANI ANAS_5G",
+        "bssid": "c2:51:5c:19:09:d6",
+        "level": -90,
+        "security": "WPA2",
+        "frequency": 5765,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Abd_F",
+        "bssid": "bc:47:32:98:3f:c8",
+        "level": -91,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "c0:51:5c:39:09:d6",
+        "level": -91,
+        "security": "WPA2",
+        "frequency": 5765,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "c2:51:5c:49:09:d6",
+        "level": -91,
+        "security": "WPA2",
+        "frequency": 5765,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "FARHAN BERKAH 2",
+        "bssid": "0c:ef:15:36:63:ec",
+        "level": -94,
+        "security": "WPA2",
+        "frequency": 2457,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "DEVI CANTIK",
+        "bssid": "bc:47:32:98:71:30",
+        "level": -94,
+        "security": "WPA2",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "SURYANI",
+        "bssid": "4c:49:68:99:3f:d3",
+        "level": -94,
+        "security": "WPA2",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Slow aja",
+        "bssid": "bc:47:32:a3:10:61",
+        "level": -94,
+        "security": "WPA2",
+        "frequency": 5745,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Ozil01",
+        "bssid": "bc:47:32:a3:10:60",
+        "level": -94,
+        "security": "WPA2",
+        "frequency": 5745,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "HONOR X9b 5G",
+        "bssid": "6a:81:8b:d1:35:b1",
+        "level": -95,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "CARI PERANGKAT",
+        "bssid": "c4:16:c8:94:9f:48",
+        "level": -95,
+        "security": "WPA2",
+        "frequency": 2462,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "bc:47:32:a3:10:62",
+        "level": -95,
+        "security": "WPA2",
+        "frequency": 5745,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "ae:ad:4b:4b:e9:3c",
+        "level": -96,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "SYAHRIR",
+        "bssid": "ac:ad:4b:1b:e9:3c",
+        "level": -97,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "ZTE_5G_Rk334y",
+        "bssid": "ae:ad:4b:1b:e9:3c",
+        "level": -97,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "bc:47:32:98:b1:01",
+        "level": -97,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 37
   }
 ]
