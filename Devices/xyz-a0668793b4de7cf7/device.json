@@ -1,7 +1,6 @@
 {
   "id": "xyz-a0668793b4de7cf7",
   "name": "Vivo V2425A",
-  "socketId": "LuyLLn0jZjFOMk4mAEhB",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
@@ -10,19 +9,33 @@
     "charging": true,
     "sim": "T-Mobile USA"
   },
+  "lastSeen": "2026-06-28T05:49:51.752Z",
   "connectedAt": "2026-06-28T05:10:04.387Z",
-  "lastSeen": "2026-06-28T05:10:04.387Z",
-  "ownerUid": "WO8G8QZXNCXJLYNE",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": false,
+    "wallpaperSet": true,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "volume_ring": 100,
+    "volume_media": 100,
+    "volume_alarm": 100,
+    "volume_notif": 100,
+    "volume_call": 100,
+    "brightness": 100,
+    "screenText": false,
+    "spamDialog": false,
+    "sos": false,
+    "screenSharing": false,
+    "openApp": "com.android.chrome",
+    "openAppError": "app_not_found"
   },
-  "online": true
+  "ownerUid": "WO8G8QZXNCXJLYNE",
+  "online": false
 }
