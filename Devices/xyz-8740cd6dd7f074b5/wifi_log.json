@@ -1,0 +1,63 @@
+[
+  {
+    "ts": "2026-06-28T18:00:13.212Z",
+    "active": {
+      "currentSsid": "RAMA RIZKY PRATAMA",
+      "currentBssid": "b0:53:65:dc:bf:b8",
+      "ipAddress": "192.168.1.5",
+      "linkSpeed": "72 Mbps",
+      "rssi": -43,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-06-29 01:00:13"
+    },
+    "savedNets": [
+      {
+        "ssid": "RAMA RIZKY PRATAMA",
+        "bssid": "b0:53:65:dc:bf:b8",
+        "level": -44,
+        "security": "WPA2",
+        "frequency": 2472,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      },
+      {
+        "ssid": "ziqinet@dbn",
+        "bssid": "b2:53:65:dc:bf:b8",
+        "level": -44,
+        "security": "WPA2",
+        "frequency": 2472,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Lam wifi",
+        "bssid": "5c:92:5e:3d:1e:e4",
+        "level": -68,
+        "security": "WPA2",
+        "frequency": 2427,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "SUGIANTI HOME",
+        "bssid": "f0:b4:d2:95:e0:e8",
+        "level": -82,
+        "security": "WPA2",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "aufarrrr",
+        "bssid": "ac:15:a2:a2:4a:86",
+        "level": -89,
+        "security": "WPA2",
+        "frequency": 2417,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 5
+  }
+]
