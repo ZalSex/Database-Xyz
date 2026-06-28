@@ -1,28 +1,31 @@
 {
   "id": "xyz-5efc760362f101e8",
   "name": "Infinix X6831",
-  "socketId": "crvXpt6liLJD22xgAEcg",
   "info": {
     "sdk": 33,
     "manufacturer": "INFINIX",
     "model": "Infinix X6831",
-    "battery": 38,
+    "battery": 37,
     "charging": false,
     "sim": "3"
   },
+  "lastSeen": "2026-06-28T04:18:42.564Z",
   "connectedAt": "2026-06-28T04:15:00.992Z",
-  "lastSeen": "2026-06-28T04:15:00.992Z",
-  "ownerUid": "WO8G8QZXNCXJLYNE",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "screenText": false,
+    "spamDialog": false
   },
-  "online": true
+  "ownerUid": "WO8G8QZXNCXJLYNE",
+  "online": false
 }
