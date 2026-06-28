@@ -1,6 +1,7 @@
 {
   "id": "xyz-0db771cf9a247023",
   "name": "Xiaomi 2407FPN8EG",
+  "socketId": "b362inBpirnUIFirAFOI",
   "info": {
     "sdk": 36,
     "manufacturer": "Xiaomi",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-06-28T13:08:52.052Z",
-  "connectedAt": "2026-06-28T12:07:09.912Z",
+  "connectedAt": "2026-06-28T13:21:43.941Z",
+  "lastSeen": "2026-06-28T13:21:43.941Z",
+  "ownerUid": "0H6E9NY9K4XU8GSK",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,10 +22,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": "0H6E9NY9K4XU8GSK",
-  "online": false
+  "online": true
 }
