@@ -262,5 +262,59 @@
         "frequency": 5805
       }
     ]
+  },
+  {
+    "ts": "2026-06-29T03:09:06.628Z",
+    "list": [
+      {
+        "ssid": "RASTI",
+        "bssid": "f4:2d:06:f1:f5:78",
+        "level": -49,
+        "security": "WPA2",
+        "frequency": 2452
+      },
+      {
+        "ssid": "RASTI_5G",
+        "bssid": "f4:2d:06:f1:f5:7a",
+        "level": -51,
+        "security": "WPA2",
+        "frequency": 5745
+      },
+      {
+        "ssid": "ANWAR",
+        "bssid": "f4:2d:06:f1:f5:7e",
+        "level": -71,
+        "security": "WPA2",
+        "frequency": 2437
+      },
+      {
+        "ssid": "ANWAR",
+        "bssid": "f4:2d:06:f1:f5:80",
+        "level": -83,
+        "security": "WPA2",
+        "frequency": 5785
+      },
+      {
+        "ssid": "ANWAR_5G",
+        "bssid": "f6:2d:06:91:f5:80",
+        "level": -83,
+        "security": "WPA2",
+        "frequency": 5785
+      },
+      {
+        "ssid": "Redmi A5",
+        "bssid": "7a:74:f7:c4:33:ce",
+        "level": -92,
+        "security": "WPA2",
+        "frequency": 2412
+      },
+      {
+        "ssid": "ENAK ENAK",
+        "bssid": "f4:2d:06:da:53:08",
+        "level": -95,
+        "security": "WPA2",
+        "frequency": 2462
+      }
+    ]
   }
 ]
