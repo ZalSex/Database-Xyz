@@ -1,18 +1,16 @@
 {
   "id": "xyz-b99efdafb53c8378",
   "name": "Xiaomi 23108RN04Y",
-  "socketId": "M8-sNEGSunvsdskMAGk6",
   "info": {
     "sdk": 34,
     "manufacturer": "Xiaomi",
     "model": "23108RN04Y",
-    "battery": 36,
+    "battery": 35,
     "charging": false,
     "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
+  "lastSeen": "2026-06-29T08:21:45.618Z",
   "connectedAt": "2026-06-29T08:18:02.651Z",
-  "lastSeen": "2026-06-29T08:18:02.651Z",
-  "ownerUid": "UJJKUTFCZDYI60M0",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "brightness": 100
   },
-  "online": true
+  "ownerUid": "UJJKUTFCZDYI60M0",
+  "online": false
 }
