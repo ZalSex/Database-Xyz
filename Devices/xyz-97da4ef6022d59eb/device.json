@@ -1,18 +1,16 @@
 {
   "id": "xyz-97da4ef6022d59eb",
   "name": "Xiaomi 24117RN76O",
-  "socketId": "MTGO1E1TX6usc4CBAGzD",
   "info": {
     "sdk": 36,
     "manufacturer": "Xiaomi",
     "model": "24117RN76O",
-    "battery": 62,
+    "battery": 61,
     "charging": false,
     "sim": "XL"
   },
+  "lastSeen": "2026-06-29T10:28:49.891Z",
   "connectedAt": "2026-06-29T10:24:32.044Z",
-  "lastSeen": "2026-06-29T10:24:32.044Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
