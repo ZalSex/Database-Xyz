@@ -1,18 +1,16 @@
 {
   "id": "dev-996e72f9753e0514",
   "name": "Vivo V2520",
-  "socketId": "P4QMzpuv5JfW9WD6AGfX",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
     "model": "V2520",
-    "battery": 85,
+    "battery": 84,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-06-29T07:27:14.901Z",
   "connectedAt": "2026-06-29T07:22:00.273Z",
-  "lastSeen": "2026-06-29T07:22:00.273Z",
-  "ownerUid": "CEV5890TR7JQA9B0",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "CEV5890TR7JQA9B0",
+  "online": false
 }
