@@ -1,16 +1,18 @@
 {
   "id": "xyz-38b961cb7c254f48",
   "name": "Vivo V2408A",
+  "socketId": "vsui9bddyvEz1JrDAABh",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
     "model": "V2408A",
-    "battery": 100,
-    "charging": true,
+    "battery": 75,
+    "charging": false,
     "sim": "T-Mobile USA"
   },
-  "lastSeen": "2026-06-29T19:00:16.424Z",
-  "connectedAt": "2026-06-29T18:54:29.754Z",
+  "connectedAt": "2026-06-29T19:00:41.572Z",
+  "lastSeen": "2026-06-29T19:00:41.572Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,5 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "online": true
 }
