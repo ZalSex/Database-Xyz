@@ -1,16 +1,18 @@
 {
   "id": "dev-996e72f9753e0514",
   "name": "Vivo V2520",
+  "socketId": "ZJDcksj22u0H-LLuAAHA",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
     "model": "V2520",
-    "battery": 29,
+    "battery": 27,
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-06-29T14:13:09.937Z",
-  "connectedAt": "2026-06-29T13:59:29.288Z",
+  "connectedAt": "2026-06-29T14:33:14.344Z",
+  "lastSeen": "2026-06-29T14:33:14.344Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,10 +22,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "online": true
 }
