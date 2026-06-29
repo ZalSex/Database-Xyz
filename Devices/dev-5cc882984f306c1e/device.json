@@ -1,18 +1,16 @@
 {
   "id": "dev-5cc882984f306c1e",
   "name": "Realme RMX5020",
-  "socketId": "7yvV8g4Z0JDhTS_5AGnG",
   "info": {
     "sdk": 35,
     "manufacturer": "realme",
     "model": "RMX5020",
-    "battery": 74,
+    "battery": 73,
     "charging": false,
     "sim": "TELKOMSEL"
   },
+  "lastSeen": "2026-06-29T08:44:13.274Z",
   "connectedAt": "2026-06-29T08:39:51.960Z",
-  "lastSeen": "2026-06-29T08:39:51.960Z",
-  "ownerUid": "CEV5890TR7JQA9B0",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": "CEV5890TR7JQA9B0",
+  "online": false
 }
