@@ -1,16 +1,18 @@
 {
   "id": "xyz-80b7169030f5ecf7",
   "name": "OPPO CPH2577",
+  "socketId": "L5G_81-mbHQ_Ait1AGAz",
   "info": {
     "sdk": 35,
     "manufacturer": "OPPO",
     "model": "CPH2577",
     "battery": 100,
-    "charging": true,
+    "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-06-28T22:04:32.569Z",
-  "connectedAt": "2026-06-28T14:50:02.267Z",
+  "connectedAt": "2026-06-29T00:04:21.612Z",
+  "lastSeen": "2026-06-29T00:04:21.612Z",
+  "ownerUid": "PB7NN3HLKZWI6VC7",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,5 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "PB7NN3HLKZWI6VC7",
-  "online": false
+  "online": true
 }
