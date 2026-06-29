@@ -1,7 +1,6 @@
 {
   "id": "dev-5cc882984f306c1e",
   "name": "Realme RMX5020",
-  "socketId": "Og1xgyibSG8sJ_L8AGhJ",
   "info": {
     "sdk": 35,
     "manufacturer": "realme",
@@ -10,19 +9,21 @@
     "charging": false,
     "sim": "TELKOMSEL"
   },
+  "lastSeen": "2026-06-29T07:51:32.472Z",
   "connectedAt": "2026-06-29T07:47:45.644Z",
-  "lastSeen": "2026-06-29T07:47:45.644Z",
-  "ownerUid": "CEV5890TR7JQA9B0",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
-    "lockedV2": false,
+    "lockedV2": true,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "CEV5890TR7JQA9B0",
+  "online": false
 }
