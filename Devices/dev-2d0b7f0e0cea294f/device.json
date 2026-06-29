@@ -1,18 +1,16 @@
 {
   "id": "dev-2d0b7f0e0cea294f",
   "name": "Xiaomi 23108RN04Y",
-  "socketId": "w7PSz071NqsGFzCpAAJA",
   "info": {
     "sdk": 33,
     "manufacturer": "Xiaomi",
     "model": "23108RN04Y",
-    "battery": 7,
+    "battery": 8,
     "charging": true,
     "sim": "XL"
   },
+  "lastSeen": "2026-06-29T15:27:39.544Z",
   "connectedAt": "2026-06-29T15:25:14.437Z",
-  "lastSeen": "2026-06-29T15:25:14.437Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,5 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
