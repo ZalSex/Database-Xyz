@@ -1,18 +1,16 @@
 {
   "id": "xyz-a2a69eeddd75cc97",
   "name": "Samsung SM-A145F",
-  "socketId": "JAwD3v_oua75V2_yAGH5",
   "info": {
     "sdk": 35,
     "manufacturer": "samsung",
     "model": "SM-A145F",
-    "battery": 79,
+    "battery": 78,
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
+  "lastSeen": "2026-06-29T04:03:45.645Z",
   "connectedAt": "2026-06-29T03:59:16.292Z",
-  "lastSeen": "2026-06-29T03:59:16.292Z",
-  "ownerUid": "WO8G8QZXNCXJLYNE",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,11 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "screenText": false
   },
-  "online": true
+  "ownerUid": "WO8G8QZXNCXJLYNE",
+  "online": false
 }
