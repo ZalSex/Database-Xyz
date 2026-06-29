@@ -1,16 +1,18 @@
 {
   "id": "xyz-fcb465dbcc6cc77b",
   "name": "Infinix X6855",
+  "socketId": "nhxJlZyVCDIf_ZTWAAIz",
   "info": {
     "sdk": 36,
     "manufacturer": "INFINIX",
     "model": "Infinix X6855",
-    "battery": 60,
-    "charging": true,
+    "battery": 64,
+    "charging": false,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-06-29T15:17:39.934Z",
-  "connectedAt": "2026-06-29T13:18:18.537Z",
+  "connectedAt": "2026-06-29T15:21:00.221Z",
+  "lastSeen": "2026-06-29T15:21:00.221Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,5 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "online": true
 }
