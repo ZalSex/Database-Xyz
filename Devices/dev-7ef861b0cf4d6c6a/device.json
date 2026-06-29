@@ -1,7 +1,6 @@
 {
   "id": "dev-7ef861b0cf4d6c6a",
   "name": "Vivo V2038",
-  "socketId": "_t1r_AyQFbmXjnrYAG0P",
   "info": {
     "sdk": 33,
     "manufacturer": "vivo",
@@ -10,9 +9,8 @@
     "charging": false,
     "sim": "TELKOMSEL"
   },
+  "lastSeen": "2026-06-29T10:38:09.987Z",
   "connectedAt": "2026-06-29T10:36:33.568Z",
-  "lastSeen": "2026-06-29T10:36:33.568Z",
-  "ownerUid": "CEV5890TR7JQA9B0",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,7 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "online": true
+  "ownerUid": "CEV5890TR7JQA9B0",
+  "online": false
 }
