@@ -1,16 +1,18 @@
 {
   "id": "dev-7ef861b0cf4d6c6a",
   "name": "Vivo V2038",
+  "socketId": "tr33zUW82KezPX92AGM7",
   "info": {
     "sdk": 33,
     "manufacturer": "vivo",
     "model": "V2038",
-    "battery": 23,
+    "battery": 82,
     "charging": false,
     "sim": "TELKOMSEL"
   },
-  "lastSeen": "2026-06-28T19:28:25.587Z",
-  "connectedAt": "2026-06-28T19:03:55.702Z",
+  "connectedAt": "2026-06-29T04:52:41.315Z",
+  "lastSeen": "2026-06-29T04:52:41.315Z",
+  "ownerUid": "CEV5890TR7JQA9B0",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,16 +22,7 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "audioPlaying": false,
-    "brightness": 0,
-    "screenText": false,
-    "spamDialog": false,
-    "screenSharing": false,
-    "openApp": "com.dts.freefireth"
+    "activeTheme": "default"
   },
-  "ownerUid": "CEV5890TR7JQA9B0",
-  "online": false
+  "online": true
 }
