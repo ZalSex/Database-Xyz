@@ -1,16 +1,18 @@
 {
   "id": "xyz-5face2cbc6da637c",
   "name": "Vivo V2236",
+  "socketId": "bVP8sm6_p88DC7MVAAHA",
   "info": {
     "sdk": 31,
     "manufacturer": "vivo",
     "model": "V2236",
-    "battery": 41,
+    "battery": 4,
     "charging": false,
     "sim": "TELKOMSEL"
   },
-  "lastSeen": "2026-06-28T13:44:19.976Z",
-  "connectedAt": "2026-06-28T13:30:49.312Z",
+  "connectedAt": "2026-06-30T11:46:04.104Z",
+  "lastSeen": "2026-06-30T11:46:04.104Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,12 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "chrome",
-    "protectionEnabled": true,
-    "protection": true,
-    "screenText": false,
-    "brightness": 100
+    "activeTheme": "default"
   },
-  "ownerUid": "VDTS0MEOI93BQY8E",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-06-30T11:46:04.104Z",
+  "online": true
 }
