@@ -1,16 +1,18 @@
 {
   "id": "xyz-25179a6d5cf50eeb",
   "name": "Xiaomi 2412DPC0AG",
+  "socketId": "8-MUJ3daQxNI0bIKAAdF",
   "info": {
     "sdk": 36,
     "manufacturer": "Xiaomi",
     "model": "2412DPC0AG",
-    "battery": 26,
-    "charging": false,
+    "battery": 1,
+    "charging": true,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-06-28T15:29:42.758Z",
-  "connectedAt": "2026-06-28T13:59:14.392Z",
+  "connectedAt": "2026-06-30T21:33:33.475Z",
+  "lastSeen": "2026-06-30T21:33:33.475Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "WBZ1QLHT40E6233E",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-06-30T21:33:33.475Z",
+  "online": true
 }
