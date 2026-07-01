@@ -1,16 +1,18 @@
 {
   "id": "dev-c2d7b125119e2bc8",
   "name": "Infinix X6885",
+  "socketId": "YxhFWHftF9w0B24dAAEm",
   "info": {
     "sdk": 35,
     "manufacturer": "INFINIX",
     "model": "Infinix X6885",
-    "battery": 16,
+    "battery": 15,
     "charging": false,
     "sim": "TELKOMSEL"
   },
-  "lastSeen": "2026-07-01T14:43:00.728Z",
-  "connectedAt": "2026-07-01T14:42:57.008Z",
+  "connectedAt": "2026-07-01T14:45:29.438Z",
+  "lastSeen": "2026-07-01T14:45:29.438Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-01T14:45:29.438Z",
+  "online": true
 }
