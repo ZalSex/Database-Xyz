@@ -1,16 +1,18 @@
 {
   "id": "dev-99371d8149028a29",
   "name": "Realme RMX3941",
+  "socketId": "D4VeJVqkO5Ut1noBAAnV",
   "info": {
     "sdk": 34,
     "manufacturer": "realme",
     "model": "RMX3941",
-    "battery": 83,
+    "battery": 82,
     "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-07-01T06:22:32.175Z",
-  "connectedAt": "2026-07-01T06:12:32.170Z",
+  "connectedAt": "2026-07-01T06:27:09.110Z",
+  "lastSeen": "2026-07-01T06:27:09.110Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-01T06:27:09.110Z",
+  "online": true
 }
