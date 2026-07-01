@@ -1,6 +1,7 @@
 {
   "id": "xyz-28895adfb9ede92e",
   "name": "Xiaomi 24094RAD4G",
+  "socketId": "nHofqvqIBFJ3pJx0AAgH",
   "info": {
     "sdk": 34,
     "manufacturer": "Xiaomi",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-07-01T00:24:34.030Z",
-  "connectedAt": "2026-07-01T00:22:20.974Z",
+  "connectedAt": "2026-07-01T00:25:16.359Z",
+  "lastSeen": "2026-07-01T00:25:16.359Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-01T00:25:16.360Z",
+  "online": true
 }
