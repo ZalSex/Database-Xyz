@@ -1,16 +1,18 @@
 {
   "id": "xyz-a041a76fc5e52a32",
   "name": "Infinix X6840",
+  "socketId": "espt4rXfc7PM-N13AAAr",
   "info": {
     "sdk": 36,
     "manufacturer": "INFINIX",
     "model": "Infinix X6840",
-    "battery": 84,
+    "battery": 83,
     "charging": false,
     "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
-  "lastSeen": "2026-07-02T15:15:14.579Z",
-  "connectedAt": "2026-07-02T15:11:53.965Z",
+  "connectedAt": "2026-07-02T15:16:24.696Z",
+  "lastSeen": "2026-07-02T15:16:24.696Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-02T15:16:24.696Z",
+  "online": true
 }
