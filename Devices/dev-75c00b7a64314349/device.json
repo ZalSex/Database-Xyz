@@ -1,16 +1,18 @@
 {
   "id": "dev-75c00b7a64314349",
   "name": "Xiaomi 25062RN2DY",
+  "socketId": "C4hIZW5v6IpQuwyJAADY",
   "info": {
     "sdk": 35,
     "manufacturer": "Xiaomi",
     "model": "25062RN2DY",
-    "battery": 46,
+    "battery": 56,
     "charging": true,
     "sim": "XL"
   },
-  "lastSeen": "2026-07-02T01:59:30.769Z",
-  "connectedAt": "2026-07-02T01:48:34.612Z",
+  "connectedAt": "2026-07-02T02:12:42.219Z",
+  "lastSeen": "2026-07-02T02:12:42.219Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-02T02:12:42.219Z",
+  "online": true
 }
