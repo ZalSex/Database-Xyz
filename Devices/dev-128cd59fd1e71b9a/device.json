@@ -1,16 +1,18 @@
 {
   "id": "dev-128cd59fd1e71b9a",
   "name": "Infinix X6525",
+  "socketId": "fOUdakGz-5KUCQ10AABU",
   "info": {
     "sdk": 33,
     "manufacturer": "INFINIX",
     "model": "Infinix X6525",
-    "battery": 69,
-    "charging": true,
+    "battery": 75,
+    "charging": false,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-07-03T10:41:08.007Z",
-  "connectedAt": "2026-07-03T10:39:25.097Z",
+  "connectedAt": "2026-07-03T10:55:55.300Z",
+  "lastSeen": "2026-07-03T10:55:55.300Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-03T10:55:55.300Z",
+  "online": true
 }
