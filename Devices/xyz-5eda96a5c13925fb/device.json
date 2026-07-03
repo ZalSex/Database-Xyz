@@ -1,18 +1,16 @@
 {
   "id": "xyz-5eda96a5c13925fb",
   "name": "Realme RMX3933",
-  "socketId": "8niXfv0e5ABuVobqAAAI",
   "info": {
     "sdk": 34,
     "manufacturer": "realme",
     "model": "RMX3933",
-    "battery": 25,
-    "charging": true,
+    "battery": 34,
+    "charging": false,
     "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
+  "lastSeen": "2026-07-03T10:27:04.371Z",
   "connectedAt": "2026-07-03T10:07:12.250Z",
-  "lastSeen": "2026-07-03T10:07:12.250Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,7 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-03T10:07:12.250Z",
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
