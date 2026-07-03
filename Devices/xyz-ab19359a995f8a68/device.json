@@ -1,16 +1,18 @@
 {
   "id": "xyz-ab19359a995f8a68",
   "name": "Vivo V2507",
+  "socketId": "Vgy3UUb1dVdmFjJNAAE2",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
     "model": "V2507",
-    "battery": 38,
+    "battery": 92,
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-07-03T15:56:56.221Z",
-  "connectedAt": "2026-07-03T14:06:09.111Z",
+  "connectedAt": "2026-07-03T16:50:55.780Z",
+  "lastSeen": "2026-07-03T16:50:55.780Z",
+  "ownerUid": "LRU9A3KYRIMI1LDI",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -19,14 +21,10 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": true,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "screenText": false,
-    "spamDialog": false,
-    "sos": false
+    "appHidden": false,
+    "activeTheme": "default"
   },
-  "ownerUid": "LRU9A3KYRIMI1LDI",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-03T16:50:55.780Z",
+  "online": true
 }
