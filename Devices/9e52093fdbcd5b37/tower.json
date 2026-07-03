@@ -1,0 +1,87 @@
+[
+  {
+    "ts": "2026-07-03T07:23:28.403Z",
+    "towers": {
+      "operator": "Smartfren4G",
+      "simOp": "Smartfren4G",
+      "netType": "LTE (4G)",
+      "cells": [
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "11",
+          "cid": 0,
+          "lac": 0,
+          "arfcn": 0,
+          "dbm": -113,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "11",
+          "ci": 72731141,
+          "pci": 280,
+          "tac": 28704,
+          "earfcn": 1325,
+          "rsrp": -99,
+          "rsrq": -16,
+          "dbm": -99,
+          "registered": true
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 280,
+          "tac": 65535,
+          "earfcn": 2450,
+          "rsrp": -100,
+          "rsrq": -8,
+          "dbm": -100,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 280,
+          "tac": 65535,
+          "earfcn": 325,
+          "rsrp": -108,
+          "rsrq": -13,
+          "dbm": -108,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 386,
+          "tac": 65535,
+          "earfcn": 39448,
+          "rsrp": -120,
+          "rsrq": -9,
+          "dbm": -120,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 386,
+          "tac": 65535,
+          "earfcn": 39250,
+          "rsrp": -121,
+          "rsrq": -10,
+          "dbm": -121,
+          "registered": false
+        }
+      ]
+    }
+  }
+]
