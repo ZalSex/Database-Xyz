@@ -1354,5 +1354,66 @@
       }
     ],
     "count": 37
+  },
+  {
+    "ts": "2026-07-03T14:47:24.518Z",
+    "active": {
+      "currentSsid": "RASTI",
+      "currentBssid": "f4:2d:06:f1:f5:78",
+      "ipAddress": "192.168.1.8",
+      "linkSpeed": "65 Mbps",
+      "rssi": -44,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-07-03 22:47:24"
+    },
+    "savedNets": [
+      {
+        "ssid": "RASTI",
+        "bssid": "f4:2d:06:f1:f5:78",
+        "level": -48,
+        "security": "WPA2",
+        "frequency": 2432,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      },
+      {
+        "ssid": "RASTI_5G",
+        "bssid": "f4:2d:06:f1:f5:7a",
+        "level": -53,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "YUNUS",
+        "bssid": "f4:2d:06:f2:7b:82",
+        "level": -75,
+        "security": "WPA2",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "ZTE_5G_C4aDbt",
+        "bssid": "f6:2d:06:92:7b:84",
+        "level": -88,
+        "security": "WPA2",
+        "frequency": 5745,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "YUNUS",
+        "bssid": "f4:2d:06:f2:7b:84",
+        "level": -88,
+        "security": "WPA2",
+        "frequency": 5745,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 5
   }
 ]
