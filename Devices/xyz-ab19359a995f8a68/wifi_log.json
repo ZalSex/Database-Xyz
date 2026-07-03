@@ -1,0 +1,72 @@
+[
+  {
+    "ts": "2026-07-03T17:48:46.566Z",
+    "active": {
+      "currentSsid": "SUFTTT",
+      "currentBssid": "f4:f6:47:d6:53:20",
+      "ipAddress": "192.168.1.9",
+      "linkSpeed": "200 Mbps",
+      "rssi": -37,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-07-04 00:48:45"
+    },
+    "savedNets": [
+      {
+        "ssid": "SUFTTT",
+        "bssid": "f4:f6:47:d6:53:20",
+        "level": -30,
+        "security": "WPA2",
+        "frequency": 5745,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      },
+      {
+        "ssid": "SUFTTT",
+        "bssid": "f4:f6:47:d6:53:1e",
+        "level": -36,
+        "security": "WPA2",
+        "frequency": 2452,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "VARDIN",
+        "bssid": "f8:73:1a:62:fd:fc",
+        "level": -69,
+        "security": "WPA2",
+        "frequency": 2452,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "London",
+        "bssid": "f4:2d:06:f0:da:1c",
+        "level": -79,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "putrisalsa",
+        "bssid": "0c:37:47:80:fa:e0",
+        "level": -87,
+        "security": "WPA2",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Rumah Athar",
+        "bssid": "88:66:9f:53:a8:f0",
+        "level": -88,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 6
+  }
+]
