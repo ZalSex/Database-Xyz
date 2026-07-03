@@ -1,16 +1,18 @@
 {
   "id": "8b1f1774f67d45d9",
   "name": "Infinix X6531B",
+  "socketId": "V1wUGqews330zgAeAAH7",
   "info": {
     "sdk": 34,
     "manufacturer": "INFINIX",
     "model": "Infinix X6531B",
-    "battery": 41,
+    "battery": 40,
     "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-07-03T13:54:27.130Z",
-  "connectedAt": "2026-07-03T13:52:21.632Z",
+  "connectedAt": "2026-07-03T13:55:06.279Z",
+  "lastSeen": "2026-07-03T13:55:06.279Z",
+  "ownerUid": "DAR897OTPB4ME4YC",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "DAR897OTPB4ME4YC",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-03T13:55:06.279Z",
+  "online": true
 }
