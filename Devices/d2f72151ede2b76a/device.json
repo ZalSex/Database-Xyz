@@ -1,16 +1,18 @@
 {
   "id": "d2f72151ede2b76a",
   "name": "OPPO CPH2375",
+  "socketId": "bZKleRfRrM1Ao45CAAi2",
   "info": {
     "sdk": 33,
     "manufacturer": "OPPO",
     "model": "CPH2375",
     "battery": 1,
-    "charging": false,
-    "sim": "Telkomsel"
+    "charging": true,
+    "sim": "No SIM"
   },
-  "lastSeen": "2026-07-04T18:23:29.936Z",
-  "connectedAt": "2026-07-04T17:27:11.884Z",
+  "connectedAt": "2026-07-04T18:23:49.088Z",
+  "lastSeen": "2026-07-04T18:23:49.088Z",
+  "ownerUid": "SM7LMEFX6M4Z5Q64",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,11 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "screenText": false
+    "activeTheme": "default"
   },
-  "ownerUid": "SM7LMEFX6M4Z5Q64",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-04T18:23:49.088Z",
+  "online": true
 }
