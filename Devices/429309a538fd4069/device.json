@@ -1,16 +1,18 @@
 {
   "id": "429309a538fd4069",
   "name": "TECNO KL5n",
+  "socketId": "LH2xgULS8ucHbcjCABFh",
   "info": {
     "sdk": 34,
     "manufacturer": "TECNO",
     "model": "TECNO KL5n",
-    "battery": 29,
-    "charging": false,
+    "battery": 36,
+    "charging": true,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-07-04T05:43:26.164Z",
-  "connectedAt": "2026-07-04T05:43:24.790Z",
+  "connectedAt": "2026-07-04T05:59:49.745Z",
+  "lastSeen": "2026-07-04T05:59:49.745Z",
+  "ownerUid": "W2NMUGR77E52A8ZO",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "W2NMUGR77E52A8ZO",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-04T05:59:49.745Z",
+  "online": true
 }
