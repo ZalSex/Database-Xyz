@@ -1,16 +1,18 @@
 {
   "id": "273ec456d16119ef",
   "name": "Infinix X670",
+  "socketId": "DOUA5A-tQHNd9gn7AAqz",
   "info": {
     "sdk": 33,
     "manufacturer": "INFINIX",
     "model": "Infinix X670",
-    "battery": 57,
+    "battery": 54,
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
-  "lastSeen": "2026-07-04T03:16:47.282Z",
-  "connectedAt": "2026-07-04T03:16:20.390Z",
+  "connectedAt": "2026-07-04T03:20:37.669Z",
+  "lastSeen": "2026-07-04T03:20:37.669Z",
+  "ownerUid": "TVFNFUU46V7HQ79P",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -18,10 +20,11 @@
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
-    "lockedChat": true,
+    "lockedChat": false,
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "TVFNFUU46V7HQ79P",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-04T03:20:37.669Z",
+  "online": true
 }
