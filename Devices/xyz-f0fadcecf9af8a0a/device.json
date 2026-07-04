@@ -1,7 +1,6 @@
 {
   "id": "xyz-f0fadcecf9af8a0a",
   "name": "Vivo V2434",
-  "socketId": "4Bg4grOxNvGgI7MAAA7m",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
@@ -10,21 +9,21 @@
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-07-04T05:05:52.083Z",
   "connectedAt": "2026-07-04T05:05:25.216Z",
-  "lastSeen": "2026-07-04T05:05:25.216Z",
-  "ownerUid": "421WFZTYXGR78309",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
-    "locked": false,
+    "locked": true,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
-    "activeTheme": "default"
+    "appHidden": true,
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-04T05:05:25.216Z",
-  "online": true
+  "ownerUid": "421WFZTYXGR78309",
+  "online": false
 }
