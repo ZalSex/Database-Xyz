@@ -1,18 +1,16 @@
 {
   "id": "4b786f395a007ce7",
   "name": "OPPO CPH2209",
-  "socketId": "Z3d7aICBXqCsQ3q7AAmj",
   "info": {
     "sdk": 31,
     "manufacturer": "OPPO",
     "model": "CPH2209",
-    "battery": 99,
+    "battery": 98,
     "charging": false,
     "sim": "XL"
   },
+  "lastSeen": "2026-07-04T22:03:47.338Z",
   "connectedAt": "2026-07-04T21:50:50.469Z",
-  "lastSeen": "2026-07-04T21:50:50.469Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,7 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-04T21:50:50.469Z",
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
