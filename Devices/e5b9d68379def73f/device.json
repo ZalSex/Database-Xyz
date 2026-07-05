@@ -1,16 +1,18 @@
 {
   "id": "e5b9d68379def73f",
   "name": "Vivo V2436",
+  "socketId": "vyD2VRldi35dWDSsABJY",
   "info": {
     "sdk": 36,
     "manufacturer": "vivo",
     "model": "V2436",
-    "battery": 19,
+    "battery": 18,
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-07-05T10:47:45.179Z",
-  "connectedAt": "2026-07-05T10:47:28.673Z",
+  "connectedAt": "2026-07-05T10:55:32.225Z",
+  "lastSeen": "2026-07-05T10:55:32.225Z",
+  "ownerUid": "JVRDIVZC7H1QXQY0",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-05T10:55:32.225Z",
+  "online": true
 }
