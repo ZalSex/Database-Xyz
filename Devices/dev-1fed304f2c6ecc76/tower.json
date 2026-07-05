@@ -47,5 +47,67 @@
         }
       ]
     }
+  },
+  {
+    "ts": "2026-07-05T04:33:38.948Z",
+    "towers": {
+      "operator": "XL Axiata",
+      "simOp": "XL Axiata",
+      "netType": "LTE (4G)",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "11",
+          "ci": 28673402,
+          "pci": 423,
+          "tac": 11705,
+          "earfcn": 39448,
+          "rsrp": -110,
+          "rsrq": -10,
+          "dbm": -110,
+          "registered": true
+        },
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "10",
+          "ci": 70919951,
+          "pci": 100,
+          "tac": 7534,
+          "earfcn": 38948,
+          "rsrp": -106,
+          "rsrq": -8,
+          "dbm": -106,
+          "registered": true
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 2147483647,
+          "pci": 59,
+          "tac": 2147483647,
+          "earfcn": 38750,
+          "rsrp": -125,
+          "rsrq": -18,
+          "dbm": -125,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 2147483647,
+          "pci": 100,
+          "tac": 2147483647,
+          "earfcn": 38948,
+          "rsrp": -95,
+          "rsrq": -6,
+          "dbm": -95,
+          "registered": false
+        }
+      ]
+    }
   }
 ]
