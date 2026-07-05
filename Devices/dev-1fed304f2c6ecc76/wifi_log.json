@@ -23,5 +23,30 @@
       }
     ],
     "count": 1
+  },
+  {
+    "ts": "2026-07-05T04:35:12.470Z",
+    "active": {
+      "currentSsid": "<unknown ssid>",
+      "currentBssid": "",
+      "ipAddress": "0.0.0.0",
+      "linkSpeed": "-1 Mbps",
+      "rssi": -127,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": false,
+      "ts": "2026-07-05 11:35:10"
+    },
+    "savedNets": [
+      {
+        "ssid": "GGCLINK-G663XPON",
+        "bssid": "50:55:8d:1a:3a:0f",
+        "level": -50,
+        "security": "WPA2",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 1
   }
 ]
