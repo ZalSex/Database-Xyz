@@ -1,16 +1,18 @@
 {
   "id": "d1685bd8443623e7",
   "name": "OPPO CPH2711",
+  "socketId": "YqSEeGtR3A3c9k3NABkP",
   "info": {
     "sdk": 36,
     "manufacturer": "OPPO",
     "model": "CPH2711",
-    "battery": 86,
+    "battery": 85,
     "charging": false,
     "sim": "TELKOMSEL"
   },
-  "lastSeen": "2026-07-05T14:51:14.476Z",
-  "connectedAt": "2026-07-05T14:43:45.835Z",
+  "connectedAt": "2026-07-05T15:17:42.455Z",
+  "lastSeen": "2026-07-05T15:17:42.455Z",
+  "ownerUid": "0Z7EKVYMQEU5CUUH",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,10 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": "0Z7EKVYMQEU5CUUH",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-05T15:17:42.455Z",
+  "online": true
 }
