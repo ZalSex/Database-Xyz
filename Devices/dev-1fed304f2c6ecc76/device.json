@@ -1,16 +1,18 @@
 {
   "id": "dev-1fed304f2c6ecc76",
   "name": "TECNO KM4",
+  "socketId": "fBugsiSC92swsWuxAA1o",
   "info": {
     "sdk": 35,
     "manufacturer": "TECNO",
     "model": "TECNO KM4",
-    "battery": 64,
+    "battery": 93,
     "charging": false,
-    "sim": "Indosat Ooredoo"
+    "sim": "XL Axiata"
   },
-  "lastSeen": "2026-06-27T09:50:59.488Z",
-  "connectedAt": "2026-06-27T09:46:12.031Z",
+  "connectedAt": "2026-07-05T04:16:07.488Z",
+  "lastSeen": "2026-07-05T04:16:07.488Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,11 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "screenSharing": false
+    "activeTheme": "default"
   },
-  "ownerUid": "16MORDOE91ZJ8CRQ",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-05T04:16:07.488Z",
+  "online": true
 }
