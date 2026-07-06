@@ -1,6 +1,7 @@
 {
   "id": "4017dbf48e43d208",
   "name": "VIVO Y17",
+  "socketId": "jVAWhqjRb4HvgTLHACqJ",
   "info": {
     "sdk": 28,
     "manufacturer": "vivo",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-07-06T11:06:28.173Z",
-  "connectedAt": "2026-07-06T11:03:16.810Z",
+  "connectedAt": "2026-07-06T11:07:32.637Z",
+  "lastSeen": "2026-07-06T11:07:32.637Z",
+  "ownerUid": "WO8G8QZXNCXJLYNE",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,17 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "volume_media": 26,
-    "volume_ring": 50,
-    "volume_notif": 50,
-    "volume_alarm": 50,
-    "volume_call": 50,
-    "brightness": 38,
-    "spamDialog": true
+    "activeTheme": "default"
   },
-  "ownerUid": "WO8G8QZXNCXJLYNE",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-06T11:07:32.637Z",
+  "online": true
 }
