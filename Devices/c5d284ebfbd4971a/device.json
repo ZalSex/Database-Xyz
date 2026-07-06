@@ -1,18 +1,16 @@
 {
   "id": "c5d284ebfbd4971a",
   "name": "Samsung SM-A146P",
-  "socketId": "Poj43Hssi5F1EtaxACFB",
   "info": {
     "sdk": 33,
     "manufacturer": "samsung",
     "model": "SM-A146P",
-    "battery": 99,
+    "battery": 90,
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-07-06T04:57:54.453Z",
   "connectedAt": "2026-07-06T02:58:00.773Z",
-  "lastSeen": "2026-07-06T02:58:00.773Z",
-  "ownerUid": "0Z7EKVYMQEU5CUUH",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-06T02:58:00.773Z",
-  "online": true
+  "ownerUid": "0Z7EKVYMQEU5CUUH",
+  "online": false
 }
