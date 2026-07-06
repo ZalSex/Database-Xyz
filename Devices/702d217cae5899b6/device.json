@@ -1,16 +1,18 @@
 {
   "id": "702d217cae5899b6",
   "name": "Xiaomi 25078PC3EG",
+  "socketId": "5aAFK61sezkcv8FoACrg",
   "info": {
     "sdk": 35,
     "manufacturer": "Xiaomi",
     "model": "25078PC3EG",
-    "battery": 79,
+    "battery": 78,
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-07-06T11:21:54.230Z",
-  "connectedAt": "2026-07-06T11:13:55.660Z",
+  "connectedAt": "2026-07-06T11:26:43.315Z",
+  "lastSeen": "2026-07-06T11:26:43.315Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-06T11:26:43.315Z",
+  "online": true
 }
