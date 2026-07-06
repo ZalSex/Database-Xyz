@@ -1,18 +1,16 @@
 {
   "id": "4336045355e78b6b",
   "name": "itel S665L",
-  "socketId": "YYQB8d8n7P_mbUK3ACjB",
   "info": {
     "sdk": 31,
     "manufacturer": "ITEL",
     "model": "itel S665L",
-    "battery": 39,
+    "battery": 38,
     "charging": false,
     "sim": "3SinyalKuatHemat"
   },
+  "lastSeen": "2026-07-06T09:23:33.772Z",
   "connectedAt": "2026-07-06T09:20:37.976Z",
-  "lastSeen": "2026-07-06T09:20:37.976Z",
-  "ownerUid": "KE3T2JIB47T4K23O",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,11 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "brightness": 38
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-06T09:20:37.976Z",
-  "online": true
+  "ownerUid": "KE3T2JIB47T4K23O",
+  "online": false
 }
