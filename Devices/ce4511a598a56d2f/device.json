@@ -1,16 +1,18 @@
 {
   "id": "ce4511a598a56d2f",
   "name": "Vivo V2248",
+  "socketId": "zaQkhff8iE4i0070ACft",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
     "model": "V2248",
-    "battery": 37,
+    "battery": 38,
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-07-06T08:41:23.777Z",
-  "connectedAt": "2026-07-06T08:39:32.170Z",
+  "connectedAt": "2026-07-06T08:41:25.883Z",
+  "lastSeen": "2026-07-06T08:41:25.883Z",
+  "ownerUid": "2ITU164PS8JZ6LQU",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "2ITU164PS8JZ6LQU",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-06T08:41:25.883Z",
+  "online": true
 }
