@@ -1,16 +1,18 @@
 {
   "id": "dev-adea0b49b72e909f",
   "name": "OPPO CPH2473",
+  "socketId": "EFQDDbLYkJEKwDP1ACHk",
   "info": {
     "sdk": 31,
     "manufacturer": "OPPO",
     "model": "CPH2473",
-    "battery": 82,
+    "battery": 81,
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-07-06T03:24:04.324Z",
-  "connectedAt": "2026-07-06T03:23:55.930Z",
+  "connectedAt": "2026-07-06T03:32:50.639Z",
+  "lastSeen": "2026-07-06T03:32:50.639Z",
+  "ownerUid": "P5SZ4T7BNV9MX7W0",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "P5SZ4T7BNV9MX7W0",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-06T03:32:50.639Z",
+  "online": true
 }
