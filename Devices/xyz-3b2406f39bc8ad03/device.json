@@ -1,16 +1,18 @@
 {
   "id": "xyz-3b2406f39bc8ad03",
   "name": "OPPO CPH2015",
+  "socketId": "inShdze2kLC0vSLiACzG",
   "info": {
     "sdk": 28,
     "manufacturer": "OPPO",
     "model": "CPH2015",
-    "battery": 70,
+    "battery": 7,
     "charging": false,
-    "sim": "XL Axiata"
+    "sim": "Unknown"
   },
-  "lastSeen": "2026-06-30T00:46:34.500Z",
-  "connectedAt": "2026-06-29T23:42:56.375Z",
+  "connectedAt": "2026-07-06T12:27:11.036Z",
+  "lastSeen": "2026-07-06T12:27:11.036Z",
+  "ownerUid": "WO8G8QZXNCXJLYNE",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-06T12:27:11.036Z",
+  "online": true
 }
