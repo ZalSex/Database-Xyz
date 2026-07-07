@@ -1,7 +1,6 @@
 {
   "id": "fa2f7260dafc174b",
   "name": "Infinix X6728",
-  "socketId": "s3RBoduykSGuZylRAEne",
   "info": {
     "sdk": 35,
     "manufacturer": "INFINIX",
@@ -10,9 +9,8 @@
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
+  "lastSeen": "2026-07-07T12:45:55.417Z",
   "connectedAt": "2026-07-07T12:45:48.228Z",
-  "lastSeen": "2026-07-07T12:45:48.228Z",
-  "ownerUid": "4BPUZOKEU6ILUG7X",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-07T12:45:48.228Z",
-  "online": true
+  "ownerUid": "4BPUZOKEU6ILUG7X",
+  "online": false
 }
