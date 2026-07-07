@@ -1,6 +1,7 @@
 {
   "id": "f96c5da1508e898e",
   "name": "Xiaomi Redmi 7",
+  "socketId": "TlfLnqJ13sRxMDilAECA",
   "info": {
     "sdk": 29,
     "manufacturer": "Xiaomi",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "XL"
   },
-  "lastSeen": "2026-07-07T06:14:47.134Z",
-  "connectedAt": "2026-07-07T06:14:24.935Z",
+  "connectedAt": "2026-07-07T06:16:42.426Z",
+  "lastSeen": "2026-07-07T06:16:42.426Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-07T06:16:42.426Z",
+  "online": true
 }
