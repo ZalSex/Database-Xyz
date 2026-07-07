@@ -1,16 +1,18 @@
 {
   "id": "faf045f5ff2bad2c",
   "name": "Xiaomi M2103K19PG",
+  "socketId": "XJg97vXyJkQvE6x2AEze",
   "info": {
     "sdk": 30,
     "manufacturer": "Xiaomi",
     "model": "M2103K19PG",
-    "battery": 100,
-    "charging": true,
+    "battery": 59,
+    "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-07-07T06:54:05.532Z",
-  "connectedAt": "2026-07-07T06:52:32.129Z",
+  "connectedAt": "2026-07-07T15:13:12.097Z",
+  "lastSeen": "2026-07-07T15:13:12.097Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "APUI7BDOEX51ZBWS",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-07T15:13:12.097Z",
+  "online": true
 }
