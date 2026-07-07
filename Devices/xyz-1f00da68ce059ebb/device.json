@@ -1,16 +1,18 @@
 {
   "id": "xyz-1f00da68ce059ebb",
   "name": "Realme RMX1941",
+  "socketId": "rf2YCFuqFEe2F1N5AEYC",
   "info": {
     "sdk": 28,
     "manufacturer": "Realme",
     "model": "RMX1941",
-    "battery": 4,
+    "battery": 7,
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-07-07T10:57:13.734Z",
-  "connectedAt": "2026-07-07T10:56:45.991Z",
+  "connectedAt": "2026-07-07T11:04:27.941Z",
+  "lastSeen": "2026-07-07T11:04:27.941Z",
+  "ownerUid": "421WFZTYXGR78309",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "421WFZTYXGR78309",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-07T11:04:27.941Z",
+  "online": true
 }
