@@ -1,7 +1,6 @@
 {
   "id": "f8bcff4b35b2853b",
   "name": "Google Pixel 2",
-  "socketId": "MOE7_DAf-iqgeLADAGnu",
   "info": {
     "sdk": 30,
     "manufacturer": "Google",
@@ -10,9 +9,8 @@
     "charging": true,
     "sim": "T-Mobile"
   },
+  "lastSeen": "2026-07-07T22:20:44.624Z",
   "connectedAt": "2026-07-07T22:17:24.409Z",
-  "lastSeen": "2026-07-07T22:17:24.409Z",
-  "ownerUid": "WNSR8W4LRJVC1IE7",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-07T22:17:24.409Z",
-  "online": true
+  "ownerUid": "WNSR8W4LRJVC1IE7",
+  "online": false
 }
