@@ -1,0 +1,38 @@
+[
+  {
+    "ts": "2026-07-07T23:12:10.274Z",
+    "towers": {
+      "operator": "by.U",
+      "simOp": "Telkomsel",
+      "netType": "LTE (4G)",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "10",
+          "ci": 38076181,
+          "pci": 91,
+          "tac": 1172,
+          "earfcn": 1850,
+          "rsrp": -84,
+          "rsrq": -6,
+          "dbm": -84,
+          "registered": true
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 2147483647,
+          "pci": 282,
+          "tac": 2147483647,
+          "earfcn": 1850,
+          "rsrp": -104,
+          "rsrq": -20,
+          "dbm": -104,
+          "registered": false
+        }
+      ]
+    }
+  }
+]
