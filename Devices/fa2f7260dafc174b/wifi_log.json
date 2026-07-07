@@ -1,0 +1,90 @@
+[
+  {
+    "ts": "2026-07-07T06:58:22.937Z",
+    "active": {
+      "currentSsid": "Rainbow Cake",
+      "currentBssid": "74:5b:c5:40:9b:98",
+      "ipAddress": "192.168.1.25",
+      "linkSpeed": "65 Mbps",
+      "rssi": -60,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-07-07 13:58:22"
+    },
+    "savedNets": [
+      {
+        "ssid": "Rainbow Cake",
+        "bssid": "74:5b:c5:40:9b:98",
+        "level": -68,
+        "security": "WPA2",
+        "frequency": 2452,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      },
+      {
+        "ssid": "Talita Putri",
+        "bssid": "74:5b:c5:4b:c4:30",
+        "level": -82,
+        "security": "WPA2",
+        "frequency": 2427,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Rayffal",
+        "bssid": "88:37:1b:58:92:ab",
+        "level": -82,
+        "security": "WPA2",
+        "frequency": 2452,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Ateu Intan 5G",
+        "bssid": "94:e3:ee:5e:98:f3",
+        "level": -86,
+        "security": "WPA2",
+        "frequency": 5765,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "AZURA",
+        "bssid": "74:5b:c5:49:75:08",
+        "level": -88,
+        "security": "WPA2",
+        "frequency": 2432,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "FAJAR",
+        "bssid": "40:ee:15:35:5d:dc",
+        "level": -91,
+        "security": "WPA2",
+        "frequency": 2427,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Jangan Kepo",
+        "bssid": "74:5b:c5:48:2d:88",
+        "level": -92,
+        "security": "WPA2",
+        "frequency": 2472,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Gippa09",
+        "bssid": "bc:2d:6d:df:d1:10",
+        "level": -94,
+        "security": "WPA2",
+        "frequency": 2472,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 8
+  }
+]
