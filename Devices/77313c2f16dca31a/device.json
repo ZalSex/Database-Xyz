@@ -1,16 +1,18 @@
 {
   "id": "77313c2f16dca31a",
   "name": "Vivo V2120",
+  "socketId": "d0hm40kHALBWAE9lADvb",
   "info": {
     "sdk": 31,
     "manufacturer": "vivo",
     "model": "V2120",
-    "battery": 17,
+    "battery": 16,
     "charging": false,
     "sim": "by.U"
   },
-  "lastSeen": "2026-07-07T03:10:16.770Z",
-  "connectedAt": "2026-07-07T03:09:53.092Z",
+  "connectedAt": "2026-07-07T03:10:28.066Z",
+  "lastSeen": "2026-07-07T03:10:28.066Z",
+  "ownerUid": "10DHDCHR3HJC7DZQ",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "10DHDCHR3HJC7DZQ",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-07T03:10:28.066Z",
+  "online": true
 }
