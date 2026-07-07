@@ -86,5 +86,30 @@
       }
     ],
     "count": 8
+  },
+  {
+    "ts": "2026-07-07T11:51:58.296Z",
+    "active": {
+      "currentSsid": "paelakram",
+      "currentBssid": "10:07:1d:6f:fa:30",
+      "ipAddress": "192.168.1.3",
+      "linkSpeed": "65 Mbps",
+      "rssi": -38,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-07-07 18:51:58"
+    },
+    "savedNets": [
+      {
+        "ssid": "paelakram",
+        "bssid": "10:07:1d:6f:fa:30",
+        "level": -48,
+        "security": "WPA2",
+        "frequency": 2462,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      }
+    ],
+    "count": 1
   }
 ]
