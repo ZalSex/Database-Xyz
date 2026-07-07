@@ -1,6 +1,7 @@
 {
   "id": "fa2f7260dafc174b",
   "name": "Infinix X6728",
+  "socketId": "A2E2PTGhsP6CFbQTAE2k",
   "info": {
     "sdk": 35,
     "manufacturer": "INFINIX",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
-  "lastSeen": "2026-07-07T16:42:16.294Z",
-  "connectedAt": "2026-07-07T14:13:05.498Z",
+  "connectedAt": "2026-07-07T16:45:03.655Z",
+  "lastSeen": "2026-07-07T16:45:03.655Z",
+  "ownerUid": "4BPUZOKEU6ILUG7X",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -19,26 +21,10 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": true,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "volume_media": 100,
-    "volume_ring": 100,
-    "volume_call": 50,
-    "volume_alarm": 50,
-    "volume_notif": 50,
-    "brightness": 100,
-    "screenText": false,
-    "lockError": "no_overlay_perm",
-    "openApp": "com.netease.newspike",
-    "frozen": false,
-    "networkLocked": false,
-    "spamDialog": false,
-    "virus": false,
-    "videoError": "no_overlay_perm",
-    "sos": false
+    "appHidden": false,
+    "activeTheme": "default"
   },
-  "ownerUid": "4BPUZOKEU6ILUG7X",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-07T16:45:03.655Z",
+  "online": true
 }
