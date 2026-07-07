@@ -1353,5 +1353,111 @@
       }
     ],
     "count": 10
+  },
+  {
+    "ts": "2026-07-07T05:23:56.329Z",
+    "active": {
+      "currentSsid": "<unknown ssid>",
+      "currentBssid": "",
+      "ipAddress": "0.0.0.0",
+      "linkSpeed": "-1 Mbps",
+      "rssi": -127,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-07-07 12:23:56"
+    },
+    "savedNets": [
+      {
+        "ssid": "desadigital",
+        "bssid": "06:b0:e7:56:ef:fd",
+        "level": -71,
+        "security": "Open",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "bimayjingga's",
+        "bssid": "8c:fa:dd:f8:a1:24",
+        "level": -74,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "8e:fa:dd:f8:a1:28",
+        "level": -76,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "IRWAN86",
+        "bssid": "04:b0:e7:56:ef:fc",
+        "level": -77,
+        "security": "WPA2",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "bimayjingga's-5G",
+        "bssid": "8c:fa:dd:f8:a1:28",
+        "level": -77,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "jambu alas",
+        "bssid": "b4:0f:3b:e9:63:11",
+        "level": -82,
+        "security": "WPA2",
+        "frequency": 2462,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "ZaID",
+        "bssid": "48:7b:6b:b7:79:e8",
+        "level": -87,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "@moy2827",
+        "bssid": "5c:3a:3d:15:05:1e",
+        "level": -89,
+        "security": "WPA2",
+        "frequency": 2457,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Starone",
+        "bssid": "5e:3a:3d:15:05:1e",
+        "level": -89,
+        "security": "Open",
+        "frequency": 2457,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Indocafe",
+        "bssid": "74:5b:c5:48:ad:08",
+        "level": -97,
+        "security": "WPA2",
+        "frequency": 2472,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 10
   }
 ]
