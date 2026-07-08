@@ -1,16 +1,18 @@
 {
   "id": "xyz-fa4fca55b35edda9",
   "name": "Realme RMX3661",
+  "socketId": "hRy5EIi4j6yR6RSBAHcM",
   "info": {
     "sdk": 34,
     "manufacturer": "realme",
     "model": "RMX3661",
-    "battery": 99,
+    "battery": 9,
     "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-07-04T12:28:48.630Z",
-  "connectedAt": "2026-07-04T12:28:37.769Z",
+  "connectedAt": "2026-07-08T16:16:57.651Z",
+  "lastSeen": "2026-07-08T16:16:57.651Z",
+  "ownerUid": "TVFNFUU46V7HQ79P",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,10 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": "TVFNFUU46V7HQ79P",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-08T16:16:57.651Z",
+  "online": true
 }
