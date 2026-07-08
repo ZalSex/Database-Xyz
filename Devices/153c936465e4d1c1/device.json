@@ -1,7 +1,6 @@
 {
   "id": "153c936465e4d1c1",
   "name": "Google Pixel 7 Pro",
-  "socketId": "yu_cNjXObaxGTHrlAHKt",
   "info": {
     "sdk": 36,
     "manufacturer": "Google",
@@ -10,21 +9,22 @@
     "charging": true,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-07-08T09:48:52.749Z",
   "connectedAt": "2026-07-08T09:47:00.362Z",
-  "lastSeen": "2026-07-08T09:47:00.362Z",
-  "ownerUid": "WNSR8W4LRJVC1IE7",
   "status": {
-    "flashlight": false,
+    "flashlight": true,
     "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
-    "lockedV2": false,
+    "lockedV2": true,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "lockError": "no_overlay_perm"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-08T09:47:00.362Z",
-  "online": true
+  "ownerUid": "WNSR8W4LRJVC1IE7",
+  "online": false
 }
