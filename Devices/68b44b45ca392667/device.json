@@ -1,16 +1,18 @@
 {
   "id": "68b44b45ca392667",
   "name": "Xiaomi M2007J3SG",
+  "socketId": "UAQ-NwqugmyyusDFAGz2",
   "info": {
     "sdk": 31,
     "manufacturer": "Xiaomi",
     "model": "M2007J3SG",
-    "battery": 90,
+    "battery": 89,
     "charging": false,
     "sim": "3"
   },
-  "lastSeen": "2026-07-08T03:47:55.479Z",
-  "connectedAt": "2026-07-08T03:47:27.851Z",
+  "connectedAt": "2026-07-08T03:48:13.072Z",
+  "lastSeen": "2026-07-08T03:48:13.072Z",
+  "ownerUid": "KE3T2JIB47T4K23O",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "KE3T2JIB47T4K23O",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-08T03:48:13.072Z",
+  "online": true
 }
