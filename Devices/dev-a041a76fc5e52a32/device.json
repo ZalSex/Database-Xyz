@@ -1,16 +1,18 @@
 {
   "id": "dev-a041a76fc5e52a32",
   "name": "Infinix X6840",
+  "socketId": "-gZrHHAN4DnGGqtaAHP_",
   "info": {
     "sdk": 36,
     "manufacturer": "INFINIX",
     "model": "Infinix X6840",
-    "battery": 54,
+    "battery": 53,
     "charging": false,
     "sim": "TELKOMSEL"
   },
-  "lastSeen": "2026-07-08T11:54:55.191Z",
-  "connectedAt": "2026-07-08T11:54:28.217Z",
+  "connectedAt": "2026-07-08T11:55:12.982Z",
+  "lastSeen": "2026-07-08T11:55:12.982Z",
+  "ownerUid": "3TAK9D8G69WKJZI7",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,10 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": "3TAK9D8G69WKJZI7",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-08T11:55:12.982Z",
+  "online": true
 }
