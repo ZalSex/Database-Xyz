@@ -1,16 +1,18 @@
 {
   "id": "5a121478b44955c8",
   "name": "Realme RMX2030",
+  "socketId": "6dm18vBpHqBcKYynAHX_",
   "info": {
     "sdk": 29,
     "manufacturer": "realme",
     "model": "RMX2030",
-    "battery": 54,
+    "battery": 55,
     "charging": true,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-07-08T13:41:02.791Z",
-  "connectedAt": "2026-07-08T13:35:35.916Z",
+  "connectedAt": "2026-07-08T13:45:48.534Z",
+  "lastSeen": "2026-07-08T13:45:48.534Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-08T13:45:48.534Z",
+  "online": true
 }
