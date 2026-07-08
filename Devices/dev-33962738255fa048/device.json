@@ -1,16 +1,18 @@
 {
   "id": "dev-33962738255fa048",
   "name": "OPPO CPH2015",
+  "socketId": "l2SXFfJsfHcam5H8AG_5",
   "info": {
     "sdk": 28,
     "manufacturer": "OPPO",
     "model": "CPH2015",
     "battery": 1,
-    "charging": false,
+    "charging": true,
     "sim": "XL-PEMILU DAMAI"
   },
-  "lastSeen": "2026-07-08T08:02:46.944Z",
-  "connectedAt": "2026-07-08T07:18:58.352Z",
+  "connectedAt": "2026-07-08T08:03:29.680Z",
+  "lastSeen": "2026-07-08T08:03:29.680Z",
+  "ownerUid": "BH7TXYEKC8IWNCDA",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "BH7TXYEKC8IWNCDA",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-08T08:03:29.680Z",
+  "online": true
 }
