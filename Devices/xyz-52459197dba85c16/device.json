@@ -1,18 +1,16 @@
 {
   "id": "xyz-52459197dba85c16",
   "name": "Vivo V2344",
-  "socketId": "sQJEotSSxicwAe6qAHif",
   "info": {
     "sdk": 34,
     "manufacturer": "vivo",
     "model": "V2344",
-    "battery": 100,
+    "battery": 99,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-07-08T22:23:28.297Z",
   "connectedAt": "2026-07-08T22:06:58.996Z",
-  "lastSeen": "2026-07-08T22:06:58.996Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,7 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-08T22:06:58.996Z",
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
