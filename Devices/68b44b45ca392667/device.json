@@ -1,7 +1,6 @@
 {
   "id": "68b44b45ca392667",
   "name": "Xiaomi M2007J3SG",
-  "socketId": "UAQ-NwqugmyyusDFAGz2",
   "info": {
     "sdk": 31,
     "manufacturer": "Xiaomi",
@@ -10,11 +9,10 @@
     "charging": false,
     "sim": "3"
   },
+  "lastSeen": "2026-07-08T03:49:53.317Z",
   "connectedAt": "2026-07-08T03:48:13.072Z",
-  "lastSeen": "2026-07-08T03:48:13.072Z",
-  "ownerUid": "KE3T2JIB47T4K23O",
   "status": {
-    "flashlight": false,
+    "flashlight": true,
     "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
@@ -22,9 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": false,
+    "protection": false
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-08T03:48:13.072Z",
-  "online": true
+  "ownerUid": "KE3T2JIB47T4K23O",
+  "online": false
 }
