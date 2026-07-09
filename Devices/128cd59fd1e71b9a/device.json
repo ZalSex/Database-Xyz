@@ -1,16 +1,18 @@
 {
   "id": "128cd59fd1e71b9a",
   "name": "Infinix X6525",
+  "socketId": "QtgBhRwKco0vlc-DAIWN",
   "info": {
     "sdk": 33,
     "manufacturer": "INFINIX",
     "model": "Infinix X6525",
-    "battery": 96,
-    "charging": true,
+    "battery": 100,
+    "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-07-09T18:41:35.061Z",
-  "connectedAt": "2026-07-09T18:39:49.760Z",
+  "connectedAt": "2026-07-09T19:03:16.420Z",
+  "lastSeen": "2026-07-09T19:03:16.420Z",
+  "ownerUid": "CJ3XEX46ML6UDMB2",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "CJ3XEX46ML6UDMB2",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-09T19:03:16.420Z",
+  "online": true
 }
