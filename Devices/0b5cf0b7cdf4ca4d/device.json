@@ -1,6 +1,7 @@
 {
   "id": "0b5cf0b7cdf4ca4d",
   "name": "Realme RMX3231",
+  "socketId": "zZi77KUJKefGGaS8AH2C",
   "info": {
     "sdk": 30,
     "manufacturer": "realme",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "INDOSAT OOREDOO"
   },
-  "lastSeen": "2026-07-09T05:53:25.780Z",
-  "connectedAt": "2026-07-09T05:49:35.503Z",
+  "connectedAt": "2026-07-09T05:54:40.209Z",
+  "lastSeen": "2026-07-09T05:54:40.209Z",
+  "ownerUid": "LR6L0R3IUJ9VG74O",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -19,11 +21,10 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": true,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "appHidden": false,
+    "activeTheme": "default"
   },
-  "ownerUid": "LR6L0R3IUJ9VG74O",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-09T05:54:40.209Z",
+  "online": true
 }
