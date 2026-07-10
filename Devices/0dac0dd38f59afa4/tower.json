@@ -1,0 +1,51 @@
+[
+  {
+    "ts": "2026-07-10T08:19:16.336Z",
+    "towers": {
+      "operator": "ISAT-PEMILUDAMAI",
+      "simOp": "ISAT-PEMILUDAMAI",
+      "netType": "LTE (4G)",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "01",
+          "ci": 81231393,
+          "pci": 262,
+          "tac": 30176,
+          "earfcn": 75,
+          "rsrp": -104,
+          "rsrq": -18,
+          "dbm": -104,
+          "registered": true
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 2147483647,
+          "pci": 314,
+          "tac": 2147483647,
+          "earfcn": 75,
+          "rsrp": -114,
+          "rsrq": -20,
+          "dbm": -114,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 2147483647,
+          "pci": 288,
+          "tac": 2147483647,
+          "earfcn": 75,
+          "rsrp": -109,
+          "rsrq": -19,
+          "dbm": -109,
+          "registered": false
+        }
+      ]
+    }
+  }
+]
