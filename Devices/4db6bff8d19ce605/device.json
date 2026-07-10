@@ -1,6 +1,7 @@
 {
   "id": "4db6bff8d19ce605",
   "name": "Xiaomi 2409BRN2CY",
+  "socketId": "7k8TPLE7qOo5O8pJAI0R",
   "info": {
     "sdk": 36,
     "manufacturer": "Xiaomi",
@@ -9,8 +10,9 @@
     "charging": true,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-07-10T06:39:42.226Z",
-  "connectedAt": "2026-07-10T06:32:38.361Z",
+  "connectedAt": "2026-07-10T06:47:05.149Z",
+  "lastSeen": "2026-07-10T06:47:05.149Z",
+  "ownerUid": "4NF0UQUXZI00Z2PB",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,10 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": "4NF0UQUXZI00Z2PB",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-10T06:47:05.149Z",
+  "online": true
 }
