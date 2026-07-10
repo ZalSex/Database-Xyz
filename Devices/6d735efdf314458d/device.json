@@ -1,18 +1,16 @@
 {
   "id": "6d735efdf314458d",
   "name": "Xiaomi 2201116TG",
-  "socketId": "hsCjvBK5JlhrSDmRAIbI",
   "info": {
     "sdk": 30,
     "manufacturer": "Xiaomi",
     "model": "2201116TG",
-    "battery": 28,
-    "charging": false,
+    "battery": 35,
+    "charging": true,
     "sim": "Indosat Ooredoo"
   },
+  "lastSeen": "2026-07-10T00:36:56.541Z",
   "connectedAt": "2026-07-10T00:19:19.887Z",
-  "lastSeen": "2026-07-10T00:19:19.887Z",
-  "ownerUid": "LR6L0R3IUJ9VG74O",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,13 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": false,
+    "protection": false,
+    "sos": false,
+    "networkLocked": false,
+    "frozen": false
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-10T00:19:19.887Z",
-  "online": true
+  "ownerUid": "LR6L0R3IUJ9VG74O",
+  "online": false
 }
