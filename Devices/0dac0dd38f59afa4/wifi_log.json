@@ -1,0 +1,63 @@
+[
+  {
+    "ts": "2026-07-10T08:46:10.175Z",
+    "active": {
+      "currentSsid": "Tomi 5-G",
+      "currentBssid": "f8:73:1a:4b:fb:69",
+      "ipAddress": "192.168.1.43",
+      "linkSpeed": "433 Mbps",
+      "rssi": -59,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-07-10 15:46:10"
+    },
+    "savedNets": [
+      {
+        "ssid": "Tomi 5-G",
+        "bssid": "f8:73:1a:4b:fb:69",
+        "level": -60,
+        "security": "WPA2",
+        "frequency": 5765,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      },
+      {
+        "ssid": "ulala",
+        "bssid": "c0:51:5c:d3:a8:cb",
+        "level": -76,
+        "security": "WPA2",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "WIDNET1",
+        "bssid": "d6:b7:09:58:2a:84",
+        "level": -86,
+        "security": "Open",
+        "frequency": 2422,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Dian",
+        "bssid": "6c:04:7a:e8:cb:fc",
+        "level": -89,
+        "security": "WPA2",
+        "frequency": 2432,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "OPPO A5 2020",
+        "bssid": "ba:67:79:33:05:92",
+        "level": -92,
+        "security": "WPA2",
+        "frequency": 2452,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 5
+  }
+]
