@@ -1,6 +1,7 @@
 {
   "id": "xyz-f1a8a779a662d574",
   "name": "OPPO CPH2591",
+  "socketId": "8Z4orIwSOMeusLQZAAAW",
   "info": {
     "sdk": 34,
     "manufacturer": "OPPO",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "TELKOMSEL"
   },
-  "lastSeen": "2026-07-11T10:37:56.320Z",
-  "connectedAt": "2026-07-11T10:34:10.184Z",
+  "connectedAt": "2026-07-11T10:44:29.450Z",
+  "lastSeen": "2026-07-11T10:44:29.450Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-11T10:44:29.450Z",
+  "online": true
 }
