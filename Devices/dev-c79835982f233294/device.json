@@ -1,6 +1,7 @@
 {
   "id": "dev-c79835982f233294",
   "name": "Samsung SM-A057F",
+  "socketId": "pE-IfYNi-duWZh3RAACi",
   "info": {
     "sdk": 35,
     "manufacturer": "samsung",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
-  "lastSeen": "2026-07-11T01:01:45.408Z",
-  "connectedAt": "2026-07-10T23:57:43.225Z",
+  "connectedAt": "2026-07-11T01:03:33.475Z",
+  "lastSeen": "2026-07-11T01:03:33.475Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-11T01:03:33.475Z",
+  "online": true
 }
