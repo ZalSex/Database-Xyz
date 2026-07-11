@@ -1,6 +1,7 @@
 {
   "id": "5815d1e9383b39a7",
   "name": "Samsung SM-A536E",
+  "socketId": "88tSxmiOp6NmMcRBAACs",
   "info": {
     "sdk": 36,
     "manufacturer": "samsung",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "XL"
   },
-  "lastSeen": "2026-07-11T00:43:46.269Z",
-  "connectedAt": "2026-07-11T00:13:00.736Z",
+  "connectedAt": "2026-07-11T01:09:05.542Z",
+  "lastSeen": "2026-07-11T01:09:05.542Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-11T01:09:05.542Z",
+  "online": true
 }
