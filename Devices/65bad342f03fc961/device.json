@@ -1,16 +1,18 @@
 {
   "id": "65bad342f03fc961",
   "name": "TECNO LH8n",
+  "socketId": "J_7Rq9V5cb1BnMQkAAgJ",
   "info": {
     "sdk": 34,
     "manufacturer": "TECNO",
     "model": "TECNO LH8n",
-    "battery": 100,
-    "charging": true,
+    "battery": 95,
+    "charging": false,
     "sim": "AXIS"
   },
-  "lastSeen": "2026-07-12T22:15:40.461Z",
-  "connectedAt": "2026-07-12T22:15:36.361Z",
+  "connectedAt": "2026-07-12T23:20:45.920Z",
+  "lastSeen": "2026-07-12T23:20:45.920Z",
+  "ownerUid": "2YXQ73EJ2CDU8YM0",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "2YXQ73EJ2CDU8YM0",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-12T23:20:45.920Z",
+  "online": true
 }
