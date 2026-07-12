@@ -1,16 +1,18 @@
 {
   "id": "a77d63d98439d671",
   "name": "Infinix X6725",
+  "socketId": "H6pNNPH_l0QovkNtAADR",
   "info": {
     "sdk": 35,
     "manufacturer": "INFINIX",
     "model": "Infinix X6725",
-    "battery": 4,
+    "battery": 5,
     "charging": true,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-07-12T01:20:41.571Z",
-  "connectedAt": "2026-07-12T01:19:18.981Z",
+  "connectedAt": "2026-07-12T01:21:46.812Z",
+  "lastSeen": "2026-07-12T01:21:46.812Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,10 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-12T01:21:46.812Z",
+  "online": true
 }
