@@ -1,6 +1,7 @@
 {
   "id": "5db293558893b109",
   "name": "Samsung SM-X115",
+  "socketId": "ARoW7dyqHbwHPPlkAAEc",
   "info": {
     "sdk": 34,
     "manufacturer": "samsung",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "XL"
   },
-  "lastSeen": "2026-07-12T03:28:01.317Z",
-  "connectedAt": "2026-07-11T19:49:12.646Z",
+  "connectedAt": "2026-07-12T03:28:17.045Z",
+  "lastSeen": "2026-07-12T03:28:17.045Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-12T03:28:17.045Z",
+  "online": true
 }
