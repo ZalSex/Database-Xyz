@@ -1,18 +1,16 @@
 {
   "id": "xyz-906374531c0fa2e1",
   "name": "Xiaomi 2207117BPG",
-  "socketId": "_1UlC6bQGX_eekblAAhr",
   "info": {
     "sdk": 33,
     "manufacturer": "Xiaomi",
     "model": "2207117BPG",
-    "battery": 87,
+    "battery": 80,
     "charging": false,
     "sim": "XL"
   },
+  "lastSeen": "2026-07-13T01:22:05.376Z",
   "connectedAt": "2026-07-13T00:53:57.429Z",
-  "lastSeen": "2026-07-13T00:53:57.429Z",
-  "ownerUid": "5OLLPFU81MKWGB8Q",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,7 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-13T00:53:57.429Z",
-  "online": true
+  "ownerUid": "5OLLPFU81MKWGB8Q",
+  "online": false
 }
