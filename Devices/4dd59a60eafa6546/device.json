@@ -1,18 +1,16 @@
 {
   "id": "4dd59a60eafa6546",
   "name": "Samsung SM-A556E",
-  "socketId": "sJtOSSdPdlhXUkZWAA8t",
   "info": {
     "sdk": 36,
     "manufacturer": "samsung",
     "model": "SM-A556E",
-    "battery": 28,
+    "battery": 27,
     "charging": false,
     "sim": "Tsel-MelayaniSepenuhHati"
   },
+  "lastSeen": "2026-07-13T13:16:43.113Z",
   "connectedAt": "2026-07-13T13:11:12.859Z",
-  "lastSeen": "2026-07-13T13:11:12.860Z",
-  "ownerUid": "N8B4XU215LP6DD7W",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,11 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": false,
+    "protection": false,
+    "brightness": 76
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-13T13:11:12.860Z",
-  "online": true
+  "ownerUid": "N8B4XU215LP6DD7W",
+  "online": false
 }
