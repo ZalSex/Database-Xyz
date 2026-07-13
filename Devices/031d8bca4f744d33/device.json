@@ -1,16 +1,18 @@
 {
   "id": "031d8bca4f744d33",
   "name": "VILLAON V654L",
+  "socketId": "E6c5UoGGd-ReTgMjAA99",
   "info": {
     "sdk": 35,
     "manufacturer": "VILLAON",
     "model": "VILLAON V654L",
-    "battery": 80,
-    "charging": true,
-    "sim": "INDOSAT"
+    "battery": 85,
+    "charging": false,
+    "sim": "XL"
   },
-  "lastSeen": "2026-07-13T07:46:35.696Z",
-  "connectedAt": "2026-07-13T07:44:05.406Z",
+  "connectedAt": "2026-07-13T13:53:11.229Z",
+  "lastSeen": "2026-07-13T13:53:11.229Z",
+  "ownerUid": "PB7NN3HLKZWI6VC7",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "PB7NN3HLKZWI6VC7",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-13T13:53:11.229Z",
+  "online": true
 }
