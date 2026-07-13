@@ -1,6 +1,7 @@
 {
   "id": "4ebb6caac1a7ff7d",
   "name": "Realme RMX5303",
+  "socketId": "z68K5bl8ZP9Lo1WBAAlX",
   "info": {
     "sdk": 35,
     "manufacturer": "realme",
@@ -9,22 +10,21 @@
     "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-07-13T03:02:38.652Z",
-  "connectedAt": "2026-07-13T02:30:53.973Z",
+  "connectedAt": "2026-07-13T03:02:42.060Z",
+  "lastSeen": "2026-07-13T03:02:42.060Z",
+  "ownerUid": "2YXQ73EJ2CDU8YM0",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": true,
+    "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "screenSharing": false
+    "activeTheme": "default"
   },
-  "ownerUid": "2YXQ73EJ2CDU8YM0",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-13T03:02:42.060Z",
+  "online": true
 }
