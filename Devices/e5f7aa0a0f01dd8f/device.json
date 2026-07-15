@@ -1,18 +1,16 @@
 {
   "id": "e5f7aa0a0f01dd8f",
   "name": "TECNO LJ7",
-  "socketId": "NTAVeQqX9ne2ecvzAAag",
   "info": {
     "sdk": 35,
     "manufacturer": "TECNO",
     "model": "TECNO LJ7",
-    "battery": 71,
+    "battery": 70,
     "charging": false,
     "sim": "by.U"
   },
+  "lastSeen": "2026-07-15T09:03:01.366Z",
   "connectedAt": "2026-07-15T08:55:41.922Z",
-  "lastSeen": "2026-07-15T08:55:41.922Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,7 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-15T08:55:41.922Z",
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
