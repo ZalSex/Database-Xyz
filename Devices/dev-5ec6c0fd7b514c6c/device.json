@@ -1,18 +1,16 @@
 {
   "id": "dev-5ec6c0fd7b514c6c",
   "name": "Vivo V2026",
-  "socketId": "o6Z3KWt6bEjgW3o4AArT",
   "info": {
     "sdk": 30,
     "manufacturer": "vivo",
     "model": "V2026",
-    "battery": 64,
+    "battery": 51,
     "charging": false,
     "sim": "TELKOMSEL"
   },
+  "lastSeen": "2026-07-15T16:33:36.440Z",
   "connectedAt": "2026-07-15T14:08:16.474Z",
-  "lastSeen": "2026-07-15T14:08:16.474Z",
-  "ownerUid": "VDTS0MEOI93BQY8E",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,7 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-15T14:08:16.474Z",
-  "online": true
+  "ownerUid": "VDTS0MEOI93BQY8E",
+  "online": false
 }
