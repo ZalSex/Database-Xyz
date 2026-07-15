@@ -1,7 +1,6 @@
 {
   "id": "86e41b1d5f0e45be",
   "name": "Vivo V2204",
-  "socketId": "qBQRz_nM250s3prdAA5C",
   "info": {
     "sdk": 31,
     "manufacturer": "vivo",
@@ -10,9 +9,8 @@
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
+  "lastSeen": "2026-07-15T22:41:49.801Z",
   "connectedAt": "2026-07-15T22:39:45.216Z",
-  "lastSeen": "2026-07-15T22:39:45.216Z",
-  "ownerUid": "93C8B5FX7018L5MV",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-15T22:39:45.216Z",
-  "online": true
+  "ownerUid": "93C8B5FX7018L5MV",
+  "online": false
 }
