@@ -1,16 +1,18 @@
 {
   "id": "7ff0294f6253ddd9",
   "name": "ZTE Z2350",
+  "socketId": "LJh_PjPGtnPpcduBAArp",
   "info": {
     "sdk": 33,
     "manufacturer": "ZTE",
     "model": "Z2350",
-    "battery": 71,
+    "battery": 70,
     "charging": false,
-    "sim": "by.U"
+    "sim": "Unknown"
   },
-  "lastSeen": "2026-07-15T14:08:55.301Z",
-  "connectedAt": "2026-07-15T14:08:46.839Z",
+  "connectedAt": "2026-07-15T14:17:03.414Z",
+  "lastSeen": "2026-07-15T14:17:03.414Z",
+  "ownerUid": "HZ1LOT1DNX0LX8F9",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "HZ1LOT1DNX0LX8F9",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-15T14:17:03.414Z",
+  "online": true
 }
