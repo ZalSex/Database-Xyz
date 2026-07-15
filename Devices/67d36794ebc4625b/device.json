@@ -1,16 +1,18 @@
 {
   "id": "67d36794ebc4625b",
   "name": "Xiaomi 25028RN03A",
+  "socketId": "BX59BjxpMuLO6MuxAAMj",
   "info": {
     "sdk": 35,
     "manufacturer": "Xiaomi",
     "model": "25028RN03A",
-    "battery": 2,
+    "battery": 1,
     "charging": false,
     "sim": "XL"
   },
-  "lastSeen": "2026-07-15T00:05:17.216Z",
-  "connectedAt": "2026-07-14T23:56:31.527Z",
+  "connectedAt": "2026-07-15T02:59:10.148Z",
+  "lastSeen": "2026-07-15T02:59:10.148Z",
+  "ownerUid": "IXL69AO1Y8YI99AO",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "IXL69AO1Y8YI99AO",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-15T02:59:10.148Z",
+  "online": true
 }
