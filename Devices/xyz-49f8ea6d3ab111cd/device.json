@@ -1,6 +1,7 @@
 {
   "id": "xyz-49f8ea6d3ab111cd",
   "name": "Samsung SM-M205F",
+  "socketId": "6EQYwseVdSATC8q2AA3V",
   "info": {
     "sdk": 29,
     "manufacturer": "samsung",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-07-15T20:11:07.469Z",
-  "connectedAt": "2026-07-15T20:05:12.850Z",
+  "connectedAt": "2026-07-15T20:11:21.242Z",
+  "lastSeen": "2026-07-15T20:11:21.242Z",
+  "ownerUid": "SRS5OPIX5DTSIFA4",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "SRS5OPIX5DTSIFA4",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-15T20:11:21.242Z",
+  "online": true
 }
