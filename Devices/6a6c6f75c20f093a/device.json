@@ -1,6 +1,7 @@
 {
   "id": "6a6c6f75c20f093a",
   "name": "vivo 1820",
+  "socketId": "dfqLObEeQIWbdBofAAcm",
   "info": {
     "sdk": 27,
     "manufacturer": "vivo",
@@ -9,25 +10,21 @@
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-07-15T09:39:45.640Z",
-  "connectedAt": "2026-07-15T09:33:49.760Z",
+  "connectedAt": "2026-07-15T09:39:56.509Z",
+  "lastSeen": "2026-07-15T09:39:56.509Z",
+  "ownerUid": "1CL221L0O39J1H85",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": true,
+    "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "screenSharing": true,
-    "sos": false,
-    "virus": false,
-    "frozen": false
+    "activeTheme": "default"
   },
-  "ownerUid": "1CL221L0O39J1H85",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-15T09:39:56.509Z",
+  "online": true
 }
