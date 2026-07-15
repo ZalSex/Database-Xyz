@@ -1,16 +1,18 @@
 {
   "id": "9d7322b027126a36",
   "name": "vivo 1907",
+  "socketId": "glSily8C6VwaWq-jAATD",
   "info": {
     "sdk": 31,
     "manufacturer": "vivo",
     "model": "vivo 1907",
-    "battery": 91,
+    "battery": 89,
     "charging": false,
     "sim": "Panggilan darurat saja"
   },
-  "lastSeen": "2026-07-15T05:46:46.046Z",
-  "connectedAt": "2026-07-15T05:41:18.583Z",
+  "connectedAt": "2026-07-15T06:09:24.810Z",
+  "lastSeen": "2026-07-15T06:09:24.810Z",
+  "ownerUid": "NXWG9D07ZRYB7QY1",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,11 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "spamDialog": true
+    "activeTheme": "default"
   },
-  "ownerUid": "NXWG9D07ZRYB7QY1",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-15T06:09:24.810Z",
+  "online": true
 }
