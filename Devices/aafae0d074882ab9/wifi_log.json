@@ -1,0 +1,27 @@
+[
+  {
+    "ts": "2026-07-15T22:31:19.975Z",
+    "active": {
+      "currentSsid": "FAKA07",
+      "currentBssid": "44:22:7c:22:3b:10",
+      "ipAddress": "192.168.18.28",
+      "linkSpeed": "39 Mbps",
+      "rssi": -72,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-07-16 05:31:17"
+    },
+    "savedNets": [
+      {
+        "ssid": "FAKA07",
+        "bssid": "44:22:7c:22:3b:10",
+        "level": -75,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      }
+    ],
+    "count": 1
+  }
+]
