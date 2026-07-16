@@ -1,18 +1,16 @@
 {
   "id": "55ca52eede83f6fe",
   "name": "Infinix X6515",
-  "socketId": "1GphG71EwuG28HgJAAHo",
   "info": {
     "sdk": 31,
     "manufacturer": "INFINIX",
     "model": "Infinix X6515",
-    "battery": 42,
+    "battery": 41,
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-07-16T06:52:24.358Z",
   "connectedAt": "2026-07-16T06:49:01.309Z",
-  "lastSeen": "2026-07-16T06:49:01.309Z",
-  "ownerUid": "WO8G8QZXNCXJLYNE",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": false,
+    "protection": false
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-16T06:49:01.309Z",
-  "online": true
+  "ownerUid": "WO8G8QZXNCXJLYNE",
+  "online": false
 }
