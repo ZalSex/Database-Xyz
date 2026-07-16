@@ -1,16 +1,18 @@
 {
   "id": "xyz-347e55e4c81f9a93",
   "name": "Xiaomi 22120RN86G",
+  "socketId": "yZOuJYpbUjlD4ZyzAADc",
   "info": {
     "sdk": 34,
     "manufacturer": "Xiaomi",
     "model": "22120RN86G",
-    "battery": 86,
+    "battery": 85,
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-07-16T04:52:00.440Z",
-  "connectedAt": "2026-07-16T04:46:57.348Z",
+  "connectedAt": "2026-07-16T04:52:21.451Z",
+  "lastSeen": "2026-07-16T04:52:21.451Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-16T04:52:21.451Z",
+  "online": true
 }
