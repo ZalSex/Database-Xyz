@@ -1,18 +1,16 @@
 {
   "id": "c852c8dc7b35a5c3",
   "name": "TECNO KN3",
-  "socketId": "UGFnB_01BFwkjNXpAAi1",
   "info": {
     "sdk": 35,
     "manufacturer": "TECNO",
     "model": "TECNO KN3",
-    "battery": 22,
+    "battery": 23,
     "charging": true,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-07-16T23:27:41.116Z",
   "connectedAt": "2026-07-16T23:24:43.458Z",
-  "lastSeen": "2026-07-16T23:24:43.458Z",
-  "ownerUid": "PB7NN3HLKZWI6VC7",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,11 +18,10 @@
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
-    "lockedChat": false,
+    "lockedChat": true,
     "appHidden": false,
     "activeTheme": "default"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-16T23:24:43.458Z",
-  "online": true
+  "ownerUid": "PB7NN3HLKZWI6VC7",
+  "online": false
 }
