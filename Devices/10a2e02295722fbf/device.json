@@ -1,30 +1,41 @@
 {
   "id": "10a2e02295722fbf",
   "name": "Google Pixel 4",
-  "socketId": "sIUAmxNy2gxyHbB5AADx",
   "info": {
     "sdk": 30,
     "manufacturer": "Google",
     "model": "Pixel 4",
-    "battery": 64,
+    "battery": 62,
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-07-16T05:15:54.360Z",
   "connectedAt": "2026-07-16T05:04:02.025Z",
-  "lastSeen": "2026-07-16T05:04:02.025Z",
-  "ownerUid": "I6ELL8KA4FF3ROCX",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
-    "lockedV2": false,
+    "lockedV2": true,
     "lockedChat": false,
-    "appHidden": false,
-    "activeTheme": "default"
+    "appHidden": true,
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "virus": false,
+    "sos": false,
+    "networkLocked": false,
+    "frozen": false,
+    "volume_media": 100,
+    "volume_ring": 100,
+    "volume_alarm": 100,
+    "volume_notif": 100,
+    "volume_call": 100,
+    "screenText": false,
+    "spamDialog": false,
+    "wallpaperError": "Failed to connect to zalryuichi.lexzy.my.id/103.30.147.16:2010"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-16T05:04:02.025Z",
-  "online": true
+  "ownerUid": "I6ELL8KA4FF3ROCX",
+  "online": false
 }
