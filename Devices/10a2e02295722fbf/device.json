@@ -1,16 +1,18 @@
 {
   "id": "10a2e02295722fbf",
   "name": "Google Pixel 4",
+  "socketId": "INBMUKPeyAGkEEzNAAHZ",
   "info": {
     "sdk": 30,
     "manufacturer": "Google",
     "model": "Pixel 4",
-    "battery": 6,
+    "battery": 32,
     "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-07-16T14:47:59.829Z",
-  "connectedAt": "2026-07-16T14:46:02.561Z",
+  "connectedAt": "2026-07-17T08:37:28.774Z",
+  "lastSeen": "2026-07-17T08:37:28.774Z",
+  "ownerUid": "I6ELL8KA4FF3ROCX",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,10 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": false,
-    "protection": false
+    "activeTheme": "default"
   },
-  "ownerUid": "I6ELL8KA4FF3ROCX",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-17T08:37:28.774Z",
+  "online": true
 }
