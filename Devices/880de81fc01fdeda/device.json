@@ -1,16 +1,18 @@
 {
   "id": "880de81fc01fdeda",
   "name": "Infinix X6526",
+  "socketId": "pRUWVxVjdXsIDV6yAAAL",
   "info": {
     "sdk": 33,
     "manufacturer": "INFINIX",
     "model": "Infinix X6526",
-    "battery": 92,
-    "charging": false,
+    "battery": 30,
+    "charging": true,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-07-17T14:25:47.707Z",
-  "connectedAt": "2026-07-17T14:25:43.510Z",
+  "connectedAt": "2026-07-18T03:00:19.496Z",
+  "lastSeen": "2026-07-18T03:00:19.496Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "L7CQMECTS2ZTSUS1",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-18T03:00:19.496Z",
+  "online": true
 }
