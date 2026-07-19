@@ -1,30 +1,29 @@
 {
   "id": "c43121c269b4627a",
   "name": "INFINIX MOBILITY LIMITED Infinix X680B",
-  "socketId": "9fNiovvJEyqOuh6OAAGt",
   "info": {
     "sdk": 29,
     "manufacturer": "INFINIX MOBILITY LIMITED",
     "model": "Infinix X680B",
-    "battery": 26,
+    "battery": 25,
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-07-19T09:30:48.772Z",
   "connectedAt": "2026-07-19T09:26:36.191Z",
-  "lastSeen": "2026-07-19T09:26:36.191Z",
-  "ownerUid": "I6ELL8KA4FF3ROCX",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
-    "lockedV2": false,
+    "lockedV2": true,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-19T09:26:36.191Z",
-  "online": true
+  "ownerUid": "I6ELL8KA4FF3ROCX",
+  "online": false
 }
