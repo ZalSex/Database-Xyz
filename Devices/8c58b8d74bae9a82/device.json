@@ -1,16 +1,18 @@
 {
   "id": "8c58b8d74bae9a82",
   "name": "OPPO CPH2119",
+  "socketId": "hXXXhzedOLz2ftq9AAMN",
   "info": {
     "sdk": 31,
     "manufacturer": "OPPO",
     "model": "CPH2119",
-    "battery": 41,
+    "battery": 42,
     "charging": true,
     "sim": "Nepal Telecom"
   },
-  "lastSeen": "2026-07-19T03:16:02.712Z",
-  "connectedAt": "2026-07-19T03:16:00.429Z",
+  "connectedAt": "2026-07-19T03:17:17.429Z",
+  "lastSeen": "2026-07-19T03:17:17.429Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-19T03:17:17.429Z",
+  "online": true
 }
