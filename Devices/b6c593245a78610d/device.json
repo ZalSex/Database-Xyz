@@ -1,30 +1,29 @@
 {
   "id": "b6c593245a78610d",
   "name": "OPPO CPH2471",
-  "socketId": "ilinc4_kxat-qyaHAABQ",
   "info": {
     "sdk": 31,
     "manufacturer": "OPPO",
     "model": "CPH2471",
-    "battery": 64,
+    "battery": 63,
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
+  "lastSeen": "2026-07-19T11:48:03.532Z",
   "connectedAt": "2026-07-19T11:40:49.813Z",
-  "lastSeen": "2026-07-19T11:40:49.813Z",
-  "ownerUid": "GMF9VVWGHQL3B07P",
   "status": {
     "flashlight": false,
     "cameraActive": false,
-    "videoPlaying": false,
+    "videoPlaying": true,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-19T11:40:49.813Z",
-  "online": true
+  "ownerUid": "GMF9VVWGHQL3B07P",
+  "online": false
 }
