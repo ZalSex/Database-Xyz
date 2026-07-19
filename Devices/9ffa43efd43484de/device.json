@@ -1,27 +1,30 @@
 {
   "id": "9ffa43efd43484de",
   "name": "Xiaomi Redmi Note 8",
+  "socketId": "VY0dyfwsaWrc8yCTAAB1",
   "info": {
     "sdk": 29,
     "manufacturer": "Xiaomi",
     "model": "Redmi Note 8",
-    "battery": 56,
+    "battery": 55,
     "charging": false,
     "sim": "3"
   },
-  "lastSeen": "2026-07-19T14:34:21.582Z",
-  "connectedAt": "2026-07-19T14:32:42.338Z",
+  "connectedAt": "2026-07-19T14:34:40.907Z",
+  "lastSeen": "2026-07-19T14:34:40.907Z",
+  "ownerUid": "SM7LMEFX6M4Z5Q64",
   "status": {
     "flashlight": false,
-    "cameraActive": true,
+    "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
-    "locked": true,
+    "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "SM7LMEFX6M4Z5Q64",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-19T14:34:40.907Z",
+  "online": true
 }
