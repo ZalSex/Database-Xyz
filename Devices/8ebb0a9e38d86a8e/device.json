@@ -1,18 +1,16 @@
 {
   "id": "8ebb0a9e38d86a8e",
   "name": "Samsung SM-A057F",
-  "socketId": "hv1AzwvaND_YZKK-AAK0",
   "info": {
     "sdk": 35,
     "manufacturer": "samsung",
     "model": "SM-A057F",
     "battery": 14,
-    "charging": true,
+    "charging": false,
     "sim": "XL"
   },
+  "lastSeen": "2026-07-19T01:03:24.982Z",
   "connectedAt": "2026-07-19T01:00:03.888Z",
-  "lastSeen": "2026-07-19T01:00:03.888Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,7 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-19T01:00:03.888Z",
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
