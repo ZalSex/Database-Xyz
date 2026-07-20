@@ -1,16 +1,18 @@
 {
   "id": "08ccd55e4b7504f8",
   "name": "Vivo V2531",
+  "socketId": "Y8YqnygAHwcRcoHKAAHE",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
     "model": "V2531",
-    "battery": 12,
+    "battery": 9,
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-07-20T14:35:31.107Z",
-  "connectedAt": "2026-07-20T14:35:04.480Z",
+  "connectedAt": "2026-07-20T15:14:56.721Z",
+  "lastSeen": "2026-07-20T15:14:56.721Z",
+  "ownerUid": "BC0LJB9PLD162JO9",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "BC0LJB9PLD162JO9",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-20T15:14:56.721Z",
+  "online": true
 }
