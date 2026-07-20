@@ -1,18 +1,16 @@
 {
   "id": "7f76dd989a697e42",
   "name": "TECNO KL4",
-  "socketId": "oZxpC7MkogLp3VwrAAJS",
   "info": {
     "sdk": 34,
     "manufacturer": "TECNO",
     "model": "TECNO KL4",
-    "battery": 24,
+    "battery": 23,
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-07-20T17:38:54.499Z",
   "connectedAt": "2026-07-20T17:29:02.994Z",
-  "lastSeen": "2026-07-20T17:29:02.994Z",
-  "ownerUid": "Z3UZOWDPRFD8UEM7",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,7 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-20T17:29:02.994Z",
-  "online": true
+  "ownerUid": "Z3UZOWDPRFD8UEM7",
+  "online": false
 }
