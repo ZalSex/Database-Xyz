@@ -1,40 +1,30 @@
 {
   "id": "9ed087b208838d23",
   "name": "Samsung SM-A025F",
+  "socketId": "RORXlQn40mpdZQ2MABL8",
   "info": {
     "sdk": 31,
     "manufacturer": "samsung",
     "model": "SM-A025F",
-    "battery": 43,
+    "battery": 36,
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-07-20T10:11:54.073Z",
-  "connectedAt": "2026-07-20T06:54:47.765Z",
+  "connectedAt": "2026-07-20T10:48:34.752Z",
+  "lastSeen": "2026-07-20T10:48:34.752Z",
+  "ownerUid": "G47F9I38L9FDINSP",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": true,
+    "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "brightness": 50,
-    "volume_media": 100,
-    "volume_ring": 50,
-    "volume_alarm": 50,
-    "volume_notif": 50,
-    "volume_call": 50,
-    "sos": false,
-    "virus": false,
-    "screenSharing": false,
-    "networkLocked": false,
-    "frozen": false
+    "activeTheme": "default"
   },
-  "ownerUid": "G47F9I38L9FDINSP",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-20T10:48:34.752Z",
+  "online": true
 }
