@@ -1,29 +1,30 @@
 {
   "id": "4cdef25378db132c",
   "name": "Vivo V2043",
+  "socketId": "3Ha6I_GvFw4Fvf0MAAAi",
   "info": {
     "sdk": 30,
     "manufacturer": "vivo",
     "model": "V2043",
-    "battery": 20,
-    "charging": true,
+    "battery": 87,
+    "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-07-19T11:42:23.184Z",
-  "connectedAt": "2026-07-19T11:38:38.224Z",
+  "connectedAt": "2026-07-20T13:19:48.378Z",
+  "lastSeen": "2026-07-20T13:19:48.378Z",
+  "ownerUid": "WNSR8W4LRJVC1IE7",
   "status": {
     "flashlight": false,
-    "cameraActive": true,
+    "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
-    "lockedChat": true,
+    "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": "HZ1LOT1DNX0LX8F9",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-20T13:19:48.378Z",
+  "online": true
 }
