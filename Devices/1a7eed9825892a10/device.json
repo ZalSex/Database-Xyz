@@ -1,7 +1,6 @@
 {
   "id": "1a7eed9825892a10",
   "name": "Vivo I2407",
-  "socketId": "VLLXQjW9JbQsI9eQAB_T",
   "info": {
     "sdk": 36,
     "manufacturer": "vivo",
@@ -10,9 +9,8 @@
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-07-21T17:30:49.753Z",
   "connectedAt": "2026-07-21T17:30:26.370Z",
-  "lastSeen": "2026-07-21T17:30:26.370Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,7 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-21T17:30:26.370Z",
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
