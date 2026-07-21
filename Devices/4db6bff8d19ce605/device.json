@@ -1,16 +1,18 @@
 {
   "id": "4db6bff8d19ce605",
   "name": "Xiaomi 2409BRN2CY",
+  "socketId": "2kPFiwtZSpZfNQ-iAB8j",
   "info": {
     "sdk": 36,
     "manufacturer": "Xiaomi",
     "model": "2409BRN2CY",
-    "battery": 24,
+    "battery": 19,
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-07-21T14:06:13.625Z",
-  "connectedAt": "2026-07-21T14:06:12.930Z",
+  "connectedAt": "2026-07-21T14:28:30.635Z",
+  "lastSeen": "2026-07-21T14:28:30.635Z",
+  "ownerUid": "ULVB3PG5FKE2CHIF",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "ULVB3PG5FKE2CHIF",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-21T14:28:30.635Z",
+  "online": true
 }
