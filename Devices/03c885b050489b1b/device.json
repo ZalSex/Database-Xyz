@@ -1,16 +1,18 @@
 {
   "id": "03c885b050489b1b",
   "name": "Vivo V2238",
+  "socketId": "aeb_NYOXsp5qGlgdAAfi",
   "info": {
     "sdk": 34,
     "manufacturer": "vivo",
     "model": "V2238",
-    "battery": 24,
+    "battery": 88,
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-07-20T14:27:29.210Z",
-  "connectedAt": "2026-07-20T13:19:44.118Z",
+  "connectedAt": "2026-07-21T01:19:54.141Z",
+  "lastSeen": "2026-07-21T01:19:54.141Z",
+  "ownerUid": "6H278MH2XYRFBXIP",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,10 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": "6H278MH2XYRFBXIP",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-21T01:19:54.141Z",
+  "online": true
 }
