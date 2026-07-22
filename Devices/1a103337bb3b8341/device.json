@@ -1,18 +1,16 @@
 {
   "id": "1a103337bb3b8341",
   "name": "OPPO CPH1821",
-  "socketId": "JfMeOxD3Ds2y-DQIACuu",
   "info": {
     "sdk": 29,
     "manufacturer": "OPPO",
     "model": "CPH1821",
-    "battery": 35,
+    "battery": 3,
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-07-22T17:39:48.329Z",
   "connectedAt": "2026-07-22T12:53:48.514Z",
-  "lastSeen": "2026-07-22T12:53:48.514Z",
-  "ownerUid": "AWBPXAKTBUZDE8RI",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,11 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "frozen": false
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-22T12:53:48.514Z",
-  "online": true
+  "ownerUid": "AWBPXAKTBUZDE8RI",
+  "online": false
 }
