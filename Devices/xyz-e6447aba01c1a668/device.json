@@ -1,6 +1,7 @@
 {
   "id": "xyz-e6447aba01c1a668",
   "name": "OnePlus8Pro",
+  "socketId": "w64N_CqoQvI6JX-UAC8G",
   "info": {
     "sdk": 30,
     "manufacturer": "OnePlus",
@@ -9,8 +10,9 @@
     "charging": true,
     "sim": "Indosat - M3"
   },
-  "lastSeen": "2026-07-22T15:54:24.433Z",
-  "connectedAt": "2026-07-22T15:53:09.722Z",
+  "connectedAt": "2026-07-22T17:50:47.993Z",
+  "lastSeen": "2026-07-22T17:50:47.993Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-22T17:50:47.993Z",
+  "online": true
 }
