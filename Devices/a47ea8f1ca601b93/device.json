@@ -1,16 +1,18 @@
 {
   "id": "a47ea8f1ca601b93",
   "name": "Samsung SM-A225F",
+  "socketId": "V3NCVTAEmspCoHvvACsc",
   "info": {
     "sdk": 33,
     "manufacturer": "samsung",
     "model": "SM-A225F",
-    "battery": 45,
+    "battery": 79,
     "charging": false,
-    "sim": "INDOSATOOREDOO"
+    "sim": "No SIM"
   },
-  "lastSeen": "2026-07-15T04:14:16.039Z",
-  "connectedAt": "2026-07-15T04:11:28.807Z",
+  "connectedAt": "2026-07-22T12:44:09.256Z",
+  "lastSeen": "2026-07-22T12:44:09.256Z",
+  "ownerUid": "CCP0QGPH7BYDVMVL",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-22T12:44:09.256Z",
+  "online": true
 }
