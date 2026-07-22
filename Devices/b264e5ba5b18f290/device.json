@@ -1,30 +1,29 @@
 {
   "id": "b264e5ba5b18f290",
   "name": "Infinix X6532",
-  "socketId": "WKnpIXiFQwwwMc47AC1y",
   "info": {
     "sdk": 34,
     "manufacturer": "INFINIX",
     "model": "Infinix X6532",
-    "battery": 24,
+    "battery": 15,
     "charging": false,
     "sim": "3"
   },
+  "lastSeen": "2026-07-22T14:02:03.614Z",
   "connectedAt": "2026-07-22T13:21:09.883Z",
-  "lastSeen": "2026-07-22T13:21:09.883Z",
-  "ownerUid": "AWBPXAKTBUZDE8RI",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-22T13:21:09.883Z",
-  "online": true
+  "ownerUid": "AWBPXAKTBUZDE8RI",
+  "online": false
 }
