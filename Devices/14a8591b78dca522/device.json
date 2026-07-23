@@ -1,41 +1,30 @@
 {
   "id": "14a8591b78dca522",
   "name": "Xiaomi 21061110AG",
+  "socketId": "V-CDljK0MXhm3fc7ADPX",
   "info": {
     "sdk": 33,
     "manufacturer": "Xiaomi",
     "model": "21061110AG",
-    "battery": 48,
+    "battery": 47,
     "charging": false,
     "sim": "3"
   },
-  "lastSeen": "2026-07-23T07:28:57.656Z",
-  "connectedAt": "2026-07-23T06:35:55.283Z",
+  "connectedAt": "2026-07-23T07:29:54.678Z",
+  "lastSeen": "2026-07-23T07:29:54.678Z",
+  "ownerUid": "ZGH4VTA169RKTNMF",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": true,
+    "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": true,
-    "activeTheme": "spotify",
-    "protectionEnabled": true,
-    "protection": true,
-    "sos": false,
-    "screenText": false,
-    "frozen": false,
-    "virus": false,
-    "networkLocked": false,
-    "brightness": 52,
-    "volume_media": 100,
-    "volume_alarm": 50,
-    "volume_call": 50,
-    "spamDialog": true,
-    "openAppError": "app_not_found",
-    "openApp": "com.adakami.dana.kredit.pinjaman"
+    "appHidden": false,
+    "activeTheme": "default"
   },
-  "ownerUid": "ZGH4VTA169RKTNMF",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-23T07:29:54.678Z",
+  "online": true
 }
