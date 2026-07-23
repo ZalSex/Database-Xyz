@@ -1,6 +1,7 @@
 {
   "id": "xyz-d49fd0f428935027",
   "name": "Samsung Galaxy Tab S8 Ultra",
+  "socketId": "dJhQBqE7SNdOsvA_ADUP",
   "info": {
     "sdk": 28,
     "manufacturer": "Samsung",
@@ -9,8 +10,9 @@
     "charging": true,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-06-22T18:03:27.583Z",
-  "connectedAt": "2026-06-22T18:02:28.988Z",
+  "connectedAt": "2026-07-23T09:05:18.029Z",
+  "lastSeen": "2026-07-23T09:05:18.029Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -19,11 +21,10 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": true,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "appHidden": false,
+    "activeTheme": "default"
   },
-  "ownerUid": "Q4LYZAO4EGK442AO",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-23T09:05:18.029Z",
+  "online": true
 }
