@@ -1,18 +1,16 @@
 {
   "id": "60dce9e1b21e259a",
   "name": "Samsung SM-A042F",
-  "socketId": "dp-1AZ4GAH00aVAvACER",
   "info": {
     "sdk": 34,
     "manufacturer": "samsung",
     "model": "SM-A042F",
-    "battery": 19,
+    "battery": 16,
     "charging": false,
     "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
+  "lastSeen": "2026-07-23T13:58:25.128Z",
   "connectedAt": "2026-07-23T12:18:55.007Z",
-  "lastSeen": "2026-07-23T12:18:55.007Z",
-  "ownerUid": "AWBPXAKTBUZDE8RI",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-23T12:18:55.007Z",
-  "online": true
+  "ownerUid": "AWBPXAKTBUZDE8RI",
+  "online": false
 }
