@@ -31,5 +31,38 @@
         "frequency": 2432
       }
     ]
+  },
+  {
+    "ts": "2026-07-23T09:17:04.255Z",
+    "list": [
+      {
+        "ssid": "<Hidden>",
+        "bssid": "88:66:9f:22:73:70",
+        "level": -53,
+        "security": "WPA2",
+        "frequency": 2412
+      },
+      {
+        "ssid": "Keanu",
+        "bssid": "88:66:9f:22:73:78",
+        "level": -61,
+        "security": "WPA2",
+        "frequency": 5805
+      },
+      {
+        "ssid": "Gusti",
+        "bssid": "48:a7:4e:dd:08:d4",
+        "level": -70,
+        "security": "WPA2",
+        "frequency": 2437
+      },
+      {
+        "ssid": "Rumah 123",
+        "bssid": "c4:a3:66:85:f7:f8",
+        "level": -96,
+        "security": "WPA2",
+        "frequency": 2412
+      }
+    ]
   }
 ]
