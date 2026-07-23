@@ -1,16 +1,18 @@
 {
   "id": "f4c224dd7825dc25",
   "name": "Realme RMX3910",
+  "socketId": "kJ1ZjVeRjSa9TuWHACWs",
   "info": {
     "sdk": 36,
     "manufacturer": "realme",
     "model": "RMX3910",
-    "battery": 71,
-    "charging": true,
+    "battery": 81,
+    "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-07-23T08:07:53.799Z",
-  "connectedAt": "2026-07-23T08:02:18.550Z",
+  "connectedAt": "2026-07-23T21:56:14.135Z",
+  "lastSeen": "2026-07-23T21:56:14.135Z",
+  "ownerUid": "SDKU7M30FIOJFTJH",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,10 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": false,
-    "protection": false
+    "activeTheme": "default"
   },
-  "ownerUid": "SDKU7M30FIOJFTJH",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-23T21:56:14.135Z",
+  "online": true
 }
