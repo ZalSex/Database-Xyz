@@ -1,18 +1,16 @@
 {
   "id": "7201f6a7385c77c1",
   "name": "itel S666LN",
-  "socketId": "NESYJXiyz2jqqLESACkC",
   "info": {
     "sdk": 33,
     "manufacturer": "ITEL",
     "model": "itel S666LN",
-    "battery": 53,
+    "battery": 50,
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-07-24T07:01:12.964Z",
   "connectedAt": "2026-07-24T06:44:30.809Z",
-  "lastSeen": "2026-07-24T06:44:30.809Z",
-  "ownerUid": "PB7NN3HLKZWI6VC7",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,11 +18,15 @@
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
-    "lockedChat": false,
-    "appHidden": false,
-    "activeTheme": "default"
+    "lockedChat": true,
+    "appHidden": true,
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "sos": false,
+    "virus": false,
+    "frozen": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-24T06:44:30.809Z",
-  "online": true
+  "ownerUid": "PB7NN3HLKZWI6VC7",
+  "online": false
 }
