@@ -1,18 +1,16 @@
 {
   "id": "dev-8d9fd03a767c9ee8",
   "name": "Vivo V2111",
-  "socketId": "PljC3xIG0SCAlHRSACeI",
   "info": {
     "sdk": 30,
     "manufacturer": "vivo",
     "model": "V2111",
-    "battery": 83,
+    "battery": 90,
     "charging": true,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-07-24T03:17:13.776Z",
   "connectedAt": "2026-07-24T02:57:23.701Z",
-  "lastSeen": "2026-07-24T02:57:23.701Z",
-  "ownerUid": "J9X3UB14F7U8SBNL",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,11 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "screenSharing": false
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-24T02:57:23.701Z",
-  "online": true
+  "ownerUid": "J9X3UB14F7U8SBNL",
+  "online": false
 }
