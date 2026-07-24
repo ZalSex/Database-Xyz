@@ -1,16 +1,18 @@
 {
   "id": "xyz-1fbdc5964e77ec2a",
   "name": "Realme RMX3941",
+  "socketId": "8n2NwIeWZlzcYCyoACgn",
   "info": {
     "sdk": 36,
     "manufacturer": "realme",
     "model": "RMX3941",
-    "battery": 85,
+    "battery": 84,
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-07-24T04:28:58.181Z",
-  "connectedAt": "2026-07-24T04:18:13.345Z",
+  "connectedAt": "2026-07-24T04:29:38.634Z",
+  "lastSeen": "2026-07-24T04:29:38.634Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-24T04:29:38.634Z",
+  "online": true
 }
