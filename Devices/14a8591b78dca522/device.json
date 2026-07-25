@@ -1,16 +1,18 @@
 {
   "id": "14a8591b78dca522",
   "name": "Xiaomi 21061110AG",
+  "socketId": "kysDKIMTSl7-HTCeAAAS",
   "info": {
     "sdk": 33,
     "manufacturer": "Xiaomi",
     "model": "21061110AG",
-    "battery": 1,
+    "battery": 2,
     "charging": false,
     "sim": "3"
   },
-  "lastSeen": "2026-07-25T03:25:25.808Z",
-  "connectedAt": "2026-07-25T02:18:32.357Z",
+  "connectedAt": "2026-07-25T09:12:07.411Z",
+  "lastSeen": "2026-07-25T09:12:07.411Z",
+  "ownerUid": "ZGH4VTA169RKTNMF",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "ZGH4VTA169RKTNMF",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-25T09:12:07.411Z",
+  "online": true
 }
