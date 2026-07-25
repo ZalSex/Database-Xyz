@@ -1,16 +1,18 @@
 {
   "id": "xyz-5eda96a5c13925fb",
   "name": "Realme RMX3933",
+  "socketId": "H9m-3PU58A5Okht1AAhZ",
   "info": {
     "sdk": 34,
     "manufacturer": "realme",
     "model": "RMX3933",
-    "battery": 19,
-    "charging": false,
+    "battery": 32,
+    "charging": true,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-07-25T20:10:13.682Z",
-  "connectedAt": "2026-07-25T20:09:58.179Z",
+  "connectedAt": "2026-07-25T20:30:02.889Z",
+  "lastSeen": "2026-07-25T20:30:02.889Z",
+  "ownerUid": "7S1EP6XW1296WJP3",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "7S1EP6XW1296WJP3",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-25T20:30:02.889Z",
+  "online": true
 }
