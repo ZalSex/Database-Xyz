@@ -1,6 +1,7 @@
 {
   "id": "412c987fbd816164",
   "name": "OPPO CPH2799",
+  "socketId": "mnxa5IBRFf-WnjmKADNU",
   "info": {
     "sdk": 36,
     "manufacturer": "OPPO",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-07-25T05:57:08.818Z",
-  "connectedAt": "2026-07-25T05:17:45.653Z",
+  "connectedAt": "2026-07-25T06:05:22.319Z",
+  "lastSeen": "2026-07-25T06:05:22.319Z",
+  "ownerUid": "4NF0UQUXZI00Z2PB",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,11 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "brightness": 100
+    "activeTheme": "default"
   },
-  "ownerUid": "4NF0UQUXZI00Z2PB",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-25T06:05:22.319Z",
+  "online": true
 }
