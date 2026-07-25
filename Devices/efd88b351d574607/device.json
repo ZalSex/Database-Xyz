@@ -1,16 +1,18 @@
 {
   "id": "efd88b351d574607",
   "name": "TECNO BG7",
+  "socketId": "2pTG75WRzH-UAa8gAAIZ",
   "info": {
     "sdk": 33,
     "manufacturer": "TECNO",
     "model": "TECNO BG7",
-    "battery": 74,
+    "battery": 100,
     "charging": false,
     "sim": "INDOSAT OOREDOO"
   },
-  "lastSeen": "2026-07-25T07:27:07.104Z",
-  "connectedAt": "2026-07-25T07:06:06.340Z",
+  "connectedAt": "2026-07-25T10:49:16.076Z",
+  "lastSeen": "2026-07-25T10:49:16.076Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-25T10:49:16.076Z",
+  "online": true
 }
