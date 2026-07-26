@@ -1,36 +1,30 @@
 {
   "id": "1cdb5ccab2628e32",
   "name": "INFINIX MOBILITY LIMITED Infinix X6511B",
+  "socketId": "HETV6R4ROnWWca-MABeM",
   "info": {
     "sdk": 30,
     "manufacturer": "INFINIX MOBILITY LIMITED",
     "model": "Infinix X6511B",
-    "battery": 34,
+    "battery": 80,
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-07-26T08:08:34.327Z",
-  "connectedAt": "2026-07-26T07:47:23.663Z",
+  "connectedAt": "2026-07-26T11:18:41.727Z",
+  "lastSeen": "2026-07-26T11:18:41.727Z",
+  "ownerUid": "NJD6R57KKJYSOW6Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": true,
+    "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "screenSharing": true,
-    "volume_alarm": 50,
-    "volume_call": 50,
-    "volume_notif": 50,
-    "volume_media": 0,
-    "screenText": false,
-    "brightness": 100
+    "activeTheme": "default"
   },
-  "ownerUid": "NJD6R57KKJYSOW6Z",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-26T11:18:41.727Z",
+  "online": true
 }
