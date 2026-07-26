@@ -1,16 +1,18 @@
 {
   "id": "xyz-ab50bd756dfc454a",
   "name": "Samsung SM-G780G",
+  "socketId": "t3mnSCE_nzuWKpcJABxb",
   "info": {
     "sdk": 32,
     "manufacturer": "samsung",
     "model": "SM-G780G",
     "battery": 100,
     "charging": true,
-    "sim": "T-Mobile"
+    "sim": "MegaFon RUS"
   },
-  "lastSeen": "2026-06-30T15:24:43.914Z",
-  "connectedAt": "2026-06-30T15:24:25.797Z",
+  "connectedAt": "2026-07-26T16:54:37.314Z",
+  "lastSeen": "2026-07-26T16:54:37.314Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -19,11 +21,10 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": true,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "appHidden": false,
+    "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-26T16:54:37.314Z",
+  "online": true
 }
