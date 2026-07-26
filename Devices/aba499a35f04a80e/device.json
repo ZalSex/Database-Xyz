@@ -1,16 +1,18 @@
 {
   "id": "aba499a35f04a80e",
   "name": "Nubia NX729J",
+  "socketId": "fvPFUZ8mt2iJ5P84AAtc",
   "info": {
     "sdk": 35,
     "manufacturer": "nubia",
     "model": "NX729J",
-    "battery": 19,
-    "charging": false,
+    "battery": 53,
+    "charging": true,
     "sim": "MY MAXIS"
   },
-  "lastSeen": "2026-07-25T18:47:21.128Z",
-  "connectedAt": "2026-07-25T18:45:39.685Z",
+  "connectedAt": "2026-07-26T01:47:01.981Z",
+  "lastSeen": "2026-07-26T01:47:01.981Z",
+  "ownerUid": "HWE2C6BGPGKREK95",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "HWE2C6BGPGKREK95",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-26T01:47:01.981Z",
+  "online": true
 }
