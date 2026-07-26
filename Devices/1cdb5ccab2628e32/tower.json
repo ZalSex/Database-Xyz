@@ -1,0 +1,42 @@
+[
+  {
+    "ts": "2026-07-26T02:41:42.995Z",
+    "towers": {
+      "operator": "Telkomsel",
+      "simOp": "Telkomsel",
+      "netType": "LTE (4G)",
+      "cells": [
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "10",
+          "cid": 40203,
+          "lac": 14017,
+          "arfcn": 0,
+          "dbm": -93,
+          "registered": true
+        },
+        {
+          "type": "GSM",
+          "mcc": "-",
+          "mnc": "-",
+          "cid": 40203,
+          "lac": 14017,
+          "arfcn": 10,
+          "dbm": -101,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "-",
+          "mnc": "-",
+          "cid": 45112,
+          "lac": 14017,
+          "arfcn": 12,
+          "dbm": -105,
+          "registered": false
+        }
+      ]
+    }
+  }
+]
