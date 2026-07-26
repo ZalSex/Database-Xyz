@@ -1,18 +1,16 @@
 {
   "id": "109a3c4c65fe6a40",
   "name": "redbeatA2",
-  "socketId": "hfUaKqeKGRnjiDxKABd1",
   "info": {
     "sdk": 34,
     "manufacturer": "redbeat",
     "model": "redbeatA2",
-    "battery": 28,
+    "battery": 54,
     "charging": false,
     "sim": "MY MAXIS"
   },
+  "lastSeen": "2026-07-26T18:27:51.024Z",
   "connectedAt": "2026-07-26T11:17:09.706Z",
-  "lastSeen": "2026-07-26T11:17:09.706Z",
-  "ownerUid": "RLUD1I2GHEYHC4Z7",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-26T11:17:09.706Z",
-  "online": true
+  "ownerUid": "RLUD1I2GHEYHC4Z7",
+  "online": false
 }
