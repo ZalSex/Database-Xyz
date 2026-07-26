@@ -1,0 +1,36 @@
+[
+  {
+    "ts": "2026-07-26T00:48:26.395Z",
+    "active": {
+      "currentSsid": "HOME-LINDA",
+      "currentBssid": "c4:27:28:1d:d4:7e",
+      "ipAddress": "192.168.1.4",
+      "linkSpeed": "72 Mbps",
+      "rssi": -77,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-07-26 07:48:23"
+    },
+    "savedNets": [
+      {
+        "ssid": "HOME-LINDA",
+        "bssid": "c4:27:28:1d:d4:7e",
+        "security": "WPA/WPA2",
+        "networkId": 0,
+        "status": "SAVED",
+        "isCurrentConnection": true,
+        "priority": 0
+      },
+      {
+        "ssid": "HOME-LINDA",
+        "bssid": "c4:27:28:1d:d4:7e",
+        "security": "Open",
+        "networkId": 0,
+        "status": "SAVED",
+        "isCurrentConnection": true,
+        "priority": 0
+      }
+    ],
+    "count": 2
+  }
+]
