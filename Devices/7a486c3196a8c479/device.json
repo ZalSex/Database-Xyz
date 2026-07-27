@@ -1,18 +1,16 @@
 {
   "id": "7a486c3196a8c479",
   "name": "Infinix X6837",
-  "socketId": "o96NPhP28VIXNkPbACNe",
   "info": {
     "sdk": 33,
     "manufacturer": "INFINIX",
     "model": "Infinix X6837",
-    "battery": 66,
+    "battery": 65,
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-07-27T07:15:19.194Z",
   "connectedAt": "2026-07-27T07:11:06.889Z",
-  "lastSeen": "2026-07-27T07:11:06.889Z",
-  "ownerUid": "NJD6R57KKJYSOW6Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -21,10 +19,12 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
-    "activeTheme": "default"
+    "appHidden": true,
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "brightness": 100
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-27T07:11:06.889Z",
-  "online": true
+  "ownerUid": "NJD6R57KKJYSOW6Z",
+  "online": false
 }
