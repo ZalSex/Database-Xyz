@@ -1,18 +1,16 @@
 {
   "id": "109a3c4c65fe6a40",
   "name": "redbeatA2",
-  "socketId": "OBZssAZjt8s2FMffAB4i",
   "info": {
     "sdk": 34,
     "manufacturer": "redbeat",
     "model": "redbeatA2",
-    "battery": 46,
+    "battery": 36,
     "charging": false,
     "sim": "MY MAXIS"
   },
+  "lastSeen": "2026-07-27T05:41:37.255Z",
   "connectedAt": "2026-07-27T00:34:07.251Z",
-  "lastSeen": "2026-07-27T00:34:07.251Z",
-  "ownerUid": "RLUD1I2GHEYHC4Z7",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,12 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "openApp": "com.whatsapp",
+    "openAppError": "app_not_found"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-27T00:34:07.251Z",
-  "online": true
+  "ownerUid": "RLUD1I2GHEYHC4Z7",
+  "online": false
 }
