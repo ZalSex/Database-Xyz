@@ -1,18 +1,16 @@
 {
   "id": "d2b9abdb3222028b",
   "name": "TECNO KM4",
-  "socketId": "4I6uX9y1SYWvV9XdAA9b",
   "info": {
     "sdk": 35,
     "manufacturer": "TECNO",
     "model": "TECNO KM4",
-    "battery": 71,
+    "battery": 70,
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
+  "lastSeen": "2026-07-28T10:09:04.256Z",
   "connectedAt": "2026-07-28T09:59:20.533Z",
-  "lastSeen": "2026-07-28T09:59:20.533Z",
-  "ownerUid": "SM7LMEFX6M4Z5Q64",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-28T09:59:20.533Z",
-  "online": true
+  "ownerUid": "SM7LMEFX6M4Z5Q64",
+  "online": false
 }
