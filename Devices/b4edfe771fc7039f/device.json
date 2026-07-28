@@ -1,7 +1,6 @@
 {
   "id": "b4edfe771fc7039f",
   "name": "Xiaomi 23124RA7EO",
-  "socketId": "j2OeE9Zi4JC7YGosAAvN",
   "info": {
     "sdk": 35,
     "manufacturer": "Xiaomi",
@@ -10,11 +9,10 @@
     "charging": false,
     "sim": "3"
   },
+  "lastSeen": "2026-07-28T04:57:33.580Z",
   "connectedAt": "2026-07-28T04:57:13.247Z",
-  "lastSeen": "2026-07-28T04:57:13.247Z",
-  "ownerUid": "AWBPXAKTBUZDE8RI",
   "status": {
-    "flashlight": false,
+    "flashlight": true,
     "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
@@ -22,9 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-28T04:57:13.247Z",
-  "online": true
+  "ownerUid": "AWBPXAKTBUZDE8RI",
+  "online": false
 }
