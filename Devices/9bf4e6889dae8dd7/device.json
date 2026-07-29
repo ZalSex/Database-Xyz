@@ -1,18 +1,16 @@
 {
   "id": "9bf4e6889dae8dd7",
   "name": "Xiaomi M2012K11AG",
-  "socketId": "vx9JtbgxiS2t4ZZ7ADF-",
   "info": {
     "sdk": 30,
     "manufacturer": "Xiaomi",
     "model": "M2012K11AG",
-    "battery": 76,
+    "battery": 74,
     "charging": false,
     "sim": "3"
   },
+  "lastSeen": "2026-07-29T11:26:25.293Z",
   "connectedAt": "2026-07-29T11:16:48.680Z",
-  "lastSeen": "2026-07-29T11:16:48.680Z",
-  "ownerUid": "N4E084WK979K2YG9",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-29T11:16:48.680Z",
-  "online": true
+  "ownerUid": "N4E084WK979K2YG9",
+  "online": false
 }
