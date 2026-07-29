@@ -1,18 +1,16 @@
 {
   "id": "043752d86d2a63c4",
   "name": "Xiaomi 2311DRK48G",
-  "socketId": "xlwNtJ0wyHvYLgx_ADtA",
   "info": {
     "sdk": 35,
     "manufacturer": "Xiaomi",
     "model": "2311DRK48G",
-    "battery": 95,
+    "battery": 94,
     "charging": false,
     "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
-  "connectedAt": "2026-07-29T23:53:18.312Z",
-  "lastSeen": "2026-07-29T23:53:18.312Z",
-  "ownerUid": "AWBPXAKTBUZDE8RI",
+  "lastSeen": "2026-07-29T23:57:44.099Z",
+  "connectedAt": "2026-07-29T23:57:00.929Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-29T23:53:18.312Z",
-  "online": true
+  "ownerUid": "AWBPXAKTBUZDE8RI",
+  "online": false
 }
