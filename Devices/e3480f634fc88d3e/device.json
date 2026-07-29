@@ -1,6 +1,7 @@
 {
   "id": "e3480f634fc88d3e",
   "name": "Realme RMX3760",
+  "socketId": "OFV7ftIp4mkMIk8eADq0",
   "info": {
     "sdk": 35,
     "manufacturer": "realme",
@@ -9,23 +10,21 @@
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-07-29T22:31:03.297Z",
-  "connectedAt": "2026-07-29T17:47:47.374Z",
+  "connectedAt": "2026-07-29T22:33:17.295Z",
+  "lastSeen": "2026-07-29T22:33:17.295Z",
+  "ownerUid": "RLUD1I2GHEYHC4Z7",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": true,
+    "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "openApp": "com.mobile.legends",
-    "networkLocked": true
+    "activeTheme": "default"
   },
-  "ownerUid": "RLUD1I2GHEYHC4Z7",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-29T22:33:17.295Z",
+  "online": true
 }
