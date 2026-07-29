@@ -1,16 +1,18 @@
 {
   "id": "716a8620788deca0",
   "name": "Vivo V2249",
+  "socketId": "EMHtiqDFKzcr65p3AC5j",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
     "model": "V2249",
-    "battery": 20,
+    "battery": 18,
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-07-29T05:43:28.189Z",
-  "connectedAt": "2026-07-29T05:40:06.480Z",
+  "connectedAt": "2026-07-29T06:13:38.678Z",
+  "lastSeen": "2026-07-29T06:13:38.678Z",
+  "ownerUid": "N4E084WK979K2YG9",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "N4E084WK979K2YG9",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-29T06:13:38.678Z",
+  "online": true
 }
