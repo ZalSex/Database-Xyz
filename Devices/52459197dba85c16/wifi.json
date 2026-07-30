@@ -38,5 +38,52 @@
         "frequency": 2437
       }
     ]
+  },
+  {
+    "ts": "2026-07-30T10:10:28.482Z",
+    "list": [
+      {
+        "ssid": "Laundry",
+        "bssid": "5c:92:5e:56:aa:40",
+        "level": -50,
+        "security": "WPA2",
+        "frequency": 2412
+      },
+      {
+        "ssid": "Wina",
+        "bssid": "bc:47:32:9a:e5:38",
+        "level": -53,
+        "security": "WPA2",
+        "frequency": 2412
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "bc:47:32:9a:e5:41",
+        "level": -63,
+        "security": "WPA2",
+        "frequency": 5805
+      },
+      {
+        "ssid": "Wina",
+        "bssid": "bc:47:32:9a:e5:40",
+        "level": -63,
+        "security": "WPA2",
+        "frequency": 5805
+      },
+      {
+        "ssid": "Ercole",
+        "bssid": "10:08:1d:8d:fc:c0",
+        "level": -84,
+        "security": "WPA2",
+        "frequency": 2437
+      },
+      {
+        "ssid": "Fathian",
+        "bssid": "dc:a7:82:f6:21:bc",
+        "level": -85,
+        "security": "WPA2",
+        "frequency": 2462
+      }
+    ]
   }
 ]
