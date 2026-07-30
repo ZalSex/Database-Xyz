@@ -1,16 +1,18 @@
 {
   "id": "487b88d9f71e6a1f",
   "name": "Realme RMX3690",
+  "socketId": "otWWxAwzp18nSlFHAD4V",
   "info": {
     "sdk": 31,
     "manufacturer": "realme",
     "model": "RMX3690",
-    "battery": 61,
+    "battery": 67,
     "charging": false,
-    "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
+    "sim": "No SIM"
   },
-  "lastSeen": "2026-07-29T12:33:23.960Z",
-  "connectedAt": "2026-07-29T12:05:58.904Z",
+  "connectedAt": "2026-07-30T04:34:01.183Z",
+  "lastSeen": "2026-07-30T04:34:01.183Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-30T04:34:01.183Z",
+  "online": true
 }
