@@ -1,18 +1,16 @@
 {
   "id": "41664f8f999bc4c6",
   "name": "Realme RMX3521",
-  "socketId": "cleAp6uamo6jKZkjAD1Q",
   "info": {
     "sdk": 34,
     "manufacturer": "realme",
     "model": "RMX3521",
-    "battery": 84,
+    "battery": 81,
     "charging": false,
     "sim": "  Digi  "
   },
+  "lastSeen": "2026-07-30T03:48:54.623Z",
   "connectedAt": "2026-07-30T03:26:19.406Z",
-  "lastSeen": "2026-07-30T03:26:19.406Z",
-  "ownerUid": "VQ17DJG0CM79ACS2",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,12 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "sos": false,
+    "virus": false
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-30T03:26:19.406Z",
-  "online": true
+  "ownerUid": "VQ17DJG0CM79ACS2",
+  "online": false
 }
