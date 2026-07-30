@@ -1,16 +1,18 @@
 {
   "id": "aafae0d074882ab9",
   "name": "OPPO CPH2483",
+  "socketId": "GqxiOfk0AspOsaqYAESj",
   "info": {
     "sdk": 35,
     "manufacturer": "OPPO",
     "model": "CPH2483",
-    "battery": 84,
+    "battery": 53,
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
-  "lastSeen": "2026-07-21T14:00:23.658Z",
-  "connectedAt": "2026-07-21T13:54:02.880Z",
+  "connectedAt": "2026-07-30T11:33:49.418Z",
+  "lastSeen": "2026-07-30T11:33:49.418Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,14 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": false,
-    "protection": false,
-    "virus": false,
-    "sos": false,
-    "spamDialog": false,
-    "brightness": 100
+    "activeTheme": "default"
   },
-  "ownerUid": "MVIEU0NSVQK7K2U7",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-30T11:33:49.418Z",
+  "online": true
 }
