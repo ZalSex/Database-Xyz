@@ -1,18 +1,20 @@
 {
   "id": "b4edfe771fc7039f",
   "name": "Xiaomi 23124RA7EO",
+  "socketId": "_h9WeMuBrH4syc9jAGna",
   "info": {
     "sdk": 35,
     "manufacturer": "Xiaomi",
     "model": "23124RA7EO",
-    "battery": 50,
-    "charging": false,
-    "sim": "3"
+    "battery": 89,
+    "charging": true,
+    "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
-  "lastSeen": "2026-07-28T04:57:33.580Z",
-  "connectedAt": "2026-07-28T04:57:13.247Z",
+  "connectedAt": "2026-07-31T15:27:28.983Z",
+  "lastSeen": "2026-07-31T15:27:28.983Z",
+  "ownerUid": null,
   "status": {
-    "flashlight": true,
+    "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
@@ -20,10 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": "AWBPXAKTBUZDE8RI",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-31T15:27:28.983Z",
+  "online": true
 }
