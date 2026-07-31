@@ -1,16 +1,18 @@
 {
   "id": "2c8b30868205fb57",
   "name": "Infinix X6528B",
+  "socketId": "02LW7y2N5m6hYTU2AFuc",
   "info": {
     "sdk": 33,
     "manufacturer": "INFINIX",
     "model": "Infinix X6528B",
-    "battery": 48,
+    "battery": 47,
     "charging": false,
     "sim": "Digi"
   },
-  "lastSeen": "2026-07-31T05:08:17.202Z",
-  "connectedAt": "2026-07-31T05:08:15.123Z",
+  "connectedAt": "2026-07-31T05:11:19.724Z",
+  "lastSeen": "2026-07-31T05:11:19.724Z",
+  "ownerUid": "VQ17DJG0CM79ACS2",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "VQ17DJG0CM79ACS2",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-07-31T05:11:19.724Z",
+  "online": true
 }
