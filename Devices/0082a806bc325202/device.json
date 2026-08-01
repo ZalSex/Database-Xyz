@@ -1,16 +1,18 @@
 {
   "id": "0082a806bc325202",
   "name": "Xiaomi Mi A2 Lite",
+  "socketId": "hp_lp10ysSWKJnpUAJOv",
   "info": {
     "sdk": 29,
     "manufacturer": "Xiaomi",
     "model": "Mi A2 Lite",
-    "battery": 74,
+    "battery": 78,
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-08-01T03:30:36.850Z",
-  "connectedAt": "2026-08-01T02:18:35.547Z",
+  "connectedAt": "2026-08-01T04:29:11.241Z",
+  "lastSeen": "2026-08-01T04:29:11.241Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-01T04:29:11.241Z",
+  "online": true
 }
