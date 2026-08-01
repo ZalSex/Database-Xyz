@@ -1,18 +1,16 @@
 {
   "id": "7e2081da1d400438",
   "name": "Samsung SM-A155F",
-  "socketId": "ijoqwKx0wp9MgaS5AJqk",
   "info": {
     "sdk": 34,
     "manufacturer": "samsung",
     "model": "SM-A155F",
-    "battery": 53,
+    "battery": 56,
     "charging": true,
     "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
+  "lastSeen": "2026-08-01T09:37:18.645Z",
   "connectedAt": "2026-08-01T09:26:08.469Z",
-  "lastSeen": "2026-08-01T09:26:08.469Z",
-  "ownerUid": "NOPSD0B9H1FQD3P2",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-08-01T09:26:08.469Z",
-  "online": true
+  "ownerUid": "NOPSD0B9H1FQD3P2",
+  "online": false
 }
