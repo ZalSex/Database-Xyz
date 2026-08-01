@@ -1,16 +1,18 @@
 {
   "id": "8b1f1774f67d45d9",
   "name": "Infinix X6531B",
+  "socketId": "KVO65RDhMeGAXpC0AJM9",
   "info": {
     "sdk": 34,
     "manufacturer": "INFINIX",
     "model": "Infinix X6531B",
-    "battery": 1,
-    "charging": false,
+    "battery": 55,
+    "charging": true,
     "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
-  "lastSeen": "2026-08-01T02:29:50.162Z",
-  "connectedAt": "2026-08-01T02:23:57.434Z",
+  "connectedAt": "2026-08-01T03:48:55.212Z",
+  "lastSeen": "2026-08-01T03:48:55.212Z",
+  "ownerUid": "RXRXG56X27P9OK5D",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "RXRXG56X27P9OK5D",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-01T03:48:55.212Z",
+  "online": true
 }
