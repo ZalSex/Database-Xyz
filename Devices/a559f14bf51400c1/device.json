@@ -1,16 +1,18 @@
 {
   "id": "a559f14bf51400c1",
   "name": "Vivo V2207",
+  "socketId": "Ulsy-7Fi1AZccXOvAAyA",
   "info": {
     "sdk": 34,
     "manufacturer": "vivo",
     "model": "V2207",
-    "battery": 26,
+    "battery": 66,
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-07-18T05:32:44.209Z",
-  "connectedAt": "2026-07-18T05:23:01.915Z",
+  "connectedAt": "2026-08-02T04:57:18.117Z",
+  "lastSeen": "2026-08-02T04:57:18.117Z",
+  "ownerUid": "9HF6BSD8NTB3RC49",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,10 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-02T04:57:18.117Z",
+  "online": true
 }
