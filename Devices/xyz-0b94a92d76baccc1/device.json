@@ -1,18 +1,16 @@
 {
   "id": "xyz-0b94a92d76baccc1",
   "name": "Xiaomi Redmi Note 9 Pro",
-  "socketId": "-Z0xWIiIe3l5SDnpADJW",
   "info": {
     "sdk": 29,
     "manufacturer": "Xiaomi",
     "model": "Redmi Note 9 Pro",
-    "battery": 41,
+    "battery": 40,
     "charging": false,
     "sim": "No SIM"
   },
+  "lastSeen": "2026-08-04T16:33:46.511Z",
   "connectedAt": "2026-08-04T16:18:33.824Z",
-  "lastSeen": "2026-08-04T16:18:33.824Z",
-  "ownerUid": "LRU9A3KYRIMI1LDI",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,7 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-08-04T16:18:33.824Z",
-  "online": true
+  "ownerUid": "LRU9A3KYRIMI1LDI",
+  "online": false
 }
