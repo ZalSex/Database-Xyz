@@ -1,16 +1,18 @@
 {
   "id": "22ad132430ddfac4",
   "name": "Vivo V2214",
+  "socketId": "x19gdMLqQOwzqqViAC4J",
   "info": {
     "sdk": 31,
     "manufacturer": "vivo",
     "model": "V2214",
-    "battery": 64,
+    "battery": 48,
     "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-08-04T05:56:10.231Z",
-  "connectedAt": "2026-08-04T05:53:39.186Z",
+  "connectedAt": "2026-08-04T10:03:29.182Z",
+  "lastSeen": "2026-08-04T10:03:29.182Z",
+  "ownerUid": "GSPIE4MTWWLR4U77",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "GSPIE4MTWWLR4U77",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-04T10:03:29.182Z",
+  "online": true
 }
