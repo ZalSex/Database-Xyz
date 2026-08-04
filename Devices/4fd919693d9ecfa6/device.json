@@ -1,6 +1,7 @@
 {
   "id": "4fd919693d9ecfa6",
   "name": "OPPO CPH2477",
+  "socketId": "R9j7i4802SmSoPN7AC87",
   "info": {
     "sdk": 31,
     "manufacturer": "OPPO",
@@ -9,22 +10,21 @@
     "charging": true,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-08-04T12:31:02.588Z",
-  "connectedAt": "2026-08-04T09:34:00.974Z",
+  "connectedAt": "2026-08-04T12:31:06.560Z",
+  "lastSeen": "2026-08-04T12:31:06.560Z",
+  "ownerUid": "A92662BACT92V87L",
   "status": {
     "flashlight": false,
-    "cameraActive": true,
+    "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "screenSharing": false
+    "activeTheme": "default"
   },
-  "ownerUid": "A92662BACT92V87L",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-04T12:31:06.560Z",
+  "online": true
 }
