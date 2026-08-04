@@ -1,6 +1,7 @@
 {
   "id": "f18589bc809e2ed3",
   "name": "Xiaomi 220333QAG",
+  "socketId": "r0qY2ZTmiXVOFF-0ADGD",
   "info": {
     "sdk": 31,
     "manufacturer": "Xiaomi",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-08-04T14:47:51.000Z",
-  "connectedAt": "2026-08-04T13:28:43.304Z",
+  "connectedAt": "2026-08-04T14:48:35.792Z",
+  "lastSeen": "2026-08-04T14:48:35.792Z",
+  "ownerUid": "R28MPKNZCGNR7EJY",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,19 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "screenText": false,
-    "sos": false,
-    "frozen": false,
-    "brightness": 100,
-    "volume_media": 100,
-    "volume_call": 100,
-    "volume_alarm": 100,
-    "spamDialog": false,
-    "virus": false
+    "activeTheme": "default"
   },
-  "ownerUid": "R28MPKNZCGNR7EJY",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-04T14:48:35.792Z",
+  "online": true
 }
