@@ -1,16 +1,18 @@
 {
   "id": "13f02f2254943e20",
   "name": "Xiaomi Redmi Note 8 Pro",
+  "socketId": "jyFuztYCen6q2H7KACtv",
   "info": {
     "sdk": 30,
     "manufacturer": "Xiaomi",
     "model": "Redmi Note 8 Pro",
-    "battery": 86,
+    "battery": 85,
     "charging": false,
     "sim": "3"
   },
-  "lastSeen": "2026-08-04T00:52:04.094Z",
-  "connectedAt": "2026-08-04T00:51:34.276Z",
+  "connectedAt": "2026-08-04T00:59:01.884Z",
+  "lastSeen": "2026-08-04T00:59:01.884Z",
+  "ownerUid": "2HZH05MQSUJPYDEO",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "2HZH05MQSUJPYDEO",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-04T00:59:01.884Z",
+  "online": true
 }
