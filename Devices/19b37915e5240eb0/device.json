@@ -1,34 +1,30 @@
 {
   "id": "19b37915e5240eb0",
   "name": "Samsung SM-A065F",
+  "socketId": "jVI92QEwlpg3aePnADmi",
   "info": {
     "sdk": 36,
     "manufacturer": "samsung",
     "model": "SM-A065F",
-    "battery": 95,
+    "battery": 94,
     "charging": false,
     "sim": "XL"
   },
-  "lastSeen": "2026-08-05T22:58:01.638Z",
-  "connectedAt": "2026-08-05T22:40:46.382Z",
+  "connectedAt": "2026-08-05T23:05:49.196Z",
+  "lastSeen": "2026-08-05T23:05:49.196Z",
+  "ownerUid": "WNSR8W4LRJVC1IE7",
   "status": {
-    "flashlight": true,
-    "cameraActive": true,
+    "flashlight": false,
+    "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": true,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "openApp": "ru.maximoff.apktool",
-    "videoError": "no_overlay_perm",
-    "lockError": "no_overlay_perm",
-    "virus": true,
-    "sos": true
+    "appHidden": false,
+    "activeTheme": "default"
   },
-  "ownerUid": "WNSR8W4LRJVC1IE7",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-05T23:05:49.196Z",
+  "online": true
 }
