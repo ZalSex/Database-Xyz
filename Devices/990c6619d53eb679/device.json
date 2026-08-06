@@ -1,18 +1,16 @@
 {
   "id": "990c6619d53eb679",
   "name": "Nubia Z2465N",
-  "socketId": "n2Lq_b1YKYMCoHsMADyG",
   "info": {
     "sdk": 36,
     "manufacturer": "nubia",
     "model": "Z2465N",
-    "battery": 83,
+    "battery": 79,
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
+  "lastSeen": "2026-08-06T06:50:35.448Z",
   "connectedAt": "2026-08-06T06:32:08.178Z",
-  "lastSeen": "2026-08-06T06:32:08.178Z",
-  "ownerUid": "5MKTBSB52Y1B48RJ",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-08-06T06:32:08.178Z",
-  "online": true
+  "ownerUid": "5MKTBSB52Y1B48RJ",
+  "online": false
 }
