@@ -1,16 +1,18 @@
 {
   "id": "a5dbba475973d1d6",
   "name": "Infinix X6532C",
+  "socketId": "v73rio_0pLIIw7qrAEVH",
   "info": {
     "sdk": 34,
     "manufacturer": "INFINIX",
     "model": "Infinix X6532C",
-    "battery": 49,
+    "battery": 48,
     "charging": false,
     "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
-  "lastSeen": "2026-08-06T16:41:54.670Z",
-  "connectedAt": "2026-08-06T16:03:12.000Z",
+  "connectedAt": "2026-08-06T16:42:27.847Z",
+  "lastSeen": "2026-08-06T16:42:27.847Z",
+  "ownerUid": "9YEWLKZZR0DZTAA7",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -19,15 +21,10 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": true,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "screenText": false,
-    "spamDialog": false,
-    "screenSharing": false,
-    "frozen": false
+    "appHidden": false,
+    "activeTheme": "default"
   },
-  "ownerUid": "9YEWLKZZR0DZTAA7",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-06T16:42:27.847Z",
+  "online": true
 }
