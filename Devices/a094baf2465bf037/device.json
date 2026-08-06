@@ -1,18 +1,16 @@
 {
   "id": "a094baf2465bf037",
   "name": "TECNO LJ6",
-  "socketId": "3oF9v0wLibdMCJ2KAEaZ",
   "info": {
     "sdk": 35,
     "manufacturer": "TECNO",
     "model": "TECNO LJ6",
-    "battery": 26,
-    "charging": false,
+    "battery": 27,
+    "charging": true,
     "sim": "XL"
   },
+  "lastSeen": "2026-08-06T22:17:48.473Z",
   "connectedAt": "2026-08-06T22:14:58.388Z",
-  "lastSeen": "2026-08-06T22:14:58.388Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,7 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-08-06T22:14:58.388Z",
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
