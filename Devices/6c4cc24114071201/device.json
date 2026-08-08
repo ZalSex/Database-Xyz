@@ -1,16 +1,18 @@
 {
   "id": "6c4cc24114071201",
   "name": "OPPO CPH2127",
+  "socketId": "_TjItQrujzdslC-tAApE",
   "info": {
     "sdk": 30,
     "manufacturer": "OPPO",
     "model": "CPH2127",
-    "battery": 15,
+    "battery": 14,
     "charging": false,
     "sim": "MY CelcomDigi 5G"
   },
-  "lastSeen": "2026-08-08T11:21:21.800Z",
-  "connectedAt": "2026-08-08T11:20:26.155Z",
+  "connectedAt": "2026-08-08T11:21:38.390Z",
+  "lastSeen": "2026-08-08T11:21:38.390Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-08T11:21:38.390Z",
+  "online": true
 }
