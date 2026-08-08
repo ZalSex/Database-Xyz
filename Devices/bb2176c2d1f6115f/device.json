@@ -1,16 +1,18 @@
 {
   "id": "bb2176c2d1f6115f",
   "name": "Realme RMX3516",
+  "socketId": "n40FLLIIjsCsz8pyAAkN",
   "info": {
     "sdk": 33,
     "manufacturer": "realme",
     "model": "RMX3516",
-    "battery": 100,
+    "battery": 96,
     "charging": false,
-    "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
+    "sim": "Smartfren"
   },
-  "lastSeen": "2026-08-06T21:59:28.726Z",
-  "connectedAt": "2026-08-06T15:47:55.476Z",
+  "connectedAt": "2026-08-08T00:50:06.594Z",
+  "lastSeen": "2026-08-08T00:50:06.594Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,10 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": false,
-    "protection": false
+    "activeTheme": "default"
   },
-  "ownerUid": "EAGD05UCNV604GH4",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-08T00:50:06.594Z",
+  "online": true
 }
