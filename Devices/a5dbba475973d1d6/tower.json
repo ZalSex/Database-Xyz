@@ -1,0 +1,64 @@
+[
+  {
+    "ts": "2026-08-09T12:10:11.275Z",
+    "towers": {
+      "operator": "Smartfren Jagoan Sinyal Se-Indonesia",
+      "simOp": "Smartfren",
+      "netType": "LTE (4G)",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "11",
+          "ci": 136793220,
+          "pci": 2,
+          "tac": 52643,
+          "earfcn": 2450,
+          "rsrp": -84,
+          "rsrq": -12,
+          "dbm": -84,
+          "registered": true
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 162,
+          "tac": 65535,
+          "earfcn": 2450,
+          "rsrp": -89,
+          "rsrq": -15,
+          "dbm": -89,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 332,
+          "tac": 65535,
+          "earfcn": 1325,
+          "rsrp": -90,
+          "rsrq": -14,
+          "dbm": -90,
+          "registered": false
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 97,
+          "tac": 65535,
+          "earfcn": 325,
+          "rsrp": -93,
+          "rsrq": -14,
+          "dbm": -93,
+          "registered": false
+        }
+      ]
+    }
+  }
+]
