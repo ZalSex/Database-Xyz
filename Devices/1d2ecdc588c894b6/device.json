@@ -1,18 +1,16 @@
 {
   "id": "1d2ecdc588c894b6",
   "name": "Realme RMX2001",
-  "socketId": "w8oivnstfcF0TPblAAVI",
   "info": {
     "sdk": 30,
     "manufacturer": "realme",
     "model": "RMX2001",
-    "battery": 45,
+    "battery": 77,
     "charging": false,
     "sim": "by.U"
   },
+  "lastSeen": "2026-08-09T17:39:25.507Z",
   "connectedAt": "2026-08-09T03:01:47.312Z",
-  "lastSeen": "2026-08-09T03:01:47.312Z",
-  "ownerUid": "SKC8J5TBMB26UTVF",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,17 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "networkLocked": false,
+    "protectionEnabled": true,
+    "protection": true,
+    "frozen": false,
+    "volume_media": 50,
+    "volume_ring": 50,
+    "volume_alarm": 50,
+    "volume_notif": 50,
+    "volume_call": 50
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-08-09T03:01:47.312Z",
-  "online": true
+  "ownerUid": "SKC8J5TBMB26UTVF",
+  "online": false
 }
