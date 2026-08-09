@@ -1,16 +1,18 @@
 {
   "id": "f18589bc809e2ed3",
   "name": "Xiaomi 220333QAG",
+  "socketId": "-zeZ84zLphwei9pTABm7",
   "info": {
     "sdk": 31,
     "manufacturer": "Xiaomi",
     "model": "220333QAG",
-    "battery": 60,
+    "battery": 32,
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-08-09T14:56:40.907Z",
-  "connectedAt": "2026-08-09T14:56:37.627Z",
+  "connectedAt": "2026-08-09T22:13:32.507Z",
+  "lastSeen": "2026-08-09T22:13:32.507Z",
+  "ownerUid": "R28MPKNZCGNR7EJY",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "R28MPKNZCGNR7EJY",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-09T22:13:32.507Z",
+  "online": true
 }
