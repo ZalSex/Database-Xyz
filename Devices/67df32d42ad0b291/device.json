@@ -1,16 +1,18 @@
 {
   "id": "67df32d42ad0b291",
   "name": "Xiaomi 2409BRN2CY",
+  "socketId": "bLcWlsgziO8DNdFlABOl",
   "info": {
     "sdk": 35,
     "manufacturer": "Xiaomi",
     "model": "2409BRN2CY",
-    "battery": 78,
+    "battery": 77,
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-08-09T13:49:06.900Z",
-  "connectedAt": "2026-08-09T13:47:15.541Z",
+  "connectedAt": "2026-08-09T13:49:15.022Z",
+  "lastSeen": "2026-08-09T13:49:15.022Z",
+  "ownerUid": "A92662BACT92V87L",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "A92662BACT92V87L",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-09T13:49:15.022Z",
+  "online": true
 }
