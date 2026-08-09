@@ -158,5 +158,165 @@
       }
     ],
     "count": 16
+  },
+  {
+    "ts": "2026-08-09T12:11:10.759Z",
+    "active": {
+      "currentSsid": "PURNOMO",
+      "currentBssid": "40:ee:15:27:d9:84",
+      "ipAddress": "192.168.0.3",
+      "linkSpeed": "65 Mbps",
+      "rssi": -53,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-08-09 19:11:08"
+    },
+    "savedNets": [
+      {
+        "ssid": "AZZAHRA",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 0,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "AZZAHRA",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 0,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "CU_FAIZAL FOOD",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 1,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "CU_FAIZAL FOOD",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 1,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "MERPATI BALAP",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 2,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "MERPATI BALAP",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 2,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "NDENOK",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 3,
+        "status": "DISABLED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "NDENOK",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 3,
+        "status": "DISABLED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "PURNOMO",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 4,
+        "status": "CONNECTED",
+        "isCurrentConnection": true,
+        "priority": 0
+      },
+      {
+        "ssid": "PURNOMO",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 4,
+        "status": "CONNECTED",
+        "isCurrentConnection": true,
+        "priority": 0
+      },
+      {
+        "ssid": "WIFI_PKUKRA",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 5,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "WIFI_PKUKRA",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 5,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "vivo V29",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 6,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "vivo V29",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 6,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "vivo Y04s",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 7,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "vivo Y04s",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 7,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      }
+    ],
+    "count": 16
   }
 ]
