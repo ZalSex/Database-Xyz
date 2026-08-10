@@ -1,16 +1,18 @@
 {
   "id": "5fe79fff7d3263f5",
   "name": "Vivo V2039",
+  "socketId": "_hHCqx0AmI2EmayRACMi",
   "info": {
     "sdk": 30,
     "manufacturer": "vivo",
     "model": "V2039",
-    "battery": 2,
+    "battery": 79,
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-08-09T15:20:17.040Z",
-  "connectedAt": "2026-08-09T15:13:05.169Z",
+  "connectedAt": "2026-08-10T10:53:52.937Z",
+  "lastSeen": "2026-08-10T10:53:52.937Z",
+  "ownerUid": "4RKMNR1XSLGTUWWX",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,11 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": false,
-    "protection": false,
-    "frozen": false
+    "activeTheme": "default"
   },
-  "ownerUid": "4RKMNR1XSLGTUWWX",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-10T10:53:52.937Z",
+  "online": true
 }
