@@ -1,30 +1,35 @@
 {
   "id": "ac2dc4c0cc052ea2",
   "name": "Samsung SM-A217F",
-  "socketId": "b2_ILLy9PjGo4jeqAB1O",
   "info": {
     "sdk": 31,
     "manufacturer": "samsung",
     "model": "SM-A217F",
-    "battery": 43,
+    "battery": 42,
     "charging": false,
     "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
+  "lastSeen": "2026-08-10T05:42:25.421Z",
   "connectedAt": "2026-08-10T05:31:55.459Z",
-  "lastSeen": "2026-08-10T05:31:55.459Z",
-  "ownerUid": "UI4MX2LW9VYQDF2L",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": false,
+    "wallpaperSet": true,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "networkLocked": false,
+    "frozen": false,
+    "openApp": "com.whatsapp.w4b",
+    "screenText": false,
+    "sos": false,
+    "brightness": 100
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-08-10T05:31:55.459Z",
-  "online": true
+  "ownerUid": "UI4MX2LW9VYQDF2L",
+  "online": false
 }
