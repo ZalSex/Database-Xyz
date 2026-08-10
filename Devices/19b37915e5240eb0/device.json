@@ -1,18 +1,16 @@
 {
   "id": "19b37915e5240eb0",
   "name": "Samsung SM-A065F",
-  "socketId": "0DDZTXDGncLkjAAkAB0a",
   "info": {
     "sdk": 36,
     "manufacturer": "samsung",
     "model": "SM-A065F",
-    "battery": 73,
+    "battery": 72,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-08-10T05:54:32.783Z",
   "connectedAt": "2026-08-10T05:14:54.514Z",
-  "lastSeen": "2026-08-10T05:14:54.514Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,7 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-08-10T05:14:54.514Z",
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
