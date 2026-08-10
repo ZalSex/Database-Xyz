@@ -1,7 +1,6 @@
 {
   "id": "bbec1dcafcaf5685",
   "name": "Realme RMX3710",
-  "socketId": "lDuGJZ9NhPbcmlSiACgn",
   "info": {
     "sdk": 35,
     "manufacturer": "realme",
@@ -10,9 +9,8 @@
     "charging": true,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-08-10T17:16:24.171Z",
   "connectedAt": "2026-08-10T17:13:27.935Z",
-  "lastSeen": "2026-08-10T17:13:27.935Z",
-  "ownerUid": "5P6YY8C33RXTDZAQ",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,11 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true,
+    "screenSharing": false
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-08-10T17:13:27.935Z",
-  "online": true
+  "ownerUid": "5P6YY8C33RXTDZAQ",
+  "online": false
 }
