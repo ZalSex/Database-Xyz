@@ -1,7 +1,6 @@
 {
   "id": "b7815186772834a6",
   "name": "Xiaomi 2510DRA23E",
-  "socketId": "HU7LOF2l7BiW9cv0ACDG",
   "info": {
     "sdk": 35,
     "manufacturer": "Xiaomi",
@@ -10,9 +9,8 @@
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-08-10T08:00:28.824Z",
   "connectedAt": "2026-08-10T07:58:49.944Z",
-  "lastSeen": "2026-08-10T07:58:49.944Z",
-  "ownerUid": "UI4MX2LW9VYQDF2L",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,10 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-08-10T07:58:49.944Z",
-  "online": true
+  "ownerUid": "UI4MX2LW9VYQDF2L",
+  "online": false
 }
