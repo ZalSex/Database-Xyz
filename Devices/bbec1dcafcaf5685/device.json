@@ -1,36 +1,30 @@
 {
   "id": "bbec1dcafcaf5685",
   "name": "Realme RMX3710",
+  "socketId": "pLqDsHYc_uOEYN3wACgF",
   "info": {
     "sdk": 35,
     "manufacturer": "realme",
     "model": "RMX3710",
-    "battery": 1,
+    "battery": 10,
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-08-10T16:45:24.287Z",
-  "connectedAt": "2026-08-10T12:57:36.872Z",
+  "connectedAt": "2026-08-10T16:55:10.227Z",
+  "lastSeen": "2026-08-10T16:55:10.227Z",
+  "ownerUid": "5P6YY8C33RXTDZAQ",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": true,
+    "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "volume_media": 50,
-    "volume_ring": 50,
-    "volume_alarm": 50,
-    "volume_notif": 50,
-    "volume_call": 50,
-    "brightness": 30,
-    "screenSharing": false
+    "activeTheme": "default"
   },
-  "ownerUid": "5P6YY8C33RXTDZAQ",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-10T16:55:10.227Z",
+  "online": true
 }
