@@ -1,6 +1,7 @@
 {
   "id": "dafbca9587b68a36",
   "name": "OPPO CPH2819",
+  "socketId": "0PGzUjOA7j7O5JSzADNG",
   "info": {
     "sdk": 35,
     "manufacturer": "OPPO",
@@ -9,22 +10,21 @@
     "charging": false,
     "sim": "3SinyalKuatHemat"
   },
-  "lastSeen": "2026-08-11T09:29:56.662Z",
-  "connectedAt": "2026-08-11T09:15:49.820Z",
+  "connectedAt": "2026-08-11T09:30:16.320Z",
+  "lastSeen": "2026-08-11T09:30:16.320Z",
+  "ownerUid": "8NTOS6WWMOFDKHRZ",
   "status": {
     "flashlight": false,
-    "cameraActive": true,
+    "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "screenSharing": true
+    "activeTheme": "default"
   },
-  "ownerUid": "8NTOS6WWMOFDKHRZ",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-11T09:30:16.320Z",
+  "online": true
 }
