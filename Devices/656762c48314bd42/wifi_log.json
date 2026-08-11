@@ -239,5 +239,246 @@
       }
     ],
     "count": 25
+  },
+  {
+    "ts": "2026-08-11T16:57:15.111Z",
+    "active": {
+      "currentSsid": "ZTE_5G_26APt3",
+      "currentBssid": "20:3a:eb:76:d4:6d",
+      "ipAddress": "192.168.3.4",
+      "linkSpeed": "292 Mbps",
+      "rssi": -58,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-08-12 01:57:10"
+    },
+    "savedNets": [
+      {
+        "ssid": "fh_3472e0",
+        "bssid": "6c:a5:d1:34:72:e0",
+        "level": -44,
+        "security": "WPA2",
+        "frequency": 2462,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "ZTE_2.4G_26APt3",
+        "bssid": "20:3a:eb:76:d4:6b",
+        "level": -47,
+        "security": "WPA2",
+        "frequency": 2462,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "BIFIMERAH.ID",
+        "bssid": "50:5b:1d:df:0e:72",
+        "level": -51,
+        "security": "Open",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "fh_3472e0",
+        "bssid": "6c:a5:d1:34:72:e4",
+        "level": -52,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "ZTE_5G_26APt3",
+        "bssid": "20:3a:eb:76:d4:6d",
+        "level": -55,
+        "security": "WPA2",
+        "frequency": 5745,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      },
+      {
+        "ssid": "AFZAL NET",
+        "bssid": "72:85:c4:82:f8:30",
+        "level": -69,
+        "security": "Open",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "RKT.HOTSPOT_4G",
+        "bssid": "94:e3:ee:5d:cc:2b",
+        "level": -75,
+        "security": "Open",
+        "frequency": 2452,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "RKT.HOTSPOT_5G",
+        "bssid": "94:e3:ee:5d:cc:2d",
+        "level": -75,
+        "security": "Open",
+        "frequency": 5765,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "96:e3:ee:4d:cc:2d",
+        "level": -75,
+        "security": "WPA2",
+        "frequency": 5765,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Qiu.Net_5G",
+        "bssid": "c4:eb:ff:26:73:52",
+        "level": -76,
+        "security": "Open",
+        "frequency": 5180,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "AFZAL NET_5G",
+        "bssid": "72:85:c4:12:f8:30",
+        "level": -77,
+        "security": "Open",
+        "frequency": 5220,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "VHYN SALON 4G",
+        "bssid": "34:24:3e:47:13:ae",
+        "level": -77,
+        "security": "WPA2",
+        "frequency": 2427,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "VHYN SALON 5G",
+        "bssid": "34:24:3e:47:13:b0",
+        "level": -78,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "CAHAYA_NET 5G",
+        "bssid": "58:72:c9:d9:17:a8",
+        "level": -79,
+        "security": "Open",
+        "frequency": 5765,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "KOS_BIRU_5G",
+        "bssid": "f8:73:1a:4b:7e:66",
+        "level": -79,
+        "security": "Open",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "ae:ad:4b:4b:a1:42",
+        "level": -79,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Aulianisa",
+        "bssid": "88:66:9f:4d:12:b0",
+        "level": -80,
+        "security": "WPA2",
+        "frequency": 5745,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "fa:73:1a:4b:7e:66",
+        "level": -80,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Aulianisa",
+        "bssid": "88:66:9f:4d:12:a8",
+        "level": -81,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Orbit Telkom",
+        "bssid": "3c:78:95:8f:6e:4e",
+        "level": -83,
+        "security": "WPA2",
+        "frequency": 2427,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "W00_1644692826",
+        "bssid": "40:61:d2:3e:90:1d",
+        "level": -84,
+        "security": "WPA2",
+        "frequency": 2462,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Qiu.Net_4G",
+        "bssid": "c4:eb:ff:26:73:50",
+        "level": -84,
+        "security": "Open",
+        "frequency": 2422,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "RM SIAP SAJI",
+        "bssid": "e4:90:2a:8a:c7:50",
+        "level": -85,
+        "security": "Open",
+        "frequency": 2462,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "vivo Y21d",
+        "bssid": "ee:10:34:bc:75:31",
+        "level": -85,
+        "security": "WPA2",
+        "frequency": 2447,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "AFZAL NET",
+        "bssid": "e8:65:49:37:c1:e0",
+        "level": -88,
+        "security": "Open",
+        "frequency": 2472,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 25
   }
 ]
