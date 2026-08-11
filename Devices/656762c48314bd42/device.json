@@ -1,7 +1,6 @@
 {
   "id": "656762c48314bd42",
   "name": "Nubia Z2472",
-  "socketId": "-VADpqSeMW8ETfxQAEIp",
   "info": {
     "sdk": 35,
     "manufacturer": "nubia",
@@ -10,9 +9,8 @@
     "charging": true,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-08-11T17:01:13.353Z",
   "connectedAt": "2026-08-11T17:00:46.441Z",
-  "lastSeen": "2026-08-11T17:00:46.441Z",
-  "ownerUid": "0W7V24R7VONWH7Z3",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,9 +20,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "networkLocked": false
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-08-11T17:00:46.441Z",
-  "online": true
+  "ownerUid": "0W7V24R7VONWH7Z3",
+  "online": false
 }
