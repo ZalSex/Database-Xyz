@@ -34,5 +34,41 @@
         }
       ]
     }
+  },
+  {
+    "ts": "2026-08-11T16:59:55.020Z",
+    "towers": {
+      "operator": "Telkomsel",
+      "simOp": "Telkomsel",
+      "netType": "LTE (4G)",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "10",
+          "ci": 100885017,
+          "pci": 175,
+          "tac": 9826,
+          "earfcn": 38948,
+          "rsrp": -70,
+          "rsrq": -8,
+          "dbm": -70,
+          "registered": true
+        },
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "10",
+          "ci": 100885017,
+          "pci": 175,
+          "tac": 9826,
+          "earfcn": 38948,
+          "rsrp": -69,
+          "rsrq": -9,
+          "dbm": -69,
+          "registered": true
+        }
+      ]
+    }
   }
 ]
