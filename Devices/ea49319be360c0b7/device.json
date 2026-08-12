@@ -1,16 +1,18 @@
 {
   "id": "ea49319be360c0b7",
   "name": "INFINIX MOBILITY LIMITED Infinix X657B",
+  "socketId": "55VmQJPvaaFZkNHDAFTj",
   "info": {
     "sdk": 30,
     "manufacturer": "INFINIX MOBILITY LIMITED",
     "model": "Infinix X657B",
-    "battery": 28,
-    "charging": true,
+    "battery": 10,
+    "charging": false,
     "sim": "Smartfren4G"
   },
-  "lastSeen": "2026-08-12T05:09:32.861Z",
-  "connectedAt": "2026-08-12T04:04:40.709Z",
+  "connectedAt": "2026-08-12T11:43:52.944Z",
+  "lastSeen": "2026-08-12T11:43:52.944Z",
+  "ownerUid": "JG8D24DBAFSS3UVR",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,10 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": "JG8D24DBAFSS3UVR",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-12T11:43:52.944Z",
+  "online": true
 }
