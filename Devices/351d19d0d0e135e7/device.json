@@ -1,16 +1,18 @@
 {
   "id": "351d19d0d0e135e7",
   "name": "Xiaomi M2101K7BNY",
+  "socketId": "NG0F0KNw9kxjp4lbAE8M",
   "info": {
     "sdk": 30,
     "manufacturer": "Xiaomi",
     "model": "M2101K7BNY",
-    "battery": 76,
+    "battery": 63,
     "charging": false,
     "sim": "XL"
   },
-  "lastSeen": "2026-08-12T02:51:50.152Z",
-  "connectedAt": "2026-08-12T02:40:10.169Z",
+  "connectedAt": "2026-08-12T05:52:46.501Z",
+  "lastSeen": "2026-08-12T05:52:46.501Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-12T05:52:46.501Z",
+  "online": true
 }
