@@ -1,18 +1,16 @@
 {
   "id": "b2f588b5a39fad0a",
   "name": "Samsung SM-A025F",
-  "socketId": "mQSBZSswipBV6X9iAE3z",
   "info": {
     "sdk": 30,
     "manufacturer": "samsung",
     "model": "SM-A025F",
-    "battery": 74,
+    "battery": 76,
     "charging": true,
     "sim": "No SIM"
   },
+  "lastSeen": "2026-08-12T04:34:04.334Z",
   "connectedAt": "2026-08-12T04:25:33.108Z",
-  "lastSeen": "2026-08-12T04:25:33.108Z",
-  "ownerUid": "ULVB3PG5FKE2CHIF",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,7 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-08-12T04:25:33.108Z",
-  "online": true
+  "ownerUid": "ULVB3PG5FKE2CHIF",
+  "online": false
 }
