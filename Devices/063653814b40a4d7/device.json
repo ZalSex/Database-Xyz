@@ -1,16 +1,18 @@
 {
   "id": "063653814b40a4d7",
   "name": "Xiaomi M2101K6G",
+  "socketId": "rBub4r3jYWT4RnVmAHQY",
   "info": {
     "sdk": 31,
     "manufacturer": "Xiaomi",
     "model": "M2101K6G",
-    "battery": 78,
-    "charging": true,
+    "battery": 11,
+    "charging": false,
     "sim": "XL"
   },
-  "lastSeen": "2026-08-12T02:03:18.804Z",
-  "connectedAt": "2026-08-12T01:24:28.982Z",
+  "connectedAt": "2026-08-13T22:54:08.199Z",
+  "lastSeen": "2026-08-13T22:54:08.199Z",
+  "ownerUid": "UI4MX2LW9VYQDF2L",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "UI4MX2LW9VYQDF2L",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-13T22:54:08.199Z",
+  "online": true
 }
