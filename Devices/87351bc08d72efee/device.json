@@ -1,16 +1,18 @@
 {
   "id": "87351bc08d72efee",
   "name": "OPPO CPH2773",
+  "socketId": "RMyagzHhDDzZVgmsAF0C",
   "info": {
     "sdk": 34,
     "manufacturer": "OPPO",
     "model": "CPH2773",
-    "battery": 94,
+    "battery": 91,
     "charging": false,
-    "sim": "Digi"
+    "sim": "MY CelcomDigi 5G"
   },
-  "lastSeen": "2026-08-12T23:09:57.927Z",
-  "connectedAt": "2026-08-12T22:52:12.141Z",
+  "connectedAt": "2026-08-13T00:16:10.755Z",
+  "lastSeen": "2026-08-13T00:16:10.755Z",
+  "ownerUid": "2RGYEU0PA3IAUWAH",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,11 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "screenText": false
+    "activeTheme": "default"
   },
-  "ownerUid": "2RGYEU0PA3IAUWAH",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-13T00:16:10.755Z",
+  "online": true
 }
