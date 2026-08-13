@@ -1,6 +1,7 @@
 {
   "id": "ced0ac6c91ea7b15",
   "name": "TECNO LJ8k",
+  "socketId": "oAOTsBI9ephi4d0HAGt7",
   "info": {
     "sdk": 35,
     "manufacturer": "TECNO",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-08-13T12:22:21.542Z",
-  "connectedAt": "2026-08-13T12:00:02.415Z",
+  "connectedAt": "2026-08-13T12:22:59.920Z",
+  "lastSeen": "2026-08-13T12:22:59.920Z",
+  "ownerUid": "SG18VWI404GZZ0XF",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,12 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "brightness": 0,
-    "screenSharing": false
+    "activeTheme": "default"
   },
-  "ownerUid": "SG18VWI404GZZ0XF",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-13T12:22:59.920Z",
+  "online": true
 }
