@@ -1,16 +1,18 @@
 {
   "id": "42daa19abcfeb490",
   "name": "Xiaomi 25128RN17A",
+  "socketId": "rWOIC3-gyIp-YV80AF2l",
   "info": {
     "sdk": 36,
     "manufacturer": "Xiaomi",
     "model": "25128RN17A",
-    "battery": 94,
+    "battery": 93,
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-08-13T01:11:55.535Z",
-  "connectedAt": "2026-08-13T01:06:50.966Z",
+  "connectedAt": "2026-08-13T01:11:58.347Z",
+  "lastSeen": "2026-08-13T01:11:58.347Z",
+  "ownerUid": "XN32O53IR2TNUKTT",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -22,6 +24,7 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "ownerUid": "XN32O53IR2TNUKTT",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-13T01:11:58.347Z",
+  "online": true
 }
