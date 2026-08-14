@@ -1,18 +1,16 @@
 {
   "id": "3e5eba47e4fec179",
   "name": "Realme RMX3261",
-  "socketId": "IlaIPXuVpcOU_8VtAILo",
   "info": {
     "sdk": 30,
     "manufacturer": "realme",
     "model": "RMX3261",
-    "battery": 13,
+    "battery": 3,
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-08-14T10:11:58.806Z",
   "connectedAt": "2026-08-14T07:57:23.498Z",
-  "lastSeen": "2026-08-14T07:57:23.498Z",
-  "ownerUid": "A92662BACT92V87L",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,7 +22,6 @@
     "appHidden": false,
     "activeTheme": "default"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-08-14T07:57:23.498Z",
-  "online": true
+  "ownerUid": "A92662BACT92V87L",
+  "online": false
 }
