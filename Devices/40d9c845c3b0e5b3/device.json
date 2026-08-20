@@ -1,16 +1,18 @@
 {
   "id": "40d9c845c3b0e5b3",
   "name": "vivo 1820",
+  "socketId": "Svn1Ojb4e6mxfTZlAADG",
   "info": {
     "sdk": 27,
     "manufacturer": "vivo",
     "model": "vivo 1820",
-    "battery": 54,
+    "battery": 53,
     "charging": false,
     "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
-  "lastSeen": "2026-08-20T06:29:57.893Z",
-  "connectedAt": "2026-08-20T06:28:52.077Z",
+  "connectedAt": "2026-08-20T06:32:36.931Z",
+  "lastSeen": "2026-08-20T06:32:36.931Z",
+  "ownerUid": "2HZH05MQSUJPYDEO",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,10 +22,9 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true
+    "activeTheme": "default"
   },
-  "ownerUid": "2HZH05MQSUJPYDEO",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-20T06:32:36.931Z",
+  "online": true
 }
