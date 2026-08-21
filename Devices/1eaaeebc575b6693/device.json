@@ -1,17 +1,17 @@
 {
   "id": "1eaaeebc575b6693",
   "name": "OPPO CPH2641",
-  "socketId": "XP_bBY1DVSfzDK-FAAAC",
+  "socketId": "qnVjSQeOisqhRKjoAAAc",
   "info": {
     "sdk": 34,
     "manufacturer": "OPPO",
     "model": "CPH2641",
-    "battery": 50,
+    "battery": 45,
     "charging": false,
     "sim": "MY CelcomDigi 5G"
   },
-  "connectedAt": "2026-08-21T08:55:09.363Z",
-  "lastSeen": "2026-08-21T08:55:09.363Z",
+  "connectedAt": "2026-08-21T09:21:08.876Z",
+  "lastSeen": "2026-08-21T09:21:08.876Z",
   "ownerUid": null,
   "status": {
     "flashlight": false,
@@ -22,9 +22,15 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "spamDialog": false,
+    "sos": false,
+    "virus": false,
+    "networkLocked": false,
+    "freezeScreen": false,
+    "floatPhotos": false
   },
   "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-08-21T08:55:09.363Z",
+  "accessibilityLastSeen": "2026-08-21T09:21:08.876Z",
   "online": true
 }
