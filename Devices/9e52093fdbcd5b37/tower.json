@@ -204,5 +204,28 @@
         }
       ]
     }
+  },
+  {
+    "ts": "2026-08-21T09:57:03.205Z",
+    "towers": {
+      "operator": "XL Axiata",
+      "simOp": "XL Axiata",
+      "netType": "LTE (4G)",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "11",
+          "ci": 72731144,
+          "pci": 280,
+          "tac": 28704,
+          "earfcn": 325,
+          "rsrp": -104,
+          "rsrq": -9,
+          "dbm": -104,
+          "registered": true
+        }
+      ]
+    }
   }
 ]
