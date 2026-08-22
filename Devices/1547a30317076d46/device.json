@@ -1,16 +1,18 @@
 {
   "id": "1547a30317076d46",
   "name": "INFINIX MOBILITY LIMITED Infinix X6511E",
+  "socketId": "kgz0PZdp1MB2R9HmAA4o",
   "info": {
     "sdk": 30,
     "manufacturer": "INFINIX MOBILITY LIMITED",
     "model": "Infinix X6511E",
-    "battery": 1,
+    "battery": 44,
     "charging": false,
     "sim": "3"
   },
-  "lastSeen": "2026-08-22T09:06:39.531Z",
-  "connectedAt": "2026-08-22T09:04:08.374Z",
+  "connectedAt": "2026-08-22T10:44:34.983Z",
+  "lastSeen": "2026-08-22T10:44:34.983Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -28,6 +30,7 @@
     "freezeScreen": false,
     "floatPhotos": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-22T10:44:34.983Z",
+  "online": true
 }
