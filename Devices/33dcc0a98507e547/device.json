@@ -1,16 +1,18 @@
 {
   "id": "33dcc0a98507e547",
   "name": "HUAWEI MAR-LX2",
+  "socketId": "BLu-p0qvmyC0rODpAAzv",
   "info": {
     "sdk": 29,
     "manufacturer": "HUAWEI",
     "model": "MAR-LX2",
-    "battery": 95,
+    "battery": 94,
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-08-22T08:10:41.110Z",
-  "connectedAt": "2026-08-22T08:05:05.978Z",
+  "connectedAt": "2026-08-22T08:42:57.317Z",
+  "lastSeen": "2026-08-22T08:42:57.317Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -28,6 +30,7 @@
     "freezeScreen": false,
     "floatPhotos": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-22T08:42:57.318Z",
+  "online": true
 }
