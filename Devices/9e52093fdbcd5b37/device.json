@@ -1,6 +1,7 @@
 {
   "id": "9e52093fdbcd5b37",
   "name": "TECNO MOBILE LIMITED TECNO LE7",
+  "socketId": "a23jX1gep6SFLpAcAAB3",
   "info": {
     "sdk": 30,
     "manufacturer": "TECNO MOBILE LIMITED",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-08-23T19:17:40.965Z",
-  "connectedAt": "2026-08-23T19:17:14.291Z",
+  "connectedAt": "2026-08-23T19:22:24.253Z",
+  "lastSeen": "2026-08-23T19:22:24.253Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -28,6 +30,7 @@
     "freezeScreen": false,
     "floatPhotos": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-23T19:22:24.254Z",
+  "online": true
 }
