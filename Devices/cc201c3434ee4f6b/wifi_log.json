@@ -1,0 +1,90 @@
+[
+  {
+    "ts": "2026-08-24T12:55:42.383Z",
+    "active": {
+      "currentSsid": "PETITE",
+      "currentBssid": "dc:51:93:63:17:8a",
+      "ipAddress": "192.168.1.9",
+      "linkSpeed": "200 Mbps",
+      "rssi": -51,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-08-24 19:55:41"
+    },
+    "savedNets": [
+      {
+        "ssid": "PETITE",
+        "bssid": "dc:51:93:63:17:8a",
+        "level": -53,
+        "security": "WPA2",
+        "frequency": 5765,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      },
+      {
+        "ssid": "PETITE",
+        "bssid": "de:51:93:53:17:8a",
+        "level": -54,
+        "security": "WPA2",
+        "frequency": 5765,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "POCO X7 Pro",
+        "bssid": "ce:22:a7:f9:92:07",
+        "level": -60,
+        "security": "WPA2",
+        "frequency": 2467,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "PETITE",
+        "bssid": "dc:51:93:63:17:88",
+        "level": -66,
+        "security": "WPA2",
+        "frequency": 2447,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Warung Hikmah 2",
+        "bssid": "18:45:93:ca:71:c9",
+        "level": -70,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "00:19:3b:0e:95:de",
+        "level": -80,
+        "security": "WPA2",
+        "frequency": 5220,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Selon beauty 4G ",
+        "bssid": "f8:73:1a:7a:05:84",
+        "level": -81,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Oktavia",
+        "bssid": "3c:a7:ae:3a:31:98",
+        "level": -83,
+        "security": "WPA2",
+        "frequency": 2417,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 8
+  }
+]
