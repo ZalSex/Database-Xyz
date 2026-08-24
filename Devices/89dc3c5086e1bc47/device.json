@@ -1,6 +1,7 @@
 {
   "id": "89dc3c5086e1bc47",
   "name": "TECNO LI7",
+  "socketId": "6i_hHW2PK4Qqb8AcAAag",
   "info": {
     "sdk": 35,
     "manufacturer": "TECNO",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "3"
   },
-  "lastSeen": "2026-08-24T23:46:01.894Z",
-  "connectedAt": "2026-08-24T23:43:30.949Z",
+  "connectedAt": "2026-08-24T23:47:04.548Z",
+  "lastSeen": "2026-08-24T23:47:04.548Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -28,6 +30,7 @@
     "freezeScreen": false,
     "floatPhotos": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-24T23:47:04.549Z",
+  "online": true
 }
