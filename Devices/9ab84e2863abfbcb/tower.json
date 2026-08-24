@@ -1,0 +1,108 @@
+[
+  {
+    "ts": "2026-08-24T15:55:19.707Z",
+    "towers": {
+      "operator": "AXIS",
+      "simOp": "AXIS",
+      "netType": "LTE (4G)",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "11",
+          "ci": 138756617,
+          "pci": 241,
+          "tac": 54603,
+          "earfcn": 325,
+          "rsrp": -82,
+          "rsrq": -16,
+          "dbm": -82,
+          "registered": true
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 2147483647,
+          "pci": 260,
+          "tac": 2147483647,
+          "earfcn": 325,
+          "rsrp": -93,
+          "rsrq": -19,
+          "dbm": -93,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "10",
+          "cid": 30022,
+          "lac": 16086,
+          "arfcn": 6,
+          "dbm": -59,
+          "registered": true
+        },
+        {
+          "type": "GSM",
+          "mcc": "-",
+          "mnc": "-",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 9,
+          "dbm": -81,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "-",
+          "mnc": "-",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 777,
+          "dbm": -85,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "-",
+          "mnc": "-",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 775,
+          "dbm": -87,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "-",
+          "mnc": "-",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 783,
+          "dbm": -91,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "-",
+          "mnc": "-",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 776,
+          "dbm": -93,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "-",
+          "mnc": "-",
+          "cid": 2147483647,
+          "lac": 2147483647,
+          "arfcn": 780,
+          "dbm": -95,
+          "registered": false
+        }
+      ]
+    }
+  }
+]
