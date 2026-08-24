@@ -1,0 +1,855 @@
+[
+  {
+    "ts": "2026-08-24T15:55:54.415Z",
+    "active": {
+      "currentSsid": "Okta",
+      "currentBssid": "e8:6e:44:9e:23:02",
+      "ipAddress": "192.168.1.16",
+      "linkSpeed": "65 Mbps",
+      "rssi": -76,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-08-24 22:55:53"
+    },
+    "savedNets": [
+      {
+        "ssid": ".",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 0,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "3 BERSAUDARA",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 1,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "A17 milik Rafrdss",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 2,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "AFSAN",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 3,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "AHERTINI",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 4,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "ARTALINK NET",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 5,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Aqua Rasya ",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 6,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Aulia Salsa",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 7,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "BABIL",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 8,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "BOEKIT TINGGI",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 9,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "BRATA ",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 10,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Bismillah",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 11,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Bonero_VIP",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 12,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Bosingwa",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 13,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "DESKTOP-QDDKRQN 5425",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 14,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "ERTENET 5G",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 15,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "ERTENET",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 16,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "FREE WIFI @DISKOMINFO",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 17,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Falss's Galaxy A02s",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 18,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Goreng ",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 19,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "HASMA JAYA",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 20,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "HUAWEI-2.4G-Q2b5",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 21,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "IPhone",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 22,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "ISOL",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 23,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Ipone",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 24,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "JLAWAKOPI",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 25,
+        "status": "DISABLED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "K12-LAB1RPL 0558",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 26,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "K16-LAB1RPL 6394",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 27,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Kenzie 04",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 28,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Kholiligazali",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 29,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Kholiligazali-2.4G-ext",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 30,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "LAB-2-RPL",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 31,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "LAB-RPL",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 32,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "LISA",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 33,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Layar coffee",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 34,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "MAHALLA",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 35,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "MAIN YO!",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 36,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "MUKA LU KAYA TAI",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 37,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "MV007-94DE",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 38,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "NADIEF 4G",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 39,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Nyak Tanya'an",
+        "bssid": "02:5f:77:d4:a4:cd",
+        "security": "Open",
+        "networkId": 40,
+        "status": "DISABLED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "ODAITA",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 41,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "OPPO A17k",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 42,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "OPPO A3 Pro",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 43,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "OPPO A52020",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 44,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "OPPO A53",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 45,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "OPPO A5s",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 46,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "OPPO A6x s8rc",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 47,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "OPPO A7",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 48,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "OPPO A9 2020",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 49,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "OPPO Reno5 F",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 50,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Okta",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 51,
+        "status": "CONNECTED",
+        "isCurrentConnection": true,
+        "priority": 0
+      },
+      {
+        "ssid": "Orbiter Coffee",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 52,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "PATOBIN CAFE",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 53,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "PETITE",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 54,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "PPLG",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 55,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Predator Billiard 5G",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 56,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "RC",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 57,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "REZA GAME",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 58,
+        "status": "DISABLED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "RazorGame",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 59,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Redmi 9C",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 60,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Rinto angkara",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 61,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "SAMBIH MELLEH",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 62,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "SKANIGA",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 63,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "SKANIGA.NET",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 64,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Saudara Laok Songai",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 65,
+        "status": "DISABLED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "TAMPOK BALAP",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 66,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "TECNO POVA 6 Pro 5G",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 67,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "TENTANG RASA",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 68,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Toko",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 69,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "WILDA AR 0711",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 70,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "ZERO_GAMES ",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 71,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "ZTE_2.4G_n44K3m",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 72,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "aN-EXT",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 73,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "abanda ",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 74,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "abcod",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 75,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "alfanet 2.4G",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 76,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "alya",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 77,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "fatanaja",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 78,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "iPhone",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 79,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "king maula",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 80,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "lacentura cafe 5G",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 81,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "numb.",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 82,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "p",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 83,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "pppppp",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 84,
+        "status": "DISABLED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "rafi",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 85,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "realme 5i",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 86,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "sasa",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 87,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "sempoerna",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 88,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "sher",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 89,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "smkn3pmk.wifi",
+        "bssid": "any",
+        "security": "Open",
+        "networkId": 90,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "tanyah ke wildan",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 91,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "vivo Y12s 2021",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 92,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      }
+    ],
+    "count": 93
+  }
+]
