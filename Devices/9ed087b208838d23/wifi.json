@@ -31,5 +31,38 @@
         "frequency": 2462
       }
     ]
+  },
+  {
+    "ts": "2026-08-25T06:26:53.835Z",
+    "list": [
+      {
+        "ssid": "Rananta Jaya-2.4G-ext",
+        "bssid": "02:16:78:63:a4:7c",
+        "level": -59,
+        "security": "WPA2",
+        "frequency": 2462
+      },
+      {
+        "ssid": "Rananta Jaya",
+        "bssid": "40:0e:f3:1e:b4:46",
+        "level": -61,
+        "security": "WPA2",
+        "frequency": 2462
+      },
+      {
+        "ssid": "ENAM SAUDARA NET",
+        "bssid": "74:b5:7e:9e:5e:d0",
+        "level": -67,
+        "security": "Open",
+        "frequency": 2447
+      },
+      {
+        "ssid": "HABIB",
+        "bssid": "3c:78:95:8f:2b:e4",
+        "level": -75,
+        "security": "WPA2",
+        "frequency": 2462
+      }
+    ]
   }
 ]
