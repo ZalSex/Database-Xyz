@@ -1,6 +1,7 @@
 {
   "id": "075138b362aef54c",
   "name": "Samsung SM-A115F",
+  "socketId": "jN3lnQ3kUDsPD8ZJAAhh",
   "info": {
     "sdk": 31,
     "manufacturer": "samsung",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
-  "lastSeen": "2026-08-25T23:31:10.314Z",
-  "connectedAt": "2026-08-25T22:57:35.194Z",
+  "connectedAt": "2026-08-25T23:31:51.083Z",
+  "lastSeen": "2026-08-25T23:31:51.083Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-25T23:31:51.083Z",
+  "online": true
 }
