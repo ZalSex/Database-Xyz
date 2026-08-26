@@ -1,16 +1,18 @@
 {
   "id": "dev-dafbca9587b68a36",
   "name": "OPPO CPH2819",
+  "socketId": "qDHNtmRtDuT7a0-CAAxr",
   "info": {
     "sdk": 35,
     "manufacturer": "OPPO",
     "model": "CPH2819",
-    "battery": 68,
+    "battery": 66,
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-08-26T05:38:18.794Z",
-  "connectedAt": "2026-08-26T05:38:16.412Z",
+  "connectedAt": "2026-08-26T05:50:14.484Z",
+  "lastSeen": "2026-08-26T05:50:14.484Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-26T05:50:14.484Z",
+  "online": true
 }
