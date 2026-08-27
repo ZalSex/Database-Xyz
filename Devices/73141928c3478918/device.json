@@ -1,16 +1,18 @@
 {
   "id": "73141928c3478918",
-  "name": "Infinix X6885",
+  "name": "Infinix HOT 60 Pro",
+  "socketId": "jTmXHvpnYXpHePZ1AABG",
   "info": {
     "sdk": 35,
     "manufacturer": "INFINIX",
     "model": "Infinix X6885",
-    "battery": 36,
+    "battery": 33,
     "charging": false,
     "sim": "3"
   },
-  "lastSeen": "2026-08-13T11:37:01.603Z",
-  "connectedAt": "2026-08-13T11:35:29.251Z",
+  "connectedAt": "2026-08-27T16:05:41.205Z",
+  "lastSeen": "2026-08-27T16:05:41.205Z",
+  "ownerUid": "GOE276PE951NY7BM",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -21,9 +23,15 @@
     "lockedChat": false,
     "appHidden": false,
     "activeTheme": "default",
-    "protectionEnabled": false,
-    "protection": false
+    "spamDialog": false,
+    "sos": false,
+    "virus": false,
+    "networkLocked": false,
+    "freezeScreen": false,
+    "floatPhotos": false,
+    "autoWallpaper": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-27T16:05:41.205Z",
+  "online": true
 }
