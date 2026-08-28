@@ -1415,5 +1415,93 @@
       }
     ],
     "count": 5
+  },
+  {
+    "ts": "2026-08-28T13:30:49.069Z",
+    "active": {
+      "currentSsid": "Rahmat_5G",
+      "currentBssid": "f4:2d:06:f1:f5:7a",
+      "ipAddress": "192.168.1.10",
+      "linkSpeed": "390 Mbps",
+      "rssi": -49,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-08-28 21:30:48"
+    },
+    "savedNets": [
+      {
+        "ssid": "Rahmat",
+        "bssid": "f4:2d:06:f1:f5:78",
+        "level": -45,
+        "security": "WPA2",
+        "frequency": 2427,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Rahmat_5G",
+        "bssid": "f4:2d:06:f1:f5:7a",
+        "level": -57,
+        "security": "WPA2",
+        "frequency": 5745,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "f6:2d:06:c1:f5:7a",
+        "level": -57,
+        "security": "WPA2",
+        "frequency": 5745,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "NOR HAYATI",
+        "bssid": "60:a2:c6:b7:fc:60",
+        "level": -69,
+        "security": "WPA2",
+        "frequency": 2462,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "YUNUS",
+        "bssid": "f4:2d:06:f2:7b:82",
+        "level": -76,
+        "security": "WPA2",
+        "frequency": 2447,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "HUAWEI-2.4G-4Stg",
+        "bssid": "4c:b0:87:02:24:d0",
+        "level": -83,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "AndroidAP_9679",
+        "bssid": "82:af:62:a9:19:e6",
+        "level": -86,
+        "security": "WPA2",
+        "frequency": 2472,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "c0:51:5c:39:09:d4",
+        "level": -93,
+        "security": "WPA2",
+        "frequency": 2422,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 8
   }
 ]
