@@ -1,16 +1,18 @@
 {
   "id": "22d092953ec28f7f",
   "name": "Infinix NOTE 50 Pro",
+  "socketId": "KMlWAL-ou63nBmL-ABWP",
   "info": {
     "sdk": 35,
     "manufacturer": "INFINIX",
     "model": "Infinix X6855",
     "battery": 100,
-    "charging": true,
+    "charging": false,
     "sim": "TELKOMSEL"
   },
-  "lastSeen": "2026-08-28T15:03:10.795Z",
-  "connectedAt": "2026-08-28T15:02:13.766Z",
+  "connectedAt": "2026-08-28T15:05:42.210Z",
+  "lastSeen": "2026-08-28T15:05:42.210Z",
+  "ownerUid": "VDTS0MEOI93BQY8E",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": "VDTS0MEOI93BQY8E",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-28T15:05:42.210Z",
+  "online": true
 }
