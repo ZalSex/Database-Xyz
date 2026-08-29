@@ -1,18 +1,16 @@
 {
   "id": "9f1f1636aa3b6c23",
   "name": "vivo 1919",
-  "socketId": "ZTJJR7X6aJKoILecAEXn",
   "info": {
     "sdk": 31,
     "manufacturer": "vivo",
     "model": "vivo 1919",
-    "battery": 80,
+    "battery": 82,
     "charging": true,
     "sim": "Indosat Ooredoo"
   },
+  "lastSeen": "2026-08-29T17:27:46.638Z",
   "connectedAt": "2026-08-29T17:20:08.419Z",
-  "lastSeen": "2026-08-29T17:20:08.419Z",
-  "ownerUid": "LR6L0R3IUJ9VG74O",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,9 +27,16 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false
+    "autoWallpaper": false,
+    "screenText": false,
+    "volume_media": 0,
+    "volume_ring": 0,
+    "volume_alarm": 0,
+    "volume_call": 0,
+    "volume_notif": 0,
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-08-29T17:20:08.419Z",
-  "online": true
+  "ownerUid": "LR6L0R3IUJ9VG74O",
+  "online": false
 }
