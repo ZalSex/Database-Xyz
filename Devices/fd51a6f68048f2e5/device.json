@@ -1,18 +1,16 @@
 {
   "id": "fd51a6f68048f2e5",
   "name": "Vivo V2332",
-  "socketId": "A1RRcB_9hSZMfmakAEVc",
   "info": {
     "sdk": 36,
     "manufacturer": "vivo",
     "model": "V2332",
-    "battery": 85,
+    "battery": 83,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-08-29T17:14:39.981Z",
   "connectedAt": "2026-08-29T16:39:22.228Z",
-  "lastSeen": "2026-08-29T16:39:22.228Z",
-  "ownerUid": "9HF6BSD8NTB3RC49",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -31,7 +29,6 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-08-29T16:39:22.228Z",
-  "online": true
+  "ownerUid": "9HF6BSD8NTB3RC49",
+  "online": false
 }
