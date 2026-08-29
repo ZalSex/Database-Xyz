@@ -1,35 +1,37 @@
 {
   "id": "ac2dc4c0cc052ea2",
-  "name": "Samsung SM-A217F",
+  "name": "Galaxy A21s",
+  "socketId": "r-2nUkE-LAuBfc7fAEUd",
   "info": {
     "sdk": 31,
     "manufacturer": "samsung",
     "model": "SM-A217F",
-    "battery": 42,
-    "charging": false,
-    "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
+    "battery": 46,
+    "charging": true,
+    "sim": "INDOSATOOREDOO"
   },
-  "lastSeen": "2026-08-10T05:42:25.421Z",
-  "connectedAt": "2026-08-10T05:31:55.459Z",
+  "connectedAt": "2026-08-29T16:22:54.798Z",
+  "lastSeen": "2026-08-29T16:22:54.798Z",
+  "ownerUid": "RXRXG56X27P9OK5D",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": true,
+    "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
     "activeTheme": "default",
-    "protectionEnabled": true,
-    "protection": true,
-    "networkLocked": false,
-    "frozen": false,
-    "openApp": "com.whatsapp.w4b",
-    "screenText": false,
+    "spamDialog": false,
     "sos": false,
-    "brightness": 100
+    "virus": false,
+    "networkLocked": false,
+    "freezeScreen": false,
+    "floatPhotos": false,
+    "autoWallpaper": false
   },
-  "ownerUid": "UI4MX2LW9VYQDF2L",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-29T16:22:54.799Z",
+  "online": true
 }
