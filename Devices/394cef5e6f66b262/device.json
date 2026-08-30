@@ -1,37 +1,40 @@
 {
   "id": "394cef5e6f66b262",
   "name": "V2310",
-  "socketId": "4AJHpn5v18BzaqlTAG9J",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
     "model": "V2310",
-    "battery": 84,
+    "battery": 77,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-08-30T16:49:28.847Z",
   "connectedAt": "2026-08-30T13:00:25.458Z",
-  "lastSeen": "2026-08-30T13:00:25.458Z",
-  "ownerUid": "AL6NLLJRYDYSNP8G",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": false,
+    "wallpaperSet": true,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default",
+    "activeTheme": "instagram",
     "spamDialog": false,
     "sos": false,
     "virus": false,
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false
+    "autoWallpaper": false,
+    "protectionEnabled": true,
+    "protection": true,
+    "screenSharing": true,
+    "screenText": false,
+    "frozen": false,
+    "openApp": "com.ss.android.ugc.trill"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-08-30T13:00:25.459Z",
-  "online": true
+  "ownerUid": "AL6NLLJRYDYSNP8G",
+  "online": false
 }
