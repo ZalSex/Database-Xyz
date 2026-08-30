@@ -1,23 +1,21 @@
 {
   "id": "e2071210f710bd88",
   "name": "realme C15",
-  "socketId": "3xPwwGk0k08kQo8jAH8h",
   "info": {
     "sdk": 30,
     "manufacturer": "realme",
     "model": "RMX2180",
-    "battery": 31,
+    "battery": 1,
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-08-30T19:50:54.275Z",
   "connectedAt": "2026-08-30T18:44:14.450Z",
-  "lastSeen": "2026-08-30T18:44:14.450Z",
-  "ownerUid": "XNGWTCRJK0Q4JKLV",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": false,
+    "wallpaperSet": true,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
@@ -29,9 +27,10 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false
+    "autoWallpaper": false,
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-08-30T18:44:14.450Z",
-  "online": true
+  "ownerUid": "XNGWTCRJK0Q4JKLV",
+  "online": false
 }
