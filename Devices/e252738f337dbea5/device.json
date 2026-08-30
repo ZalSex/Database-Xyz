@@ -1,16 +1,18 @@
 {
   "id": "e252738f337dbea5",
   "name": "itel P673L",
+  "socketId": "-msF_xNB5bBaYzOkAEu8",
   "info": {
     "sdk": 34,
     "manufacturer": "ITEL",
     "model": "itel P673L",
-    "battery": 3,
+    "battery": 88,
     "charging": false,
     "sim": "TELKOMSEL"
   },
-  "lastSeen": "2026-08-29T16:29:05.854Z",
-  "connectedAt": "2026-08-29T16:28:28.817Z",
+  "connectedAt": "2026-08-30T01:30:08.343Z",
+  "lastSeen": "2026-08-30T01:30:08.343Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-08-30T01:30:08.344Z",
+  "online": true
 }
