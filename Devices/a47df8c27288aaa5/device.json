@@ -1,18 +1,16 @@
 {
   "id": "a47df8c27288aaa5",
   "name": "OPPO Reno5",
-  "socketId": "kwHECaG8DEqfpY1MALXQ",
   "info": {
     "sdk": 33,
     "manufacturer": "OPPO",
     "model": "CPH2159",
-    "battery": 60,
-    "charging": false,
+    "battery": 80,
+    "charging": true,
     "sim": "TELKOMSEL"
   },
+  "lastSeen": "2026-08-31T22:15:20.421Z",
   "connectedAt": "2026-08-31T21:31:30.742Z",
-  "lastSeen": "2026-08-31T21:31:30.742Z",
-  "ownerUid": "VDTS0MEOI93BQY8E",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -31,7 +29,6 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-08-31T21:31:30.742Z",
-  "online": true
+  "ownerUid": "VDTS0MEOI93BQY8E",
+  "online": false
 }
