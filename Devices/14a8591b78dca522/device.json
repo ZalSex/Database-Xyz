@@ -1,16 +1,18 @@
 {
   "id": "14a8591b78dca522",
   "name": "POCO X3 GT",
+  "socketId": "s_GJR1VVlAqDEeayAMsC",
   "info": {
     "sdk": 33,
     "manufacturer": "Xiaomi",
     "model": "21061110AG",
-    "battery": 31,
+    "battery": 25,
     "charging": false,
     "sim": "3"
   },
-  "lastSeen": "2026-09-01T10:28:34.985Z",
-  "connectedAt": "2026-09-01T10:28:33.276Z",
+  "connectedAt": "2026-09-01T10:42:21.619Z",
+  "lastSeen": "2026-09-01T10:42:21.619Z",
+  "ownerUid": "ZGH4VTA169RKTNMF",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": "ZGH4VTA169RKTNMF",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-01T10:42:21.619Z",
+  "online": true
 }
