@@ -1,16 +1,18 @@
 {
   "id": "3bbfc8df8e7a56ea",
   "name": "Infinix XPAD 20",
+  "socketId": "kbIuZEepSKgyAzILANJ8",
   "info": {
     "sdk": 35,
     "manufacturer": "INFINIX",
     "model": "Infinix X1102",
-    "battery": 27,
+    "battery": 1,
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-09-01T11:04:05.211Z",
-  "connectedAt": "2026-09-01T11:03:53.884Z",
+  "connectedAt": "2026-09-01T12:55:50.870Z",
+  "lastSeen": "2026-09-01T12:55:50.871Z",
+  "ownerUid": "I6ELL8KA4FF3ROCX",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": "I6ELL8KA4FF3ROCX",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-01T12:55:50.871Z",
+  "online": true
 }
