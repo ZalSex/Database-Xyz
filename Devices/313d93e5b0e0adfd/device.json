@@ -1,16 +1,18 @@
 {
   "id": "313d93e5b0e0adfd",
-  "name": "Xiaomi 25078RA3EY",
+  "name": "REDMI 15C",
+  "socketId": "BXmeK2YJCebwibr-AL82",
   "info": {
     "sdk": 35,
     "manufacturer": "Xiaomi",
     "model": "25078RA3EY",
-    "battery": 85,
+    "battery": 83,
     "charging": false,
-    "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
+    "sim": "XL"
   },
-  "lastSeen": "2026-08-09T02:56:27.401Z",
-  "connectedAt": "2026-08-09T02:56:12.190Z",
+  "connectedAt": "2026-09-01T06:31:42.929Z",
+  "lastSeen": "2026-09-01T06:31:42.929Z",
+  "ownerUid": "TVGYJ2C7FAJAULZA",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,8 +22,16 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "spamDialog": false,
+    "sos": false,
+    "virus": false,
+    "networkLocked": false,
+    "freezeScreen": false,
+    "floatPhotos": false,
+    "autoWallpaper": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-01T06:31:42.929Z",
+  "online": true
 }
