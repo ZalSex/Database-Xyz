@@ -1,16 +1,18 @@
 {
   "id": "09ec0d12fe734ffa",
   "name": "rendy tamvan",
+  "socketId": "q3IcpwbbY2dFWpJWAMuW",
   "info": {
     "sdk": 30,
     "manufacturer": "OPPO",
     "model": "CPH2269",
-    "battery": 44,
-    "charging": true,
+    "battery": 45,
+    "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-09-01T10:56:55.126Z",
-  "connectedAt": "2026-09-01T10:55:31.083Z",
+  "connectedAt": "2026-09-01T11:00:35.525Z",
+  "lastSeen": "2026-09-01T11:00:35.525Z",
+  "ownerUid": "NXLTDKSKJZ1PCU4G",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": "NXLTDKSKJZ1PCU4G",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-01T11:00:35.525Z",
+  "online": true
 }
