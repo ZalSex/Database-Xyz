@@ -1,16 +1,18 @@
 {
   "id": "d9d2baa3522511b1",
   "name": "Galaxy S23+",
+  "socketId": "sHOB7DGnO5nnOKGCAA5t",
   "info": {
     "sdk": 25,
     "manufacturer": "OPPO",
     "model": "Galaxy S23+",
-    "battery": 98,
-    "charging": true,
+    "battery": 100,
+    "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-09-01T23:39:26.197Z",
-  "connectedAt": "2026-09-01T23:39:04.879Z",
+  "connectedAt": "2026-09-02T02:51:42.179Z",
+  "lastSeen": "2026-09-02T02:51:42.179Z",
+  "ownerUid": "OF8WOD9KTA92CKWZ",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": "OF8WOD9KTA92CKWZ",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-02T02:51:42.179Z",
+  "online": true
 }
