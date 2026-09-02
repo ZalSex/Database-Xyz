@@ -1,16 +1,18 @@
 {
   "id": "0689b427526dabed",
   "name": "vivo 1920",
+  "socketId": "0dF5qfyR9eE2stjHACtD",
   "info": {
     "sdk": 31,
     "manufacturer": "vivo",
     "model": "vivo 1920",
-    "battery": 48,
-    "charging": true,
+    "battery": 58,
+    "charging": false,
     "sim": "TELKOMSEL"
   },
-  "lastSeen": "2026-07-09T10:36:11.649Z",
-  "connectedAt": "2026-07-09T09:51:28.920Z",
+  "connectedAt": "2026-09-02T14:12:00.607Z",
+  "lastSeen": "2026-09-02T14:12:00.607Z",
+  "ownerUid": "4NF0UQUXZI00Z2PB",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,8 +22,16 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "spamDialog": false,
+    "sos": false,
+    "virus": false,
+    "networkLocked": false,
+    "freezeScreen": false,
+    "floatPhotos": false,
+    "autoWallpaper": false
   },
-  "ownerUid": "BE0DWSEKFSH3312L",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-02T14:12:00.607Z",
+  "online": true
 }
