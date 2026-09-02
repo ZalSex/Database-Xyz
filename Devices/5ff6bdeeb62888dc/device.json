@@ -1,17 +1,17 @@
 {
   "id": "5ff6bdeeb62888dc",
-  "name": "ADVAN 1013",
-  "socketId": "EyHGu_G7acPUFWJsADQU",
+  "name": "ADVAN_VX_NEO",
+  "socketId": "FdMM3hWe1YAvZNS8ABxS",
   "info": {
     "sdk": 34,
     "manufacturer": "ADVAN",
     "model": "1013",
-    "battery": 71,
+    "battery": 22,
     "charging": false,
     "sim": "XL"
   },
-  "connectedAt": "2026-07-25T07:00:59.479Z",
-  "lastSeen": "2026-07-25T07:00:59.479Z",
+  "connectedAt": "2026-09-02T09:38:02.095Z",
+  "lastSeen": "2026-09-02T09:38:02.095Z",
   "ownerUid": "L8D9X0TFVYMDOQKR",
   "status": {
     "flashlight": false,
@@ -22,9 +22,16 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "spamDialog": false,
+    "sos": false,
+    "virus": false,
+    "networkLocked": false,
+    "freezeScreen": false,
+    "floatPhotos": false,
+    "autoWallpaper": false
   },
   "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-07-25T07:00:59.479Z",
+  "accessibilityLastSeen": "2026-09-02T09:38:02.095Z",
   "online": true
 }
