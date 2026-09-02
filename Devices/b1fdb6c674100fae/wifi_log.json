@@ -1,0 +1,63 @@
+[
+  {
+    "ts": "2026-09-02T10:42:36.655Z",
+    "active": {
+      "currentSsid": "Wina",
+      "currentBssid": "bc:47:32:9a:e5:38",
+      "ipAddress": "192.168.1.4",
+      "linkSpeed": "72 Mbps",
+      "rssi": -63,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-09-02 18:42:35"
+    },
+    "savedNets": [
+      {
+        "ssid": "Wina",
+        "bssid": "bc:47:32:9a:e5:38",
+        "level": -56,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      },
+      {
+        "ssid": "Laundry",
+        "bssid": "5c:92:5e:56:aa:40",
+        "level": -58,
+        "security": "WPA2",
+        "frequency": 2452,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "bc:47:32:9a:e5:41",
+        "level": -67,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Wina",
+        "bssid": "bc:47:32:9a:e5:40",
+        "level": -67,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Fathian",
+        "bssid": "dc:a7:82:f6:21:bc",
+        "level": -85,
+        "security": "WPA2",
+        "frequency": 2462,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 5
+  }
+]
