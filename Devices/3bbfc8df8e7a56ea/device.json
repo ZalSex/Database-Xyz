@@ -1,6 +1,7 @@
 {
   "id": "3bbfc8df8e7a56ea",
   "name": "Infinix XPAD 20",
+  "socketId": "1o3qY6osNITz3coSADwB",
   "info": {
     "sdk": 35,
     "manufacturer": "INFINIX",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-09-03T00:02:36.162Z",
-  "connectedAt": "2026-09-02T17:08:58.967Z",
+  "connectedAt": "2026-09-03T00:02:57.946Z",
+  "lastSeen": "2026-09-03T00:02:57.946Z",
+  "ownerUid": "I6ELL8KA4FF3ROCX",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,22 +22,16 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "calculator",
+    "activeTheme": "default",
     "spamDialog": false,
     "sos": false,
     "virus": false,
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false,
-    "protectionEnabled": true,
-    "protection": true,
-    "volume_media": 100,
-    "volume_alarm": 100,
-    "volume_ring": 100,
-    "volume_notif": 100,
-    "volume_call": 100
+    "autoWallpaper": false
   },
-  "ownerUid": "I6ELL8KA4FF3ROCX",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-03T00:02:57.946Z",
+  "online": true
 }
