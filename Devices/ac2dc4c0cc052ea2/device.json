@@ -1,18 +1,16 @@
 {
   "id": "ac2dc4c0cc052ea2",
   "name": "Galaxy A21s",
-  "socketId": "rrnrqkf1Mv25ZAEGAETa",
   "info": {
     "sdk": 31,
     "manufacturer": "samsung",
     "model": "SM-A217F",
-    "battery": 19,
+    "battery": 9,
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
+  "lastSeen": "2026-09-03T06:02:37.268Z",
   "connectedAt": "2026-09-03T05:07:54.649Z",
-  "lastSeen": "2026-09-03T05:07:54.649Z",
-  "ownerUid": "RXRXG56X27P9OK5D",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,9 +27,10 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false
+    "autoWallpaper": false,
+    "protectionEnabled": false,
+    "protection": false
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-09-03T05:07:54.649Z",
-  "online": true
+  "ownerUid": "RXRXG56X27P9OK5D",
+  "online": false
 }
