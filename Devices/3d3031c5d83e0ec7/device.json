@@ -1,18 +1,16 @@
 {
   "id": "3d3031c5d83e0ec7",
   "name": "OPPO A18",
-  "socketId": "n8yUbuxtrZ0PiYYJAHDv",
   "info": {
     "sdk": 35,
     "manufacturer": "OPPO",
     "model": "CPH2591",
-    "battery": 78,
+    "battery": 53,
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
+  "lastSeen": "2026-09-04T04:04:36.792Z",
   "connectedAt": "2026-09-04T02:12:01.136Z",
-  "lastSeen": "2026-09-04T02:12:01.136Z",
-  "ownerUid": "I6ELL8KA4FF3ROCX",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,9 +27,10 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false
+    "autoWallpaper": false,
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-09-04T02:12:01.137Z",
-  "online": true
+  "ownerUid": "I6ELL8KA4FF3ROCX",
+  "online": false
 }
