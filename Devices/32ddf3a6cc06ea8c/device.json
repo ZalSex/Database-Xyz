@@ -1,7 +1,6 @@
 {
   "id": "32ddf3a6cc06ea8c",
   "name": "𓃰",
-  "socketId": "PTfCkMGfb1LYKLYIAHJQ",
   "info": {
     "sdk": 30,
     "manufacturer": "INFINIX MOBILITY LIMITED",
@@ -10,12 +9,11 @@
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-09-04T04:07:50.272Z",
   "connectedAt": "2026-09-04T04:03:38.957Z",
-  "lastSeen": "2026-09-04T04:03:38.957Z",
-  "ownerUid": "OF8WOD9KTA92CKWZ",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
@@ -29,9 +27,10 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false
+    "autoWallpaper": false,
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-09-04T04:03:38.957Z",
-  "online": true
+  "ownerUid": "OF8WOD9KTA92CKWZ",
+  "online": false
 }
