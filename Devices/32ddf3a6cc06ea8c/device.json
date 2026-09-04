@@ -1,19 +1,21 @@
 {
   "id": "32ddf3a6cc06ea8c",
   "name": "𓃰",
+  "socketId": "iz9KcJjrQZbN-W2eAHJp",
   "info": {
     "sdk": 30,
     "manufacturer": "INFINIX MOBILITY LIMITED",
     "model": "Infinix X693",
-    "battery": 94,
+    "battery": 93,
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-09-04T04:07:50.272Z",
-  "connectedAt": "2026-09-04T04:03:38.957Z",
+  "connectedAt": "2026-09-04T04:07:54.183Z",
+  "lastSeen": "2026-09-04T04:07:54.183Z",
+  "ownerUid": "OF8WOD9KTA92CKWZ",
   "status": {
     "flashlight": false,
-    "cameraActive": true,
+    "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
@@ -27,10 +29,9 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false,
-    "protectionEnabled": true,
-    "protection": true
+    "autoWallpaper": false
   },
-  "ownerUid": "OF8WOD9KTA92CKWZ",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-04T04:07:54.184Z",
+  "online": true
 }
