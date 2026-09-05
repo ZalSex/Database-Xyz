@@ -1,6 +1,7 @@
 {
   "id": "5ff6bdeeb62888dc",
   "name": "ADVAN_VX_NEO",
+  "socketId": "QffV9x8DRrFM2umyALbk",
   "info": {
     "sdk": 34,
     "manufacturer": "ADVAN",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "XL"
   },
-  "lastSeen": "2026-09-05T12:53:39.572Z",
-  "connectedAt": "2026-09-05T12:53:19.336Z",
+  "connectedAt": "2026-09-05T13:32:54.670Z",
+  "lastSeen": "2026-09-05T13:32:54.670Z",
+  "ownerUid": "L8D9X0TFVYMDOQKR",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": "L8D9X0TFVYMDOQKR",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-05T13:32:54.670Z",
+  "online": true
 }
