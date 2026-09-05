@@ -1,0 +1,72 @@
+[
+  {
+    "ts": "2026-09-05T01:51:59.155Z",
+    "active": {
+      "currentSsid": "HIFIAIR_26C8",
+      "currentBssid": "60:83:e2:6f:26:c8",
+      "ipAddress": "192.168.1.200",
+      "linkSpeed": "72 Mbps",
+      "rssi": -69,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-09-05 09:51:59"
+    },
+    "savedNets": [
+      {
+        "ssid": "DenLia",
+        "bssid": "88:66:9f:4c:09:10",
+        "level": -61,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "HIFIAIR_26C8",
+        "bssid": "60:83:e2:6f:26:c8",
+        "level": -67,
+        "security": "WPA2",
+        "frequency": 2432,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      },
+      {
+        "ssid": "<Hidden>",
+        "bssid": "88:66:9f:4c:09:19",
+        "level": -71,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "DenLia",
+        "bssid": "88:66:9f:4c:09:18",
+        "level": -72,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "((*_*))",
+        "bssid": "d0:d0:4b:ba:28:94",
+        "level": -84,
+        "security": "WPA2",
+        "frequency": 2462,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "SHAVIRA1",
+        "bssid": "7c:c3:85:46:08:7c",
+        "level": -87,
+        "security": "WPA2",
+        "frequency": 2462,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 6
+  }
+]
