@@ -1,18 +1,16 @@
 {
   "id": "df9ccbd642d49591",
   "name": "A06 milik ARKA",
-  "socketId": "52KvYQ1_LKRTBD86AJ4k",
   "info": {
     "sdk": 36,
     "manufacturer": "samsung",
     "model": "SM-A065F",
-    "battery": 97,
+    "battery": 36,
     "charging": false,
     "sim": "XL"
   },
+  "lastSeen": "2026-09-05T05:07:31.128Z",
   "connectedAt": "2026-09-04T23:04:53.006Z",
-  "lastSeen": "2026-09-04T23:04:53.006Z",
-  "ownerUid": "I6ELL8KA4FF3ROCX",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,9 +27,10 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false
+    "autoWallpaper": false,
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-09-04T23:04:53.006Z",
-  "online": true
+  "ownerUid": "I6ELL8KA4FF3ROCX",
+  "online": false
 }
