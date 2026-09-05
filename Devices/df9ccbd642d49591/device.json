@@ -1,6 +1,7 @@
 {
   "id": "df9ccbd642d49591",
   "name": "A06 milik ARKA",
+  "socketId": "BG-lPRczVObKkimcAKGi",
   "info": {
     "sdk": 36,
     "manufacturer": "samsung",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "XL"
   },
-  "lastSeen": "2026-09-05T05:07:31.128Z",
-  "connectedAt": "2026-09-04T23:04:53.006Z",
+  "connectedAt": "2026-09-05T05:07:48.607Z",
+  "lastSeen": "2026-09-05T05:07:48.607Z",
+  "ownerUid": "I6ELL8KA4FF3ROCX",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -27,10 +29,9 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false,
-    "protectionEnabled": true,
-    "protection": true
+    "autoWallpaper": false
   },
-  "ownerUid": "I6ELL8KA4FF3ROCX",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-05T05:07:48.607Z",
+  "online": true
 }
