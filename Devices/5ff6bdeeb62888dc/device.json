@@ -1,18 +1,16 @@
 {
   "id": "5ff6bdeeb62888dc",
   "name": "ADVAN_VX_NEO",
-  "socketId": "S-ff5fQvXu6A3E5xALep",
   "info": {
     "sdk": 34,
     "manufacturer": "ADVAN",
     "model": "1013",
-    "battery": 74,
+    "battery": 84,
     "charging": true,
     "sim": "XL"
   },
+  "lastSeen": "2026-09-05T14:10:14.908Z",
   "connectedAt": "2026-09-05T13:50:23.744Z",
-  "lastSeen": "2026-09-05T13:50:23.744Z",
-  "ownerUid": "L8D9X0TFVYMDOQKR",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -31,7 +29,6 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-09-05T13:50:23.745Z",
-  "online": true
+  "ownerUid": "L8D9X0TFVYMDOQKR",
+  "online": false
 }
