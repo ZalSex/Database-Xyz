@@ -1,16 +1,18 @@
 {
   "id": "8f09da01dd686dc3",
   "name": "OPPO CPH2641",
+  "socketId": "wru37EoCko4kC34TAM-4",
   "info": {
     "sdk": 34,
     "manufacturer": "OPPO",
     "model": "CPH2641",
-    "battery": 40,
+    "battery": 41,
     "charging": true,
-    "sim": "MY MAXIS"
+    "sim": "Unknown"
   },
-  "lastSeen": "2026-09-05T22:42:39.469Z",
-  "connectedAt": "2026-09-05T22:18:15.102Z",
+  "connectedAt": "2026-09-05T22:43:14.313Z",
+  "lastSeen": "2026-09-05T22:43:14.313Z",
+  "ownerUid": "2RGYEU0PA3IAUWAH",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": "2RGYEU0PA3IAUWAH",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-05T22:43:14.313Z",
+  "online": true
 }
