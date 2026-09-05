@@ -1,6 +1,7 @@
 {
   "id": "cc201c3434ee4f6b",
   "name": "Vivo V2419",
+  "socketId": "hkyyv8h4zVpUUqJzALgx",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-09-05T13:38:06.393Z",
-  "connectedAt": "2026-09-05T13:37:49.775Z",
+  "connectedAt": "2026-09-05T13:59:00.102Z",
+  "lastSeen": "2026-09-05T13:59:00.102Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-05T13:59:00.103Z",
+  "online": true
 }
