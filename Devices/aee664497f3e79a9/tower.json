@@ -21,5 +21,28 @@
         }
       ]
     }
+  },
+  {
+    "ts": "2026-09-05T07:49:19.336Z",
+    "towers": {
+      "operator": "",
+      "simOp": "XL Axiata",
+      "netType": "GPRS/EDGE (2G)",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "11",
+          "ci": 33952643,
+          "pci": 411,
+          "tac": 12607,
+          "earfcn": 2450,
+          "rsrp": -105,
+          "rsrq": -15,
+          "dbm": -105,
+          "registered": true
+        }
+      ]
+    }
   }
 ]
