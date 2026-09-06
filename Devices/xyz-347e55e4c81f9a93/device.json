@@ -1,6 +1,7 @@
 {
   "id": "xyz-347e55e4c81f9a93",
   "name": "Xiaomi 22120RN86G",
+  "socketId": "LcJ8RsZTda-o95HTAAfV",
   "info": {
     "sdk": 34,
     "manufacturer": "Xiaomi",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-09-06T06:59:24.029Z",
-  "connectedAt": "2026-09-06T06:37:50.099Z",
+  "connectedAt": "2026-09-06T07:00:50.402Z",
+  "lastSeen": "2026-09-06T07:00:50.402Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-06T07:00:50.402Z",
+  "online": true
 }
