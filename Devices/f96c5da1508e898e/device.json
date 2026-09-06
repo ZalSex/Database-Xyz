@@ -1,16 +1,18 @@
 {
   "id": "f96c5da1508e898e",
   "name": "Redmi 7",
+  "socketId": "ggBHKWYpQErXNSSvABDM",
   "info": {
     "sdk": 29,
     "manufacturer": "Xiaomi",
     "model": "Redmi 7",
-    "battery": 16,
-    "charging": false,
+    "battery": 0,
+    "charging": true,
     "sim": "XL"
   },
-  "lastSeen": "2026-09-06T10:52:21.883Z",
-  "connectedAt": "2026-09-06T10:39:14.221Z",
+  "connectedAt": "2026-09-06T13:15:14.939Z",
+  "lastSeen": "2026-09-06T13:15:14.939Z",
+  "ownerUid": "4BPUZOKEU6ILUG7X",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": "4BPUZOKEU6ILUG7X",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-06T13:15:14.939Z",
+  "online": true
 }
