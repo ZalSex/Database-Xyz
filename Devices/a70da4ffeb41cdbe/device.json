@@ -1,16 +1,18 @@
 {
   "id": "a70da4ffeb41cdbe",
-  "name": "Infinix X6833B",
+  "name": "apa ajh",
+  "socketId": "m3-yhMtfHvNR0lJ2AA9C",
   "info": {
     "sdk": 34,
     "manufacturer": "INFINIX",
     "model": "Infinix X6833B",
-    "battery": 13,
-    "charging": false,
-    "sim": "Indosat Ooredoo"
+    "battery": 100,
+    "charging": true,
+    "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
-  "lastSeen": "2026-07-14T18:12:06.236Z",
-  "connectedAt": "2026-07-14T18:11:58.637Z",
+  "connectedAt": "2026-09-08T23:19:32.019Z",
+  "lastSeen": "2026-09-08T23:19:32.019Z",
+  "ownerUid": "PXELBS6XZ84DZ3C2",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,8 +22,16 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "spamDialog": false,
+    "sos": false,
+    "virus": false,
+    "networkLocked": false,
+    "freezeScreen": false,
+    "floatPhotos": false,
+    "autoWallpaper": false
   },
-  "ownerUid": "CCP0QGPH7BYDVMVL",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-08T23:19:32.019Z",
+  "online": true
 }
