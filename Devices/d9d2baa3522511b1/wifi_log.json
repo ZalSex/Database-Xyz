@@ -1,0 +1,72 @@
+[
+  {
+    "ts": "2026-09-09T13:01:21.070Z",
+    "active": {
+      "currentSsid": "KIKO ENAK TAU",
+      "currentBssid": "52:1b:8a:9a:5a:bd",
+      "ipAddress": "172.28.81.90",
+      "linkSpeed": "65 Mbps",
+      "rssi": -25,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-09-09 20:01:20"
+    },
+    "savedNets": [
+      {
+        "ssid": "CITRA 26",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 0,
+        "status": "DISABLED",
+        "isCurrentConnection": false,
+        "priority": 8
+      },
+      {
+        "ssid": "SULIWA",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 1,
+        "status": "DISABLED",
+        "isCurrentConnection": false,
+        "priority": 6
+      },
+      {
+        "ssid": "KIKO ENAK TAU",
+        "bssid": "52:1b:8a:9a:5a:bd",
+        "security": "WPA/WPA2",
+        "networkId": 2,
+        "status": "CONNECTED",
+        "isCurrentConnection": true,
+        "priority": 1391
+      },
+      {
+        "ssid": "𓃰𓅩",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 3,
+        "status": "DISABLED",
+        "isCurrentConnection": false,
+        "priority": 4
+      },
+      {
+        "ssid": "BOLT!-62ED",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 4,
+        "status": "DISABLED",
+        "isCurrentConnection": false,
+        "priority": 5
+      },
+      {
+        "ssid": "M I H O",
+        "bssid": "any",
+        "security": "WPA/WPA2",
+        "networkId": 5,
+        "status": "DISABLED",
+        "isCurrentConnection": false,
+        "priority": 1008
+      }
+    ],
+    "count": 6
+  }
+]
