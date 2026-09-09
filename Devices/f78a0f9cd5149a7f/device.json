@@ -1,18 +1,16 @@
 {
   "id": "f78a0f9cd5149a7f",
   "name": "Samsung SM-A245F",
-  "socketId": "6LFzEs4EE0LCcu_gABir",
   "info": {
     "sdk": 36,
     "manufacturer": "samsung",
     "model": "SM-A245F",
-    "battery": 73,
+    "battery": 72,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-09-09T06:48:21.869Z",
   "connectedAt": "2026-09-09T06:12:48.020Z",
-  "lastSeen": "2026-09-09T06:12:48.020Z",
-  "ownerUid": "BC0LJB9PLD162JO9",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -31,7 +29,6 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-09-09T06:12:48.020Z",
-  "online": true
+  "ownerUid": "BC0LJB9PLD162JO9",
+  "online": false
 }
