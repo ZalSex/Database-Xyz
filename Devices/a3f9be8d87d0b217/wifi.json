@@ -38,5 +38,45 @@
         "frequency": 2412
       }
     ]
+  },
+  {
+    "ts": "2026-09-10T17:42:25.377Z",
+    "list": [
+      {
+        "ssid": "dewi(ssrNet)",
+        "bssid": "58:60:10:00:1b:48",
+        "level": -51,
+        "security": "WPA2",
+        "frequency": 2432
+      },
+      {
+        "ssid": "vc_ssrNet",
+        "bssid": "5a:60:10:10:1b:48",
+        "level": -51,
+        "security": "Open",
+        "frequency": 2432
+      },
+      {
+        "ssid": "vc_ssrNet",
+        "bssid": "72:9e:02:fc:9d:3f",
+        "level": -90,
+        "security": "Open",
+        "frequency": 2412
+      },
+      {
+        "ssid": "fo_PakIlyas(ssrNet)",
+        "bssid": "d4:9e:02:fc:9d:3e",
+        "level": -90,
+        "security": "WPA2",
+        "frequency": 2412
+      },
+      {
+        "ssid": "OPPO A5x j699",
+        "bssid": "0a:b8:c8:6c:a8:a4",
+        "level": -94,
+        "security": "WPA2",
+        "frequency": 2462
+      }
+    ]
   }
 ]
