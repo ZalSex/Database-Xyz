@@ -118,5 +118,38 @@
         "frequency": 2462
       }
     ]
+  },
+  {
+    "ts": "2026-09-10T17:44:16.161Z",
+    "list": [
+      {
+        "ssid": "vc_ssrNet",
+        "bssid": "5a:60:10:10:1b:48",
+        "level": -50,
+        "security": "Open",
+        "frequency": 2432
+      },
+      {
+        "ssid": "dewi(ssrNet)",
+        "bssid": "58:60:10:00:1b:48",
+        "level": -51,
+        "security": "WPA2",
+        "frequency": 2432
+      },
+      {
+        "ssid": "vc_ssrNet",
+        "bssid": "72:9e:02:fc:9d:3f",
+        "level": -91,
+        "security": "Open",
+        "frequency": 2412
+      },
+      {
+        "ssid": "fo_PakIlyas(ssrNet)",
+        "bssid": "d4:9e:02:fc:9d:3e",
+        "level": -91,
+        "security": "WPA2",
+        "frequency": 2412
+      }
+    ]
   }
 ]
