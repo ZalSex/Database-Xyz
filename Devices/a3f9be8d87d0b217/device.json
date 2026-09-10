@@ -1,18 +1,16 @@
 {
   "id": "a3f9be8d87d0b217",
   "name": "V2204",
-  "socketId": "11S-Vlnd_0bYTMn2ACic",
   "info": {
     "sdk": 31,
     "manufacturer": "vivo",
     "model": "V2204",
-    "battery": 36,
+    "battery": 33,
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-09-10T17:41:33.763Z",
   "connectedAt": "2026-09-10T17:30:50.553Z",
-  "lastSeen": "2026-09-10T17:30:50.553Z",
-  "ownerUid": "UVUKEORGNKJOXLZ7",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -21,7 +19,7 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
+    "appHidden": true,
     "activeTheme": "default",
     "spamDialog": false,
     "sos": false,
@@ -29,9 +27,11 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false
+    "autoWallpaper": false,
+    "protectionEnabled": true,
+    "protection": true,
+    "screenSharing": false
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-09-10T17:30:50.553Z",
-  "online": true
+  "ownerUid": "UVUKEORGNKJOXLZ7",
+  "online": false
 }
