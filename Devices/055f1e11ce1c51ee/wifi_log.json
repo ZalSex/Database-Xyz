@@ -1,0 +1,54 @@
+[
+  {
+    "ts": "2026-09-12T07:13:29.977Z",
+    "active": {
+      "currentSsid": "LIVDIAN",
+      "currentBssid": "10:08:1d:7a:bb:ac",
+      "ipAddress": "192.168.1.13",
+      "linkSpeed": "13 Mbps",
+      "rssi": -77,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-09-12 15:13:27"
+    },
+    "savedNets": [
+      {
+        "ssid": "LIVDIAN",
+        "bssid": "10:08:1d:7a:bb:ac",
+        "level": -77,
+        "security": "WPA2",
+        "frequency": 5785,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      },
+      {
+        "ssid": "Ayunda",
+        "bssid": "8c:e1:17:83:8f:46",
+        "level": -87,
+        "security": "WPA2",
+        "frequency": 2422,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "LIVDIAN",
+        "bssid": "10:08:1d:7a:bb:a8",
+        "level": -87,
+        "security": "WPA2",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "telkom",
+        "bssid": "72:e1:17:83:8f:47",
+        "level": -87,
+        "security": "WPA2",
+        "frequency": 2422,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 4
+  }
+]
