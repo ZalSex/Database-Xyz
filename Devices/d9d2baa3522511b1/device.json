@@ -1,24 +1,22 @@
 {
   "id": "d9d2baa3522511b1",
   "name": "Galaxy S23+",
-  "socketId": "stTIoqq231QrENGPAAjD",
   "info": {
     "sdk": 25,
     "manufacturer": "OPPO",
     "model": "Galaxy S23+",
-    "battery": 82,
+    "battery": 81,
     "charging": false,
     "sim": "No SIM"
   },
+  "lastSeen": "2026-09-12T13:11:10.312Z",
   "connectedAt": "2026-09-12T13:04:27.461Z",
-  "lastSeen": "2026-09-12T13:04:27.461Z",
-  "ownerUid": "OF8WOD9KTA92CKWZ",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
-    "locked": false,
+    "locked": true,
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
@@ -29,9 +27,11 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false
+    "autoWallpaper": false,
+    "protectionEnabled": true,
+    "protection": true,
+    "screenSharing": false
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-09-12T13:04:27.461Z",
-  "online": true
+  "ownerUid": "OF8WOD9KTA92CKWZ",
+  "online": false
 }
