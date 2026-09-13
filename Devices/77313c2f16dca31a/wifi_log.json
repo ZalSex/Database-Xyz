@@ -1,0 +1,126 @@
+[
+  {
+    "ts": "2026-09-13T22:24:11.723Z",
+    "active": {
+      "currentSsid": "MAMI",
+      "currentBssid": "78:a1:06:a4:a2:bf",
+      "ipAddress": "192.168.2.158",
+      "linkSpeed": "72 Mbps",
+      "rssi": -74,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-09-14 06:24:10"
+    },
+    "savedNets": [
+      {
+        "ssid": "LIVDIAN",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 0,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "LIVDIAN",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 0,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "MAMI",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 1,
+        "status": "SAVED",
+        "isCurrentConnection": true,
+        "priority": 0
+      },
+      {
+        "ssid": "MAMI",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 1,
+        "status": "SAVED",
+        "isCurrentConnection": true,
+        "priority": 0
+      },
+      {
+        "ssid": "SHBN-GUEST",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 2,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "SHBN-GUEST",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 2,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "realme 9 Pro+",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 3,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "realme 9 Pro+",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 3,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "rumah lala",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 4,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "rumah lala",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 4,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "telkom123",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 5,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "telkom123",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 5,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      }
+    ],
+    "count": 12
+  }
+]
