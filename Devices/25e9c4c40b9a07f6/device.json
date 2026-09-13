@@ -1,16 +1,18 @@
 {
   "id": "25e9c4c40b9a07f6",
   "name": "OPPO CPH2185",
+  "socketId": "qP4Lu_FXOIAs0nahACoV",
   "info": {
     "sdk": 29,
     "manufacturer": "OPPO",
     "model": "CPH2185",
-    "battery": 35,
+    "battery": 36,
     "charging": false,
     "sim": "3"
   },
-  "lastSeen": "2026-09-13T10:58:23.484Z",
-  "connectedAt": "2026-09-13T10:57:23.095Z",
+  "connectedAt": "2026-09-13T10:58:28.738Z",
+  "lastSeen": "2026-09-13T10:58:28.738Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-13T10:58:28.739Z",
+  "online": true
 }
