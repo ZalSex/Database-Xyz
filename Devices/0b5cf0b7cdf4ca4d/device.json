@@ -1,18 +1,16 @@
 {
   "id": "0b5cf0b7cdf4ca4d",
   "name": "realme C11 2021",
-  "socketId": "BIxCZxmmYRKLtNhbADff",
   "info": {
     "sdk": 30,
     "manufacturer": "realme",
     "model": "RMX3231",
-    "battery": 28,
+    "battery": 26,
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-09-15T07:06:11.400Z",
   "connectedAt": "2026-09-15T05:15:27.777Z",
-  "lastSeen": "2026-09-15T05:15:27.778Z",
-  "ownerUid": "XM85J0AZCQ9DUC76",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,9 +27,10 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false
+    "autoWallpaper": false,
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-09-15T05:15:27.779Z",
-  "online": true
+  "ownerUid": "XM85J0AZCQ9DUC76",
+  "online": false
 }
