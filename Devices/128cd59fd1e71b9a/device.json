@@ -1,16 +1,18 @@
 {
   "id": "128cd59fd1e71b9a",
-  "name": "Infinix X6525",
+  "name": "Infinix SMART 8 HD",
+  "socketId": "VwUxHZcREqgvFb8IAACj",
   "info": {
     "sdk": 33,
     "manufacturer": "INFINIX",
     "model": "Infinix X6525",
-    "battery": 43,
+    "battery": 74,
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-07-18T15:54:10.432Z",
-  "connectedAt": "2026-07-18T15:46:06.683Z",
+  "connectedAt": "2026-09-16T07:11:29.102Z",
+  "lastSeen": "2026-09-16T07:11:29.102Z",
+  "ownerUid": "5OPCC8LL7LJNRMB1",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -20,8 +22,16 @@
     "lockedV2": false,
     "lockedChat": false,
     "appHidden": false,
-    "activeTheme": "default"
+    "activeTheme": "default",
+    "spamDialog": false,
+    "sos": false,
+    "virus": false,
+    "networkLocked": false,
+    "freezeScreen": false,
+    "floatPhotos": false,
+    "autoWallpaper": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-16T07:11:29.102Z",
+  "online": true
 }
