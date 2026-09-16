@@ -1,16 +1,18 @@
 {
   "id": "bf55e774e3575015",
   "name": "A50 milik Kahfi",
+  "socketId": "hivHgJ_B8ZP2sicOAGNk",
   "info": {
     "sdk": 30,
     "manufacturer": "samsung",
     "model": "SM-A505F",
-    "battery": 53,
-    "charging": true,
+    "battery": 2,
+    "charging": false,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-09-15T09:53:15.410Z",
-  "connectedAt": "2026-09-15T09:52:47.604Z",
+  "connectedAt": "2026-09-16T04:51:26.132Z",
+  "lastSeen": "2026-09-16T04:51:26.132Z",
+  "ownerUid": "TVGYJ2C7FAJAULZA",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": "TVGYJ2C7FAJAULZA",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-16T04:51:26.132Z",
+  "online": true
 }
