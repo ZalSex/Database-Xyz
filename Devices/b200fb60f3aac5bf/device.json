@@ -1,16 +1,18 @@
 {
   "id": "b200fb60f3aac5bf",
   "name": "OPPO A78 5G",
+  "socketId": "3sqU2C3pbIeWtL8FAF7W",
   "info": {
     "sdk": 31,
     "manufacturer": "OPPO",
     "model": "CPH2483",
-    "battery": 99,
+    "battery": 100,
     "charging": true,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-09-16T01:36:12.361Z",
-  "connectedAt": "2026-09-16T01:34:18.845Z",
+  "connectedAt": "2026-09-16T01:36:40.182Z",
+  "lastSeen": "2026-09-16T01:36:40.182Z",
+  "ownerUid": "1JY1QLZK2XUTP04C",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": "1JY1QLZK2XUTP04C",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-16T01:36:40.183Z",
+  "online": true
 }
