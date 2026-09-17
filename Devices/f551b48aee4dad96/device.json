@@ -1,6 +1,7 @@
 {
   "id": "f551b48aee4dad96",
   "name": "OPPO A18",
+  "socketId": "5cR1UJmJYduB5HmpAGEW",
   "info": {
     "sdk": 35,
     "manufacturer": "OPPO",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-09-17T17:26:55.697Z",
-  "connectedAt": "2026-09-17T17:16:44.572Z",
+  "connectedAt": "2026-09-17T17:27:42.159Z",
+  "lastSeen": "2026-09-17T17:27:42.159Z",
+  "ownerUid": "1JY1QLZK2XUTP04C",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -27,10 +29,9 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false,
-    "protectionEnabled": true,
-    "protection": true
+    "autoWallpaper": false
   },
-  "ownerUid": "1JY1QLZK2XUTP04C",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-17T17:27:42.159Z",
+  "online": true
 }
