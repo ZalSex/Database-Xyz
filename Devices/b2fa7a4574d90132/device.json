@@ -1,6 +1,7 @@
 {
   "id": "b2fa7a4574d90132",
   "name": "V2342",
+  "socketId": "iFdF9toN_WVYzMiFADkn",
   "info": {
     "sdk": 36,
     "manufacturer": "vivo",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-09-17T06:28:46.139Z",
   "connectedAt": "2026-09-17T06:28:45.156Z",
+  "lastSeen": "2026-09-17T06:28:45.156Z",
+  "ownerUid": "1JY1QLZK2XUTP04C",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": "1JY1QLZK2XUTP04C",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-17T06:28:45.156Z",
+  "online": true
 }
