@@ -1,6 +1,7 @@
 {
   "id": "3078e588512ed426",
   "name": "OPPO A57",
+  "socketId": "km5UzV77SY_mJZ4RAHnk",
   "info": {
     "sdk": 34,
     "manufacturer": "OPPO",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "AXIS"
   },
-  "lastSeen": "2026-09-18T02:52:57.885Z",
-  "connectedAt": "2026-09-18T01:54:15.385Z",
+  "connectedAt": "2026-09-18T02:53:56.782Z",
+  "lastSeen": "2026-09-18T02:53:56.782Z",
+  "ownerUid": "1JY1QLZK2XUTP04C",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -27,13 +29,9 @@
     "networkLocked": false,
     "freezeScreen": true,
     "floatPhotos": false,
-    "autoWallpaper": false,
-    "protectionEnabled": true,
-    "protection": true,
-    "screenSharing": true,
-    "frozen": true,
-    "openApp": "com.facebook.katana"
+    "autoWallpaper": false
   },
-  "ownerUid": "1JY1QLZK2XUTP04C",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-18T02:53:56.782Z",
+  "online": true
 }
