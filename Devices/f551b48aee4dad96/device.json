@@ -1,26 +1,24 @@
 {
   "id": "f551b48aee4dad96",
   "name": "OPPO A18",
-  "socketId": "fiZNJBWbjEk5KpB0AHFM",
   "info": {
     "sdk": 35,
     "manufacturer": "OPPO",
     "model": "CPH2591",
-    "battery": 96,
+    "battery": 88,
     "charging": false,
-    "sim": "Telkomsel"
+    "sim": "No SIM"
   },
+  "lastSeen": "2026-09-18T00:34:47.544Z",
   "connectedAt": "2026-09-18T00:01:56.434Z",
-  "lastSeen": "2026-09-18T00:01:56.434Z",
-  "ownerUid": "1JY1QLZK2XUTP04C",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
     "wallpaperSet": false,
-    "locked": false,
-    "lockedV2": false,
-    "lockedChat": true,
+    "locked": true,
+    "lockedV2": true,
+    "lockedChat": false,
     "appHidden": false,
     "activeTheme": "default",
     "spamDialog": false,
@@ -29,9 +27,16 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false
+    "autoWallpaper": false,
+    "protectionEnabled": true,
+    "protection": true,
+    "volume_media": 100,
+    "volume_ring": 100,
+    "volume_call": 100,
+    "volume_alarm": 100,
+    "volume_notif": 100,
+    "screenText": false
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-09-18T00:01:56.434Z",
-  "online": true
+  "ownerUid": "1JY1QLZK2XUTP04C",
+  "online": false
 }
