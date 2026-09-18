@@ -1,18 +1,16 @@
 {
   "id": "3078e588512ed426",
   "name": "OPPO A57",
-  "socketId": "HUNEEQcZoqEEwgKFAHae",
   "info": {
     "sdk": 34,
     "manufacturer": "OPPO",
     "model": "CPH2387",
-    "battery": 84,
+    "battery": 63,
     "charging": false,
     "sim": "AXIS"
   },
-  "connectedAt": "2026-09-18T01:54:14.815Z",
-  "lastSeen": "2026-09-18T01:54:14.815Z",
-  "ownerUid": "1JY1QLZK2XUTP04C",
+  "lastSeen": "2026-09-18T02:52:57.885Z",
+  "connectedAt": "2026-09-18T01:54:15.385Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -21,17 +19,21 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": false,
+    "appHidden": true,
     "activeTheme": "default",
     "spamDialog": false,
     "sos": false,
     "virus": false,
     "networkLocked": false,
-    "freezeScreen": false,
+    "freezeScreen": true,
     "floatPhotos": false,
-    "autoWallpaper": false
+    "autoWallpaper": false,
+    "protectionEnabled": true,
+    "protection": true,
+    "screenSharing": true,
+    "frozen": true,
+    "openApp": "com.facebook.katana"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-09-18T01:54:14.815Z",
-  "online": true
+  "ownerUid": "1JY1QLZK2XUTP04C",
+  "online": false
 }
