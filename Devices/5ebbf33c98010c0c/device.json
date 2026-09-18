@@ -1,7 +1,6 @@
 {
   "id": "5ebbf33c98010c0c",
   "name": "V2344",
-  "socketId": "MUZF--hBQLVf1ELFAJpw",
   "info": {
     "sdk": 34,
     "manufacturer": "vivo",
@@ -10,9 +9,8 @@
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-09-18T12:24:08.980Z",
   "connectedAt": "2026-09-18T12:22:58.695Z",
-  "lastSeen": "2026-09-18T12:22:58.695Z",
-  "ownerUid": "80YGQAKMY2NAVXCJ",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,9 +27,10 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false
+    "autoWallpaper": false,
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-09-18T12:22:58.695Z",
-  "online": true
+  "ownerUid": "80YGQAKMY2NAVXCJ",
+  "online": false
 }
