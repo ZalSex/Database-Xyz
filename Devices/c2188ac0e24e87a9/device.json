@@ -1,16 +1,18 @@
 {
   "id": "c2188ac0e24e87a9",
   "name": "Infinix NOTE 40 Pro 5G",
+  "socketId": "RhinHOcsPLSrXzlIAADi",
   "info": {
     "sdk": 35,
     "manufacturer": "INFINIX",
     "model": "Infinix X6851",
     "battery": 100,
-    "charging": true,
+    "charging": false,
     "sim": "by.U"
   },
-  "lastSeen": "2026-09-23T04:14:35.417Z",
-  "connectedAt": "2026-09-23T04:13:52.982Z",
+  "connectedAt": "2026-09-23T04:14:57.913Z",
+  "lastSeen": "2026-09-23T04:14:57.913Z",
+  "ownerUid": "N6PCLARMT3BALP07",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": "N6PCLARMT3BALP07",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-23T04:14:57.913Z",
+  "online": true
 }
