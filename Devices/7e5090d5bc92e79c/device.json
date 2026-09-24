@@ -1,16 +1,18 @@
 {
   "id": "7e5090d5bc92e79c",
   "name": "Infinix HOT 9 Play",
+  "socketId": "u14GeqsIxwGD_x6ZAAAa",
   "info": {
     "sdk": 29,
     "manufacturer": "INFINIX MOBILITY LIMITED",
     "model": "Infinix X680",
     "battery": 100,
-    "charging": true,
+    "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-09-24T20:20:14.493Z",
-  "connectedAt": "2026-09-24T18:55:50.079Z",
+  "connectedAt": "2026-09-24T22:49:05.044Z",
+  "lastSeen": "2026-09-24T22:49:05.044Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -27,10 +29,9 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false,
-    "protectionEnabled": true,
-    "protection": true
+    "autoWallpaper": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-24T22:49:05.044Z",
+  "online": true
 }
