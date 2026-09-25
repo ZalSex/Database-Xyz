@@ -1,16 +1,18 @@
 {
   "id": "41680c9d03e3372c",
   "name": "Samsung SM-A217F",
+  "socketId": "MC5CFdDKXxNV8lZAAAFf",
   "info": {
     "sdk": 31,
     "manufacturer": "samsung",
     "model": "SM-A217F",
-    "battery": 30,
+    "battery": 29,
     "charging": false,
     "sim": "Libyana"
   },
-  "lastSeen": "2026-09-25T09:43:48.911Z",
-  "connectedAt": "2026-09-25T09:25:13.418Z",
+  "connectedAt": "2026-09-25T10:09:24.752Z",
+  "lastSeen": "2026-09-25T10:09:24.752Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-09-25T10:09:24.752Z",
+  "online": true
 }
