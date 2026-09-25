@@ -1,26 +1,24 @@
 {
   "id": "0defab23ec4df51e",
   "name": "V2531",
-  "socketId": "Zwb3OPsCptpzwNwaAAAD",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
     "model": "V2531",
-    "battery": 48,
+    "battery": 46,
     "charging": false,
     "sim": "Unknown"
   },
+  "lastSeen": "2026-09-25T02:15:07.871Z",
   "connectedAt": "2026-09-25T01:43:33.368Z",
-  "lastSeen": "2026-09-25T01:43:33.368Z",
-  "ownerUid": "1JY1QLZK2XUTP04C",
   "status": {
     "flashlight": false,
-    "cameraActive": false,
+    "cameraActive": true,
     "videoPlaying": false,
     "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
-    "lockedChat": false,
+    "lockedChat": true,
     "appHidden": false,
     "activeTheme": "default",
     "spamDialog": false,
@@ -29,9 +27,10 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false
+    "autoWallpaper": false,
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-09-25T01:43:33.368Z",
-  "online": true
+  "ownerUid": "1JY1QLZK2XUTP04C",
+  "online": false
 }
