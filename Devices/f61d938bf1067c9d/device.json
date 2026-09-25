@@ -1,18 +1,16 @@
 {
   "id": "f61d938bf1067c9d",
   "name": "TECNO POVA 7 5G",
-  "socketId": "0JgN6IRyApoSnW-OAAG0",
   "info": {
     "sdk": 36,
     "manufacturer": "TECNO",
     "model": "TECNO LJ7",
-    "battery": 37,
+    "battery": 27,
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-09-25T12:25:30.557Z",
   "connectedAt": "2026-09-25T11:47:40.800Z",
-  "lastSeen": "2026-09-25T11:47:40.801Z",
-  "ownerUid": "AL6NLLJRYDYSNP8G",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,9 +27,10 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false
+    "autoWallpaper": false,
+    "protectionEnabled": false,
+    "protection": false
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-09-25T11:47:40.801Z",
-  "online": true
+  "ownerUid": "AL6NLLJRYDYSNP8G",
+  "online": false
 }
