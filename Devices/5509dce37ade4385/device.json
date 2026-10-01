@@ -1,7 +1,6 @@
 {
   "id": "5509dce37ade4385",
   "name": "vivo 1901",
-  "socketId": "EAsqNgKWliFf2cAlAAHg",
   "info": {
     "sdk": 30,
     "manufacturer": "vivo",
@@ -10,9 +9,8 @@
     "charging": false,
     "sim": "No SIM"
   },
+  "lastSeen": "2026-10-01T08:41:00.282Z",
   "connectedAt": "2026-10-01T08:34:12.325Z",
-  "lastSeen": "2026-10-01T08:34:12.325Z",
-  "ownerUid": "2RGYEU0PA3IAUWAH",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -24,14 +22,15 @@
     "appHidden": false,
     "activeTheme": "default",
     "spamDialog": false,
-    "sos": true,
+    "sos": false,
     "virus": false,
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false
+    "autoWallpaper": false,
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-10-01T08:34:12.325Z",
-  "online": true
+  "ownerUid": "2RGYEU0PA3IAUWAH",
+  "online": false
 }
