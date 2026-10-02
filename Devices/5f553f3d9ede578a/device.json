@@ -1,16 +1,18 @@
 {
   "id": "5f553f3d9ede578a",
   "name": "Infinix NOTE Edge",
+  "socketId": "mnJ4ZV3ag7tihGuSAAPj",
   "info": {
     "sdk": 36,
     "manufacturer": "INFINIX",
     "model": "Infinix X6887",
-    "battery": 15,
+    "battery": 14,
     "charging": false,
     "sim": "INDOSATOOREDOO"
   },
-  "lastSeen": "2026-10-02T14:51:12.700Z",
-  "connectedAt": "2026-10-02T14:08:35.744Z",
+  "connectedAt": "2026-10-02T14:51:14.849Z",
+  "lastSeen": "2026-10-02T14:51:14.849Z",
+  "ownerUid": "1JY1QLZK2XUTP04C",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -27,10 +29,9 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false,
-    "protectionEnabled": true,
-    "protection": true
+    "autoWallpaper": false
   },
-  "ownerUid": "1JY1QLZK2XUTP04C",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-02T14:51:14.849Z",
+  "online": true
 }
