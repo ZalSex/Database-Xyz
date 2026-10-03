@@ -1,6 +1,7 @@
 {
   "id": "394cef5e6f66b262",
   "name": "V2310",
+  "socketId": "HWC--o1v9YMOQJh8AAAy",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-10-03T13:20:18.032Z",
-  "connectedAt": "2026-10-03T13:07:28.802Z",
+  "connectedAt": "2026-10-03T13:22:28.338Z",
+  "lastSeen": "2026-10-03T13:22:28.338Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-03T13:22:28.339Z",
+  "online": true
 }
