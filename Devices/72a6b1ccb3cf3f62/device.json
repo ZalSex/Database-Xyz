@@ -1,16 +1,18 @@
 {
   "id": "72a6b1ccb3cf3f62",
   "name": "OPPO CPH2239",
+  "socketId": "CAyyH_FgpN3YY2FKAABB",
   "info": {
     "sdk": 30,
     "manufacturer": "OPPO",
     "model": "CPH2239",
-    "battery": 78,
+    "battery": 77,
     "charging": false,
     "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
-  "lastSeen": "2026-10-03T11:13:42.229Z",
-  "connectedAt": "2026-10-03T11:12:42.572Z",
+  "connectedAt": "2026-10-03T11:15:30.513Z",
+  "lastSeen": "2026-10-03T11:15:30.513Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-03T11:15:30.513Z",
+  "online": true
 }
