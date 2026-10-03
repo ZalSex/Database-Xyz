@@ -1,6 +1,7 @@
 {
   "id": "394cef5e6f66b262",
   "name": "V2310",
+  "socketId": "5qYzTL1-RXnyOoHgAACT",
   "info": {
     "sdk": 35,
     "manufacturer": "vivo",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-10-03T02:51:45.238Z",
-  "connectedAt": "2026-10-03T02:44:37.926Z",
+  "connectedAt": "2026-10-03T02:52:19.506Z",
+  "lastSeen": "2026-10-03T02:52:19.506Z",
+  "ownerUid": "6HT6C9HVSQZEJX0X",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -27,10 +29,9 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false,
-    "protectionEnabled": true,
-    "protection": true
+    "autoWallpaper": false
   },
-  "ownerUid": "6HT6C9HVSQZEJX0X",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-03T02:52:19.506Z",
+  "online": true
 }
