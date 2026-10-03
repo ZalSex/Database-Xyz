@@ -59,5 +59,31 @@
         "frequency": 5745
       }
     ]
+  },
+  {
+    "ts": "2026-10-03T14:33:58.048Z",
+    "list": [
+      {
+        "ssid": "Redmi 9T",
+        "bssid": "6a:c2:f9:8e:bc:f9",
+        "level": -42,
+        "security": "WPA2",
+        "frequency": 2412
+      },
+      {
+        "ssid": "Redmi 10 2022",
+        "bssid": "8e:52:a4:08:11:c2",
+        "level": -71,
+        "security": "WPA2",
+        "frequency": 2437
+      },
+      {
+        "ssid": "Cangkemu",
+        "bssid": "c0:4e:8a:ec:1e:4c",
+        "level": -86,
+        "security": "WPA2",
+        "frequency": 2437
+      }
+    ]
   }
 ]
