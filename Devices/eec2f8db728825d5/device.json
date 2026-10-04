@@ -1,16 +1,18 @@
 {
   "id": "eec2f8db728825d5",
   "name": "OPPO A53",
+  "socketId": "GtE255g1Rtn_O5TxAAHo",
   "info": {
     "sdk": 31,
     "manufacturer": "OPPO",
     "model": "CPH2127",
-    "battery": 45,
+    "battery": 44,
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-10-04T11:39:52.638Z",
-  "connectedAt": "2026-10-04T11:35:16.635Z",
+  "connectedAt": "2026-10-04T11:47:03.923Z",
+  "lastSeen": "2026-10-04T11:47:03.923Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-04T11:47:03.924Z",
+  "online": true
 }
