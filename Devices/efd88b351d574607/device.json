@@ -1,6 +1,7 @@
 {
   "id": "efd88b351d574607",
   "name": "TECNO BG7",
+  "socketId": "4YvpOQqgh8pxigqjAAQQ",
   "info": {
     "sdk": 33,
     "manufacturer": "TECNO",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-10-05T03:09:59.827Z",
-  "connectedAt": "2026-10-05T02:27:47.355Z",
+  "connectedAt": "2026-10-05T03:10:29.218Z",
+  "lastSeen": "2026-10-05T03:10:29.218Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-05T03:10:29.219Z",
+  "online": true
 }
