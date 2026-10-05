@@ -1,16 +1,18 @@
 {
   "id": "7f933793a357bfb2",
   "name": "Redmi A5",
+  "socketId": "UibRnwnjn8jIQacOAAR6",
   "info": {
     "sdk": 35,
     "manufacturer": "Xiaomi",
     "model": "25028RN03A",
-    "battery": 22,
+    "battery": 21,
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-10-05T04:02:35.242Z",
-  "connectedAt": "2026-10-05T03:59:39.745Z",
+  "connectedAt": "2026-10-05T04:04:11.419Z",
+  "lastSeen": "2026-10-05T04:04:11.419Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -29,6 +31,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-05T04:04:11.419Z",
+  "online": true
 }
