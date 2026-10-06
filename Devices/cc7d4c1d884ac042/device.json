@@ -1,18 +1,16 @@
 {
   "id": "cc7d4c1d884ac042",
   "name": "Samsung SM-A155F",
-  "socketId": "4ApzXOllqHA6o_7GAAA_",
   "info": {
     "sdk": 36,
     "manufacturer": "samsung",
     "model": "SM-A155F",
-    "battery": 55,
+    "battery": 54,
     "charging": false,
     "sim": "Vodafone"
   },
+  "lastSeen": "2026-10-06T15:07:22.206Z",
   "connectedAt": "2026-10-06T15:04:27.158Z",
-  "lastSeen": "2026-10-06T15:04:27.158Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -31,7 +29,6 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-10-06T15:04:27.159Z",
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
