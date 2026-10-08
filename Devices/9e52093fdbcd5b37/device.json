@@ -1,18 +1,16 @@
 {
   "id": "9e52093fdbcd5b37",
   "name": "Tecno Pova 2",
-  "socketId": "I4fsH48SNZbAKhH7AAG4",
   "info": {
     "sdk": 30,
     "manufacturer": "TECNO MOBILE LIMITED",
     "model": "TECNO LE7",
-    "battery": 70,
+    "battery": 69,
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-10-08T14:53:53.434Z",
   "connectedAt": "2026-10-08T14:49:31.911Z",
-  "lastSeen": "2026-10-08T14:49:31.911Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -21,7 +19,7 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": true,
+    "appHidden": false,
     "activeTheme": "default",
     "spamDialog": false,
     "sos": false,
@@ -30,9 +28,10 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false
+    "autoWallpaper": false,
+    "protectionEnabled": false,
+    "protection": false
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-10-08T14:49:31.913Z",
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
