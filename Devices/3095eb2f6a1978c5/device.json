@@ -1,16 +1,18 @@
 {
   "id": "3095eb2f6a1978c5",
   "name": "CPH2127",
+  "socketId": "aWzmzCUnBebELcJvAAGW",
   "info": {
     "sdk": 29,
     "manufacturer": "OPPO",
     "model": "CPH2127",
     "battery": 71,
-    "charging": true,
+    "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-10-08T23:28:49.164Z",
-  "connectedAt": "2026-10-08T23:27:53.767Z",
+  "connectedAt": "2026-10-08T23:32:33.291Z",
+  "lastSeen": "2026-10-08T23:32:33.291Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -30,6 +32,7 @@
     "floatPhotos": false,
     "autoWallpaper": false
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-08T23:32:33.291Z",
+  "online": true
 }
