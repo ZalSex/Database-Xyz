@@ -1,16 +1,18 @@
 {
   "id": "88196ccf72c7cd2c",
   "name": "TECNO POVA 7 5G",
+  "socketId": "M2m_x6hHBQn5oGesAABi",
   "info": {
     "sdk": 36,
     "manufacturer": "TECNO",
     "model": "TECNO LJ7",
-    "battery": 43,
+    "battery": 42,
     "charging": false,
     "sim": "XL Axiata"
   },
-  "lastSeen": "2026-10-09T18:28:27.885Z",
-  "connectedAt": "2026-10-09T18:00:15.908Z",
+  "connectedAt": "2026-10-09T18:55:50.459Z",
+  "lastSeen": "2026-10-09T18:55:50.459Z",
+  "ownerUid": "5OLLPFU81MKWGB8Q",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "5OLLPFU81MKWGB8Q",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-09T18:55:50.460Z",
+  "online": true
 }
