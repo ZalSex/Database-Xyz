@@ -1,0 +1,54 @@
+[
+  {
+    "ts": "2026-10-09T18:00:46.745Z",
+    "active": {
+      "currentSsid": "Wina",
+      "currentBssid": "bc:47:32:9a:e5:38",
+      "ipAddress": "192.168.1.6",
+      "linkSpeed": "72 Mbps",
+      "rssi": -66,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-10-10 02:00:46"
+    },
+    "savedNets": [
+      {
+        "ssid": "Laundry",
+        "bssid": "5c:92:5e:56:aa:40",
+        "level": -41,
+        "security": "WPA2",
+        "frequency": 2462,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Wina",
+        "bssid": "bc:47:32:9a:e5:38",
+        "level": -72,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      },
+      {
+        "ssid": "Fathian",
+        "bssid": "dc:a7:82:f6:21:bc",
+        "level": -84,
+        "security": "WPA2",
+        "frequency": 2462,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "Galaxy A10sIlhamila",
+        "bssid": "6e:7a:2f:fe:54:de",
+        "level": -86,
+        "security": "WPA2",
+        "frequency": 2437,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 4
+  }
+]
