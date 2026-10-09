@@ -1,16 +1,18 @@
 {
   "id": "xyz-f1a8a779a662d574",
   "name": "OPPO CPH2591",
+  "socketId": "PO7X6ARwnuaHlMWRAAAH",
   "info": {
     "sdk": 34,
     "manufacturer": "OPPO",
     "model": "CPH2591",
-    "battery": 93,
+    "battery": 91,
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-10-09T03:56:45.242Z",
-  "connectedAt": "2026-10-09T03:56:16.042Z",
+  "connectedAt": "2026-10-09T04:15:52.958Z",
+  "lastSeen": "2026-10-09T04:15:52.958Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -28,8 +30,11 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": false
+    "autoWallpaper": false,
+    "screenColor": false,
+    "screenColorValue": ""
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-09T04:15:52.959Z",
+  "online": true
 }
