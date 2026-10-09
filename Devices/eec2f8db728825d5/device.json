@@ -1,6 +1,7 @@
 {
   "id": "eec2f8db728825d5",
   "name": "OPPO A53",
+  "socketId": "YHlia54a6K1vEFFZAACh",
   "info": {
     "sdk": 31,
     "manufacturer": "OPPO",
@@ -9,8 +10,9 @@
     "charging": true,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-10-09T06:05:57.081Z",
-  "connectedAt": "2026-10-09T06:05:10.528Z",
+  "connectedAt": "2026-10-09T06:06:48.263Z",
+  "lastSeen": "2026-10-09T06:06:48.263Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-09T06:06:48.264Z",
+  "online": true
 }
