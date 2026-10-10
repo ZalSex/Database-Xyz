@@ -1,18 +1,16 @@
 {
   "id": "4517f68c4118170a",
   "name": "V2038",
-  "socketId": "5FPeDVVo50dZbhTVAALJ",
   "info": {
     "sdk": 33,
     "manufacturer": "vivo",
     "model": "V2038",
-    "battery": 54,
+    "battery": 53,
     "charging": false,
     "sim": "No SIM"
   },
+  "lastSeen": "2026-10-10T17:47:00.418Z",
   "connectedAt": "2026-10-10T17:31:20.145Z",
-  "lastSeen": "2026-10-10T17:31:20.145Z",
-  "ownerUid": "1JY1QLZK2XUTP04C",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,9 +30,11 @@
     "floatPhotos": false,
     "autoWallpaper": false,
     "screenColor": false,
-    "screenColorValue": ""
+    "screenColorValue": "",
+    "protectionEnabled": false,
+    "protection": false,
+    "screenSharing": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-10-10T17:31:20.147Z",
-  "online": true
+  "ownerUid": "1JY1QLZK2XUTP04C",
+  "online": false
 }
