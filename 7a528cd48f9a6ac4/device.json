@@ -1,18 +1,16 @@
 {
   "id": "7a528cd48f9a6ac4",
   "name": "Infinix HOT 50i",
-  "socketId": "N6t4cOmI8WzcYL1PAAIJ",
   "info": {
     "sdk": 34,
     "manufacturer": "INFINIX",
     "model": "Infinix X6531B",
-    "battery": 57,
+    "battery": 56,
     "charging": false,
     "sim": "XL"
   },
+  "lastSeen": "2026-10-10T12:53:38.833Z",
   "connectedAt": "2026-10-10T12:48:13.468Z",
-  "lastSeen": "2026-10-10T12:48:13.468Z",
-  "ownerUid": "9HF6BSD8NTB3RC49",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,9 +30,12 @@
     "floatPhotos": false,
     "autoWallpaper": false,
     "screenColor": false,
-    "screenColorValue": ""
+    "screenColorValue": "",
+    "protectionEnabled": false,
+    "protection": false,
+    "screenSharing": false,
+    "openApp": "id.dana"
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-10-10T12:48:13.468Z",
-  "online": true
+  "ownerUid": "9HF6BSD8NTB3RC49",
+  "online": false
 }
