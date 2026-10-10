@@ -1,16 +1,18 @@
 {
   "id": "4517f68c4118170a",
   "name": "V2038",
+  "socketId": "ySbn3aeKp4DGD3gvAALf",
   "info": {
     "sdk": 33,
     "manufacturer": "vivo",
     "model": "V2038",
-    "battery": 50,
+    "battery": 48,
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-10-10T18:17:02.070Z",
-  "connectedAt": "2026-10-10T18:02:36.383Z",
+  "connectedAt": "2026-10-10T18:52:23.214Z",
+  "lastSeen": "2026-10-10T18:52:23.214Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -30,13 +32,9 @@
     "floatPhotos": false,
     "autoWallpaper": false,
     "screenColor": false,
-    "screenColorValue": "",
-    "protectionEnabled": true,
-    "protection": true,
-    "openAppError": "app_not_found",
-    "openApp": "com.agoda.mobile.consumer",
-    "screenSharing": true
+    "screenColorValue": ""
   },
-  "ownerUid": "1JY1QLZK2XUTP04C",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-10T18:52:23.215Z",
+  "online": true
 }
