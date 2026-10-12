@@ -1,0 +1,62 @@
+[
+  {
+    "ts": "2026-10-12T02:52:32.256Z",
+    "towers": {
+      "operator": "Telkomsel",
+      "simOp": "Telkomsel",
+      "netType": "Unknown",
+      "cells": [
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "10",
+          "cid": 55615,
+          "lac": 14054,
+          "arfcn": 783,
+          "dbm": -89,
+          "registered": true
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "10",
+          "cid": 52524,
+          "lac": 14054,
+          "arfcn": 781,
+          "dbm": -97,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "10",
+          "cid": 50066,
+          "lac": 14054,
+          "arfcn": 779,
+          "dbm": -97,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "10",
+          "cid": 61185,
+          "lac": 14054,
+          "arfcn": 784,
+          "dbm": -101,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "10",
+          "cid": 57775,
+          "lac": 14054,
+          "arfcn": 786,
+          "dbm": -101,
+          "registered": false
+        }
+      ]
+    }
+  }
+]
