@@ -1,16 +1,18 @@
 {
   "id": "5efc760362f101e8",
   "name": "Infinix HOT 30",
+  "socketId": "utCyV3tfWuNzDwu2AAEa",
   "info": {
     "sdk": 33,
     "manufacturer": "INFINIX",
     "model": "Infinix X6831",
-    "battery": 90,
+    "battery": 82,
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-10-12T02:56:21.796Z",
-  "connectedAt": "2026-10-12T02:50:42.626Z",
+  "connectedAt": "2026-10-12T04:53:53.648Z",
+  "lastSeen": "2026-10-12T04:53:53.648Z",
+  "ownerUid": "IHHRMV5KGJ3AEX6L",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -30,13 +32,9 @@
     "floatPhotos": false,
     "autoWallpaper": false,
     "screenColor": false,
-    "screenColorValue": "",
-    "protectionEnabled": false,
-    "protection": false,
-    "screenText": false,
-    "screenSharing": false,
-    "openAppError": "app_not_found"
+    "screenColorValue": ""
   },
-  "ownerUid": "IHHRMV5KGJ3AEX6L",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-12T04:53:53.649Z",
+  "online": true
 }
