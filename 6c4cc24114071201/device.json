@@ -1,6 +1,7 @@
 {
   "id": "6c4cc24114071201",
   "name": "OPPO CPH2127",
+  "socketId": "KrJIiSSY2en4uAEvAAEQ",
   "info": {
     "sdk": 30,
     "manufacturer": "OPPO",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-10-13T02:54:02.611Z",
-  "connectedAt": "2026-10-13T02:44:05.459Z",
+  "connectedAt": "2026-10-13T02:58:32.559Z",
+  "lastSeen": "2026-10-13T02:58:32.559Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-13T02:58:32.561Z",
+  "online": true
 }
