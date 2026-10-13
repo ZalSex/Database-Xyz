@@ -1,16 +1,18 @@
 {
   "id": "3c2c34e7c3969928",
   "name": "realme C15 Qualcomm Edition",
+  "socketId": "mbthS6H0QRi38hNsAAXa",
   "info": {
     "sdk": 30,
     "manufacturer": "realme",
     "model": "RMX2195",
-    "battery": 21,
+    "battery": 20,
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-10-13T15:56:47.888Z",
-  "connectedAt": "2026-10-13T15:55:36.421Z",
+  "connectedAt": "2026-10-13T15:56:50.390Z",
+  "lastSeen": "2026-10-13T15:56:50.390Z",
+  "ownerUid": "7YP56HL9UZBDM3KN",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "7YP56HL9UZBDM3KN",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-13T15:56:50.392Z",
+  "online": true
 }
