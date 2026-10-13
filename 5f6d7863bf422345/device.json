@@ -1,16 +1,18 @@
 {
   "id": "5f6d7863bf422345",
   "name": "M2006C3MG",
+  "socketId": "U2OrnV5rFptmUewIAAY5",
   "info": {
     "sdk": 29,
     "manufacturer": "Xiaomi",
     "model": "M2006C3MG",
-    "battery": 0,
+    "battery": 33,
     "charging": false,
     "sim": "3SinyalKuatHemat"
   },
-  "lastSeen": "2026-10-13T16:05:44.240Z",
-  "connectedAt": "2026-10-13T15:14:28.926Z",
+  "connectedAt": "2026-10-13T16:52:26.418Z",
+  "lastSeen": "2026-10-13T16:52:26.418Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-13T16:52:26.421Z",
+  "online": true
 }
