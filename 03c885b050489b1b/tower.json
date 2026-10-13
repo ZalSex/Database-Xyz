@@ -1,0 +1,35 @@
+[
+  {
+    "ts": "2026-10-13T16:25:57.656Z",
+    "towers": {
+      "operator": "",
+      "simOp": "AXIS",
+      "netType": "Unknown",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "11",
+          "ci": 58930545,
+          "pci": 95,
+          "tac": 23702,
+          "earfcn": 39250,
+          "rsrp": -107,
+          "rsrq": -9,
+          "dbm": -107,
+          "registered": true
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "11",
+          "cid": 0,
+          "lac": 0,
+          "arfcn": 0,
+          "dbm": -113,
+          "registered": false
+        }
+      ]
+    }
+  }
+]
