@@ -1,16 +1,18 @@
 {
   "id": "b5433196569e846e",
   "name": "realme Note 60",
+  "socketId": "XN0ZHjffZzbGIOIaAADV",
   "info": {
     "sdk": 34,
     "manufacturer": "realme",
     "model": "RMX3933",
     "battery": 100,
-    "charging": true,
-    "sim": "Unknown"
+    "charging": false,
+    "sim": "XL Axiata"
   },
-  "lastSeen": "2026-10-14T22:56:32.173Z",
-  "connectedAt": "2026-10-14T22:46:27.115Z",
+  "connectedAt": "2026-10-14T23:07:17.549Z",
+  "lastSeen": "2026-10-14T23:07:17.549Z",
+  "ownerUid": "WT49EW4NM15CJ4SC",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "WT49EW4NM15CJ4SC",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-14T23:07:17.557Z",
+  "online": true
 }
