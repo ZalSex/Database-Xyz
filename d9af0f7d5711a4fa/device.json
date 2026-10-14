@@ -1,18 +1,16 @@
 {
   "id": "d9af0f7d5711a4fa",
   "name": "Pixel 4",
-  "socketId": "DyQAqJsvZbI9OzfEAABW",
   "info": {
     "sdk": 28,
     "manufacturer": "google",
     "model": "Pixel 4",
-    "battery": 55,
+    "battery": 53,
     "charging": false,
     "sim": "Telkomsel"
   },
+  "lastSeen": "2026-10-14T13:25:52.957Z",
   "connectedAt": "2026-10-14T13:17:09.243Z",
-  "lastSeen": "2026-10-14T13:17:09.243Z",
-  "ownerUid": "YB1YTKHU3SS2OPJX",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,9 +30,12 @@
     "floatPhotos": false,
     "autoWallpaper": false,
     "screenColor": false,
-    "screenColorValue": ""
+    "screenColorValue": "",
+    "protectionEnabled": true,
+    "protection": true,
+    "wallpaperError": "Unable to resolve host \"dikzmarketpanel.pteroqdactyl.my.id\": No address associated with hostname",
+    "screenSharing": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-10-14T13:17:09.250Z",
-  "online": true
+  "ownerUid": "YB1YTKHU3SS2OPJX",
+  "online": false
 }
