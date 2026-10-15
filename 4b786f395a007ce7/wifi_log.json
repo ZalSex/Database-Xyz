@@ -1,0 +1,90 @@
+[
+  {
+    "ts": "2026-10-15T10:49:49.088Z",
+    "active": {
+      "currentSsid": "RAJAK",
+      "currentBssid": "e0:a1:ce:f2:53:50",
+      "ipAddress": "192.168.1.5",
+      "linkSpeed": "433 Mbps",
+      "rssi": -63,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-10-15 19:49:50"
+    },
+    "savedNets": [
+      {
+        "ssid": "Kosan putri 1",
+        "bssid": "ec:e7:a2:34:4f:38",
+        "security": "Open",
+        "networkId": 0,
+        "status": "DISABLED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "Kosan putri 1",
+        "bssid": "ec:e7:a2:34:4f:38",
+        "security": "Open",
+        "networkId": 0,
+        "status": "DISABLED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "RAJAK",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 1,
+        "status": "SAVED",
+        "isCurrentConnection": true,
+        "priority": 0
+      },
+      {
+        "ssid": "RAJAK",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 1,
+        "status": "SAVED",
+        "isCurrentConnection": true,
+        "priority": 0
+      },
+      {
+        "ssid": "RANUM",
+        "bssid": "",
+        "security": "WPA/WPA2",
+        "networkId": 2,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "RANUM",
+        "bssid": "",
+        "security": "Open",
+        "networkId": 2,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "icall",
+        "bssid": "e4:47:b3:98:5b:74",
+        "security": "WPA/WPA2",
+        "networkId": 3,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      },
+      {
+        "ssid": "icall",
+        "bssid": "e4:47:b3:98:5b:74",
+        "security": "Open",
+        "networkId": 3,
+        "status": "SAVED",
+        "isCurrentConnection": false,
+        "priority": 0
+      }
+    ],
+    "count": 8
+  }
+]
