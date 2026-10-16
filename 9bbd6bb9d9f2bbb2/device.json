@@ -1,16 +1,18 @@
 {
   "id": "9bbd6bb9d9f2bbb2",
   "name": "OPPO A60",
+  "socketId": "tqJOyZzkI3t2jNRBAAAh",
   "info": {
     "sdk": 36,
     "manufacturer": "OPPO",
     "model": "CPH2631",
-    "battery": 30,
+    "battery": 31,
     "charging": true,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-10-16T17:21:40.762Z",
-  "connectedAt": "2026-10-16T17:09:07.047Z",
+  "connectedAt": "2026-10-16T17:21:54.064Z",
+  "lastSeen": "2026-10-16T17:21:54.064Z",
+  "ownerUid": "6H278MH2XYRFBXIP",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -30,20 +32,9 @@
     "floatPhotos": false,
     "autoWallpaper": false,
     "screenColor": false,
-    "screenColorValue": "",
-    "protectionEnabled": true,
-    "protection": true,
-    "wallpaperError": "Unable to resolve host \"dikzmarketpanel.pteroqdactyl.my.id\": No address associated with hostname",
-    "brightness": 100,
-    "audioPlaying": false,
-    "volume_alarm": 100,
-    "volume_call": 100,
-    "volume_media": 100,
-    "volume_notif": 100,
-    "screenText": false,
-    "screenSharing": false,
-    "frozen": false
+    "screenColorValue": ""
   },
-  "ownerUid": "6H278MH2XYRFBXIP",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-16T17:21:54.066Z",
+  "online": true
 }
