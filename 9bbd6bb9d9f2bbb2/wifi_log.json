@@ -1,0 +1,45 @@
+[
+  {
+    "ts": "2026-10-16T17:19:20.049Z",
+    "active": {
+      "currentSsid": "C3laundry",
+      "currentBssid": "ac:51:ab:ff:f4:94",
+      "ipAddress": "192.168.100.33",
+      "linkSpeed": "72 Mbps",
+      "rssi": -57,
+      "macAddress": "02:00:00:00:00:00",
+      "isWifiEnabled": true,
+      "ts": "2026-10-17 00:19:20"
+    },
+    "savedNets": [
+      {
+        "ssid": "C3laundry",
+        "bssid": "ac:51:ab:ff:f4:94",
+        "level": -50,
+        "security": "WPA2",
+        "frequency": 2412,
+        "isCurrentConnection": true,
+        "status": "CONNECTED"
+      },
+      {
+        "ssid": "Mayang",
+        "bssid": "ac:51:ab:ff:db:14",
+        "level": -69,
+        "security": "WPA2",
+        "frequency": 2462,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      },
+      {
+        "ssid": "C3laundry 5g",
+        "bssid": "ac:51:ab:ff:f4:98",
+        "level": -71,
+        "security": "WPA2",
+        "frequency": 5805,
+        "isCurrentConnection": false,
+        "status": "IN_RANGE"
+      }
+    ],
+    "count": 3
+  }
+]
