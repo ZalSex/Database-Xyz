@@ -1,16 +1,18 @@
 {
   "id": "9bbd6bb9d9f2bbb2",
   "name": "OPPO A60",
+  "socketId": "2RIPZbjyG2TE8BUfAABW",
   "info": {
     "sdk": 36,
     "manufacturer": "OPPO",
     "model": "CPH2631",
-    "battery": 71,
-    "charging": true,
+    "battery": 74,
+    "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-10-16T21:14:08.288Z",
-  "connectedAt": "2026-10-16T21:12:54.090Z",
+  "connectedAt": "2026-10-16T21:17:07.946Z",
+  "lastSeen": "2026-10-16T21:17:07.946Z",
+  "ownerUid": "6H278MH2XYRFBXIP",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "6H278MH2XYRFBXIP",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-16T21:17:07.951Z",
+  "online": true
 }
