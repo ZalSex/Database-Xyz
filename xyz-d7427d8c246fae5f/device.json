@@ -1,6 +1,7 @@
 {
   "id": "xyz-d7427d8c246fae5f",
   "name": "INFINIX MOBILITY LIMITED Infinix X6812B",
+  "socketId": "CNx1FqUxQGSpOENoAAov",
   "info": {
     "sdk": 30,
     "manufacturer": "INFINIX MOBILITY LIMITED",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-10-19T15:26:37.284Z",
-  "connectedAt": "2026-10-19T15:26:10.950Z",
+  "connectedAt": "2026-10-19T15:34:26.237Z",
+  "lastSeen": "2026-10-19T15:34:26.237Z",
+  "ownerUid": "HBMWO1CFLC39NPMA",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "HBMWO1CFLC39NPMA",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-19T15:34:26.239Z",
+  "online": true
 }
