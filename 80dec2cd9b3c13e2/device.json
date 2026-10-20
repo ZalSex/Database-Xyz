@@ -1,6 +1,7 @@
 {
   "id": "80dec2cd9b3c13e2",
   "name": "Samsung SM-G965U",
+  "socketId": "7wKuHdO_slOM5WCOABGN",
   "info": {
     "sdk": 29,
     "manufacturer": "samsung",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Roaming Indicator Off"
   },
-  "lastSeen": "2026-10-20T12:44:37.508Z",
-  "connectedAt": "2026-10-20T12:44:10.273Z",
+  "connectedAt": "2026-10-20T12:46:01.166Z",
+  "lastSeen": "2026-10-20T12:46:01.166Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-20T12:46:01.167Z",
+  "online": true
 }
