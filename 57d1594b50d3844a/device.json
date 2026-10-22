@@ -1,16 +1,18 @@
 {
   "id": "57d1594b50d3844a",
   "name": "OPPO CPH2083",
+  "socketId": "g4tA3sTCVgm17KVTAB1A",
   "info": {
     "sdk": 28,
     "manufacturer": "OPPO",
     "model": "CPH2083",
-    "battery": 86,
+    "battery": 84,
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-10-22T06:04:21.101Z",
-  "connectedAt": "2026-10-22T05:35:17.565Z",
+  "connectedAt": "2026-10-22T06:05:14.780Z",
+  "lastSeen": "2026-10-22T06:05:14.780Z",
+  "ownerUid": "2RGYEU0PA3IAUWAH",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "2RGYEU0PA3IAUWAH",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-22T06:05:14.781Z",
+  "online": true
 }
