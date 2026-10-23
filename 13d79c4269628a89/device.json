@@ -1,16 +1,18 @@
 {
   "id": "13d79c4269628a89",
   "name": "itel S665L",
+  "socketId": "YLweR8jYJrFQ0AGsADDc",
   "info": {
     "sdk": 31,
     "manufacturer": "ITEL",
     "model": "itel S665L",
-    "battery": 55,
+    "battery": 54,
     "charging": false,
     "sim": "Ooredoo"
   },
-  "lastSeen": "2026-10-23T13:03:25.954Z",
-  "connectedAt": "2026-10-23T13:02:41.377Z",
+  "connectedAt": "2026-10-23T13:07:15.365Z",
+  "lastSeen": "2026-10-23T13:07:15.365Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-23T13:07:15.366Z",
+  "online": true
 }
