@@ -1,6 +1,7 @@
 {
   "id": "acc679043e4725e3",
   "name": "Xiaomi 2312BPC51X",
+  "socketId": "48e1qtOKycYSHHJkADNk",
   "info": {
     "sdk": 36,
     "manufacturer": "Xiaomi",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "ALG Mobilis"
   },
-  "lastSeen": "2026-10-23T20:44:28.525Z",
-  "connectedAt": "2026-10-23T19:50:55.985Z",
+  "connectedAt": "2026-10-23T20:44:53.900Z",
+  "lastSeen": "2026-10-23T20:44:53.900Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-23T20:44:53.902Z",
+  "online": true
 }
