@@ -1,6 +1,7 @@
 {
   "id": "bb602f36b737d018",
   "name": "HONOR FNE-NX9",
+  "socketId": "Fvar8_2O60QaLrPPADOC",
   "info": {
     "sdk": 34,
     "manufacturer": "HONOR",
@@ -9,8 +10,9 @@
     "charging": true,
     "sim": "Maxis"
   },
-  "lastSeen": "2026-10-23T21:18:50.161Z",
-  "connectedAt": "2026-10-23T20:39:55.619Z",
+  "connectedAt": "2026-10-23T21:20:20.974Z",
+  "lastSeen": "2026-10-23T21:20:20.974Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-23T21:20:20.981Z",
+  "online": true
 }
