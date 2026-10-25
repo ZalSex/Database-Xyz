@@ -1,16 +1,18 @@
 {
   "id": "e4e1929b367a29d1",
   "name": "POCO M4 Pro",
+  "socketId": "rkK8DTTa4EoHzsjaAEZx",
   "info": {
     "sdk": 33,
     "manufacturer": "Xiaomi",
     "model": "2201117PG",
-    "battery": 82,
+    "battery": 79,
     "charging": false,
     "sim": "XL"
   },
-  "lastSeen": "2026-10-25T02:22:01.429Z",
-  "connectedAt": "2026-10-25T02:21:58.410Z",
+  "connectedAt": "2026-10-25T04:14:08.530Z",
+  "lastSeen": "2026-10-25T04:14:08.530Z",
+  "ownerUid": "6H278MH2XYRFBXIP",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "6H278MH2XYRFBXIP",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-25T04:14:08.535Z",
+  "online": true
 }
