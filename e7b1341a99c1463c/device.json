@@ -1,16 +1,18 @@
 {
   "id": "e7b1341a99c1463c",
   "name": "Samsung SM-A127F",
+  "socketId": "KCZWwn4vRPqmV1h0AAlN",
   "info": {
     "sdk": 33,
     "manufacturer": "samsung",
     "model": "SM-A127F",
-    "battery": 70,
+    "battery": 69,
     "charging": false,
     "sim": "StaySafe Libyana"
   },
-  "lastSeen": "2026-10-26T11:53:55.011Z",
-  "connectedAt": "2026-10-26T11:53:44.659Z",
+  "connectedAt": "2026-10-26T11:55:05.729Z",
+  "lastSeen": "2026-10-26T11:55:05.729Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-26T11:55:05.731Z",
+  "online": true
 }
