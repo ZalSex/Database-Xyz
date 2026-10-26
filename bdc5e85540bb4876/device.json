@@ -1,18 +1,16 @@
 {
   "id": "bdc5e85540bb4876",
   "name": "V2027",
-  "socketId": "157C-PcTbDT7iqgBAAzm",
   "info": {
     "sdk": 31,
     "manufacturer": "vivo",
     "model": "V2027",
-    "battery": 39,
+    "battery": 49,
     "charging": true,
     "sim": "by.U"
   },
+  "lastSeen": "2026-10-26T23:56:03.325Z",
   "connectedAt": "2026-10-26T23:43:30.392Z",
-  "lastSeen": "2026-10-26T23:43:30.392Z",
-  "ownerUid": "03AUZE8PXAFVK8J2",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -34,7 +32,6 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-10-26T23:43:30.396Z",
-  "online": true
+  "ownerUid": "03AUZE8PXAFVK8J2",
+  "online": false
 }
