@@ -1,16 +1,18 @@
 {
   "id": "4b786f395a007ce7",
   "name": "OPPO Reno4 F",
+  "socketId": "dVpwmGJusK2GiVm8AA8E",
   "info": {
     "sdk": 31,
     "manufacturer": "OPPO",
     "model": "CPH2209",
-    "battery": 1,
-    "charging": false,
+    "battery": 78,
+    "charging": true,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-10-24T13:10:25.861Z",
-  "connectedAt": "2026-10-24T13:10:04.194Z",
+  "connectedAt": "2026-10-27T04:12:23.700Z",
+  "lastSeen": "2026-10-27T04:12:23.700Z",
+  "ownerUid": "HZ1LOT1DNX0LX8F9",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "HZ1LOT1DNX0LX8F9",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-10-27T04:12:23.707Z",
+  "online": true
 }
