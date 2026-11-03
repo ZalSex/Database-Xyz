@@ -1,18 +1,16 @@
 {
   "id": "e2071210f710bd88",
   "name": "realme C15",
-  "socketId": "oJxbWZO8W4CJizRLAAGS",
   "info": {
     "sdk": 30,
     "manufacturer": "realme",
     "model": "RMX2180",
     "battery": 100,
-    "charging": true,
+    "charging": false,
     "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
+  "lastSeen": "2026-11-03T23:02:51.323Z",
   "connectedAt": "2026-11-03T22:59:49.759Z",
-  "lastSeen": "2026-11-03T22:59:49.759Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -34,7 +32,6 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-11-03T22:59:49.759Z",
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
