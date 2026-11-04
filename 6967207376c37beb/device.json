@@ -1,16 +1,18 @@
 {
   "id": "6967207376c37beb",
   "name": "V2424",
+  "socketId": "X52UqGEJyXqqRBHiAAGB",
   "info": {
     "sdk": 36,
     "manufacturer": "vivo",
     "model": "V2424",
-    "battery": 100,
+    "battery": 53,
     "charging": false,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-11-04T12:25:39.601Z",
-  "connectedAt": "2026-11-04T12:25:37.993Z",
+  "connectedAt": "2026-11-04T18:26:04.045Z",
+  "lastSeen": "2026-11-04T18:26:04.045Z",
+  "ownerUid": "16NTWSI1I20J967P",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "16NTWSI1I20J967P",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-04T18:26:04.046Z",
+  "online": true
 }
