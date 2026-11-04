@@ -1,16 +1,18 @@
 {
   "id": "f76576ac963ee9da",
   "name": "Redmi Note 11 Pro 5G",
+  "socketId": "OQ4hyQge8fucqXIwAAGY",
   "info": {
     "sdk": 33,
     "manufacturer": "Xiaomi",
     "model": "2201116SG",
-    "battery": 47,
+    "battery": 3,
     "charging": false,
     "sim": "XL"
   },
-  "lastSeen": "2026-11-04T14:15:38.251Z",
-  "connectedAt": "2026-11-04T13:28:41.889Z",
+  "connectedAt": "2026-11-04T22:12:37.988Z",
+  "lastSeen": "2026-11-04T22:12:37.988Z",
+  "ownerUid": "X11LT3ESIQM6SB9Y",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -30,12 +32,9 @@
     "floatPhotos": false,
     "autoWallpaper": false,
     "screenColor": false,
-    "screenColorValue": "",
-    "protectionEnabled": true,
-    "protection": true,
-    "openAppError": "app_not_found",
-    "openApp": "com.miui.gallery"
+    "screenColorValue": ""
   },
-  "ownerUid": "X11LT3ESIQM6SB9Y",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-04T22:12:37.989Z",
+  "online": true
 }
