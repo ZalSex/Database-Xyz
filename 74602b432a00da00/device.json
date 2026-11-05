@@ -1,16 +1,18 @@
 {
   "id": "74602b432a00da00",
   "name": "OPPO A16",
+  "socketId": "6TJ0uWabBXaUpxFXAAaG",
   "info": {
     "sdk": 30,
     "manufacturer": "OPPO",
     "model": "CPH2269",
-    "battery": 89,
+    "battery": 90,
     "charging": true,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-11-05T22:40:57.204Z",
-  "connectedAt": "2026-11-05T22:39:37.431Z",
+  "connectedAt": "2026-11-05T22:41:54.564Z",
+  "lastSeen": "2026-11-05T22:41:54.564Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-05T22:41:54.565Z",
+  "online": true
 }
