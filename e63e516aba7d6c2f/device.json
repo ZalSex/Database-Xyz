@@ -1,16 +1,18 @@
 {
   "id": "e63e516aba7d6c2f",
   "name": "Samsung SM-A235F",
+  "socketId": "nGMp1fv8fgseqcODAAgI",
   "info": {
     "sdk": 32,
     "manufacturer": "Samsung",
     "model": "SM-A235F",
-    "battery": 88,
+    "battery": 70,
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-11-06T00:11:28.615Z",
-  "connectedAt": "2026-11-05T15:54:02.833Z",
+  "connectedAt": "2026-11-06T02:47:30.168Z",
+  "lastSeen": "2026-11-06T02:47:30.168Z",
+  "ownerUid": "1JY1QLZK2XUTP04C",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "1JY1QLZK2XUTP04C",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-06T02:47:30.168Z",
+  "online": true
 }
