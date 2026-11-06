@@ -1,16 +1,18 @@
 {
   "id": "f18589bc809e2ed3",
   "name": "Redmi 10C",
+  "socketId": "4tAILp-EdVo4moCbAAy1",
   "info": {
     "sdk": 31,
     "manufacturer": "Xiaomi",
     "model": "220333QAG",
-    "battery": 34,
+    "battery": 90,
     "charging": false,
-    "sim": "MY MAXIS"
+    "sim": "Unknown"
   },
-  "lastSeen": "2026-11-05T15:04:25.481Z",
-  "connectedAt": "2026-11-05T13:33:38.917Z",
+  "connectedAt": "2026-11-06T13:30:22.589Z",
+  "lastSeen": "2026-11-06T13:30:22.589Z",
+  "ownerUid": "Q3J7NLZC5K64CKC9",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "Q3J7NLZC5K64CKC9",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-06T13:30:22.589Z",
+  "online": true
 }
