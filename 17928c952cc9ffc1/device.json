@@ -1,18 +1,16 @@
 {
   "id": "17928c952cc9ffc1",
   "name": "V2110",
-  "socketId": "L28lzflvcNX22uIhAAmi",
   "info": {
     "sdk": 33,
     "manufacturer": "vivo",
     "model": "V2110",
-    "battery": 94,
+    "battery": 92,
     "charging": false,
     "sim": "XL Axiata"
   },
+  "lastSeen": "2026-11-06T06:55:38.229Z",
   "connectedAt": "2026-11-06T06:47:10.338Z",
-  "lastSeen": "2026-11-06T06:47:10.338Z",
-  "ownerUid": "PTWOL4DK4VYRWMHB",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -30,11 +28,12 @@
     "networkLocked": false,
     "freezeScreen": false,
     "floatPhotos": false,
-    "autoWallpaper": true,
+    "autoWallpaper": false,
     "screenColor": false,
-    "screenColorValue": ""
+    "screenColorValue": "",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-11-06T06:47:10.339Z",
-  "online": true
+  "ownerUid": "PTWOL4DK4VYRWMHB",
+  "online": false
 }
