@@ -1,6 +1,7 @@
 {
   "id": "e2071210f710bd88",
   "name": "realme C15",
+  "socketId": "gbgZCV2Fsv7aTB3PAAml",
   "info": {
     "sdk": 30,
     "manufacturer": "realme",
@@ -9,13 +10,14 @@
     "charging": false,
     "sim": "Smartfren Jagoan Sinyal Se-Indonesia"
   },
-  "lastSeen": "2026-11-06T06:49:22.222Z",
-  "connectedAt": "2026-11-06T04:09:11.104Z",
+  "connectedAt": "2026-11-06T06:49:50.590Z",
+  "lastSeen": "2026-11-06T06:49:50.590Z",
+  "ownerUid": "XNGWTCRJK0Q4JKLV",
   "status": {
     "flashlight": false,
     "cameraActive": false,
     "videoPlaying": false,
-    "wallpaperSet": true,
+    "wallpaperSet": false,
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
@@ -30,13 +32,9 @@
     "floatPhotos": false,
     "autoWallpaper": false,
     "screenColor": false,
-    "screenColorValue": "",
-    "protectionEnabled": true,
-    "protection": true,
-    "screenSharing": true,
-    "screenText": false,
-    "audioPlaying": false
+    "screenColorValue": ""
   },
-  "ownerUid": "XNGWTCRJK0Q4JKLV",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-06T06:49:50.590Z",
+  "online": true
 }
