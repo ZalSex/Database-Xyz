@@ -1,0 +1,98 @@
+[
+  {
+    "ts": "2026-11-08T02:23:12.222Z",
+    "towers": {
+      "operator": "Smartfren Jagoan Sinyal Se-Indonesia",
+      "simOp": "smartfren",
+      "netType": "LTE (4G)",
+      "cells": [
+        {
+          "type": "LTE",
+          "mcc": "510",
+          "mnc": "11",
+          "ci": 130912644,
+          "pci": 245,
+          "tac": 51621,
+          "earfcn": 2450,
+          "rsrp": -83,
+          "rsrq": -12,
+          "dbm": -83,
+          "registered": true
+        },
+        {
+          "type": "LTE",
+          "mcc": "-",
+          "mnc": "-",
+          "ci": 268435455,
+          "pci": 130,
+          "tac": 65535,
+          "earfcn": 325,
+          "rsrp": -95,
+          "rsrq": -16,
+          "dbm": -95,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "21",
+          "cid": 48672,
+          "lac": 4810,
+          "arfcn": 26,
+          "dbm": -67,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "21",
+          "cid": 39117,
+          "lac": 4810,
+          "arfcn": 85,
+          "dbm": -69,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "21",
+          "cid": 39118,
+          "lac": 4810,
+          "arfcn": 79,
+          "dbm": -77,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "21",
+          "cid": 48671,
+          "lac": 4810,
+          "arfcn": 87,
+          "dbm": -81,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "21",
+          "cid": 29057,
+          "lac": 4810,
+          "arfcn": 82,
+          "dbm": -87,
+          "registered": false
+        },
+        {
+          "type": "GSM",
+          "mcc": "510",
+          "mnc": "21",
+          "cid": 48673,
+          "lac": 4810,
+          "arfcn": 80,
+          "dbm": -93,
+          "registered": false
+        }
+      ]
+    }
+  }
+]
