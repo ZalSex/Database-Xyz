@@ -1,18 +1,16 @@
 {
   "id": "a0544fc66a264234",
   "name": "Redmi S2",
-  "socketId": "S7YmLHTcTXdsxFrqAAqI",
   "info": {
     "sdk": 28,
     "manufacturer": "Xiaomi",
     "model": "Redmi S2",
-    "battery": 82,
+    "battery": 20,
     "charging": false,
     "sim": "XL"
   },
-  "connectedAt": "2026-11-08T04:16:21.741Z",
-  "lastSeen": "2026-11-08T04:16:21.741Z",
-  "ownerUid": "MUELWGWXY2P4THQJ",
+  "lastSeen": "2026-11-08T09:12:31.827Z",
+  "connectedAt": "2026-11-08T08:24:47.434Z",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,9 +30,10 @@
     "floatPhotos": false,
     "autoWallpaper": false,
     "screenColor": false,
-    "screenColorValue": ""
+    "screenColorValue": "",
+    "protectionEnabled": true,
+    "protection": true
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-11-08T04:16:21.742Z",
-  "online": true
+  "ownerUid": "MUELWGWXY2P4THQJ",
+  "online": false
 }
