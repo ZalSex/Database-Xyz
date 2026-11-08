@@ -1,18 +1,16 @@
 {
   "id": "e755d47bb1bd305c",
   "name": "Infinix HOT 11 Play",
-  "socketId": "oMPhYUWdVCEgr1U4AAKE",
   "info": {
     "sdk": 30,
     "manufacturer": "INFINIX MOBILITY LIMITED",
     "model": "Infinix X688B",
-    "battery": 4,
+    "battery": 0,
     "charging": false,
-    "sim": "Unknown"
+    "sim": "No SIM"
   },
+  "lastSeen": "2026-11-08T15:47:26.974Z",
   "connectedAt": "2026-11-08T15:43:15.815Z",
-  "lastSeen": "2026-11-08T15:43:15.815Z",
-  "ownerUid": "MUELWGWXY2P4THQJ",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -34,7 +32,6 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-11-08T15:43:15.815Z",
-  "online": true
+  "ownerUid": "MUELWGWXY2P4THQJ",
+  "online": false
 }
