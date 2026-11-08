@@ -1,6 +1,7 @@
 {
   "id": "b5433196569e846e",
   "name": "realme Note 60",
+  "socketId": "d5ZZsHc1F8_wZxUpAAPx",
   "info": {
     "sdk": 34,
     "manufacturer": "realme",
@@ -9,8 +10,9 @@
     "charging": true,
     "sim": "Unknown"
   },
-  "lastSeen": "2026-11-08T20:15:40.972Z",
-  "connectedAt": "2026-11-08T19:37:37.333Z",
+  "connectedAt": "2026-11-08T20:15:47.086Z",
+  "lastSeen": "2026-11-08T20:15:47.086Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-08T20:15:47.086Z",
+  "online": true
 }
