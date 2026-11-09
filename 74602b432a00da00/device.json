@@ -1,6 +1,7 @@
 {
   "id": "74602b432a00da00",
   "name": "OPPO A16",
+  "socketId": "iHEKC9ZJGfuXN8BiAAlm",
   "info": {
     "sdk": 30,
     "manufacturer": "OPPO",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-11-09T07:20:56.089Z",
-  "connectedAt": "2026-11-09T07:19:48.973Z",
+  "connectedAt": "2026-11-09T07:29:56.863Z",
+  "lastSeen": "2026-11-09T07:29:56.863Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-09T07:29:56.863Z",
+  "online": true
 }
