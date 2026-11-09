@@ -1,16 +1,18 @@
 {
   "id": "e2071210f710bd88",
   "name": "Realme RMX2180",
+  "socketId": "fLaJFjqqiy_4zHe2AAqs",
   "info": {
     "sdk": 30,
     "manufacturer": "realme",
     "model": "RMX2180",
-    "battery": 34,
+    "battery": 33,
     "charging": false,
     "sim": "Indosat Ooredoo"
   },
-  "lastSeen": "2026-11-09T10:15:41.722Z",
-  "connectedAt": "2026-11-09T10:14:44.882Z",
+  "connectedAt": "2026-11-09T10:15:55.612Z",
+  "lastSeen": "2026-11-09T10:15:55.612Z",
+  "ownerUid": "09E6WG60DU063BS7",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "09E6WG60DU063BS7",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-09T10:15:55.612Z",
+  "online": true
 }
