@@ -1,16 +1,18 @@
 {
   "id": "d9af0f7d5711a4fa",
   "name": "Pixel 4",
+  "socketId": "E5wtU_gyuqR_BcJxAAIz",
   "info": {
     "sdk": 28,
     "manufacturer": "google",
     "model": "Pixel 4",
-    "battery": 25,
-    "charging": false,
+    "battery": 18,
+    "charging": true,
     "sim": "Telkomsel"
   },
-  "lastSeen": "2026-10-18T02:22:30.466Z",
-  "connectedAt": "2026-10-18T02:21:46.624Z",
+  "connectedAt": "2026-11-09T13:05:44.966Z",
+  "lastSeen": "2026-11-09T13:05:44.966Z",
+  "ownerUid": "YB1YTKHU3SS2OPJX",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -19,7 +21,7 @@
     "locked": false,
     "lockedV2": false,
     "lockedChat": false,
-    "appHidden": true,
+    "appHidden": false,
     "activeTheme": "default",
     "spamDialog": false,
     "sos": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": "YB1YTKHU3SS2OPJX",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-09T13:05:44.966Z",
+  "online": true
 }
