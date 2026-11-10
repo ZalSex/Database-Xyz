@@ -1,16 +1,18 @@
 {
   "id": "b06285bdbd668f82",
   "name": " Samsung m12.ram 4/26gb",
+  "socketId": "eLCtx_nJQNA2Rq4RAADt",
   "info": {
     "sdk": 33,
     "manufacturer": "samsung",
     "model": "SM-M127F",
-    "battery": 54,
+    "battery": 53,
     "charging": false,
     "sim": "XL"
   },
-  "lastSeen": "2026-11-10T20:28:34.012Z",
-  "connectedAt": "2026-11-10T20:05:26.386Z",
+  "connectedAt": "2026-11-10T20:30:44.888Z",
+  "lastSeen": "2026-11-10T20:30:44.888Z",
+  "ownerUid": "7ATGQ0328YMU16L0",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -30,10 +32,9 @@
     "floatPhotos": false,
     "autoWallpaper": false,
     "screenColor": false,
-    "screenColorValue": "",
-    "protectionEnabled": true,
-    "protection": true
+    "screenColorValue": ""
   },
-  "ownerUid": "7ATGQ0328YMU16L0",
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-10T20:30:44.889Z",
+  "online": true
 }
