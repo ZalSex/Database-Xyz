@@ -1,18 +1,16 @@
 {
   "id": "baa78301b2c7768f",
   "name": "A04 milik No name",
-  "socketId": "45zRzKf_rym0eGRNAADY",
   "info": {
     "sdk": 34,
     "manufacturer": "samsung",
     "model": "SM-A045F",
-    "battery": 23,
-    "charging": false,
+    "battery": 24,
+    "charging": true,
     "sim": "XL"
   },
+  "lastSeen": "2026-11-10T20:02:39.869Z",
   "connectedAt": "2026-11-10T19:54:40.737Z",
-  "lastSeen": "2026-11-10T19:54:40.737Z",
-  "ownerUid": "7ATGQ0328YMU16L0",
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -34,7 +32,6 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-11-10T19:54:40.737Z",
-  "online": true
+  "ownerUid": "7ATGQ0328YMU16L0",
+  "online": false
 }
