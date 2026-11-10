@@ -1,6 +1,7 @@
 {
   "id": "5abd3a88076e660f",
   "name": "Samsung SM-M205G",
+  "socketId": "n0uQOn8fqaWLEKb8AAR2",
   "info": {
     "sdk": 29,
     "manufacturer": "samsung",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "No SIM"
   },
-  "lastSeen": "2026-11-10T10:07:04.920Z",
-  "connectedAt": "2026-11-10T08:21:22.894Z",
+  "connectedAt": "2026-11-10T10:09:42.523Z",
+  "lastSeen": "2026-11-10T10:09:42.523Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-10T10:09:42.524Z",
+  "online": true
 }
