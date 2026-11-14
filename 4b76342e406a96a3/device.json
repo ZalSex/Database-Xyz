@@ -1,18 +1,16 @@
 {
   "id": "4b76342e406a96a3",
   "name": "OPPO A38",
-  "socketId": "FS9z6ZhDeF3dfNI-AADQ",
   "info": {
     "sdk": 35,
     "manufacturer": "OPPO",
     "model": "CPH2579",
     "battery": 100,
-    "charging": true,
+    "charging": false,
     "sim": "3"
   },
+  "lastSeen": "2026-11-14T18:07:52.187Z",
   "connectedAt": "2026-11-14T18:05:47.586Z",
-  "lastSeen": "2026-11-14T18:05:47.586Z",
-  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -34,7 +32,6 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "accessibilityActive": false,
-  "accessibilityLastSeen": "2026-11-14T18:05:47.587Z",
-  "online": true
+  "ownerUid": null,
+  "online": false
 }
