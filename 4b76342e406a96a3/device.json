@@ -1,6 +1,7 @@
 {
   "id": "4b76342e406a96a3",
   "name": "OPPO A38",
+  "socketId": "kks3OWUQASGBl8t0AAFy",
   "info": {
     "sdk": 35,
     "manufacturer": "OPPO",
@@ -9,8 +10,9 @@
     "charging": false,
     "sim": "3"
   },
-  "lastSeen": "2026-11-17T00:36:52.781Z",
-  "connectedAt": "2026-11-17T00:35:07.284Z",
+  "connectedAt": "2026-11-17T00:51:54.014Z",
+  "lastSeen": "2026-11-17T00:51:54.014Z",
+  "ownerUid": null,
   "status": {
     "flashlight": false,
     "cameraActive": false,
@@ -32,6 +34,7 @@
     "screenColor": false,
     "screenColorValue": ""
   },
-  "ownerUid": null,
-  "online": false
+  "accessibilityActive": false,
+  "accessibilityLastSeen": "2026-11-17T00:51:54.014Z",
+  "online": true
 }
